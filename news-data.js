@@ -1,8 +1,19 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-14T23:37:24.379266",
+  "generated": "2026-07-15T00:32:43.078571",
   "en": {
     "top": [
+      {
+        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
+        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:20:26+00:00",
+        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India strengthens global leadership in food standards at Codex Alimentarius Commission session",
         "summary": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It […]",
@@ -44,17 +55,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:10:26+00:00",
         "link": "https://newsonair.gov.in/india-expects-international-community-to-hold-pakistan-fully-accountable-for-its-misdeeds-in-pojk/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/MEA-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
-        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
-        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. Government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:00:26+00:00",
-        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -138,6 +138,17 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
+        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:20:26+00:00",
+        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India strengthens global leadership in food standards at Codex Alimentarius Commission session",
         "summary": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It […]",
         "article": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It reinforces India&#8217;s contribution to the development of science-based international food standards. The Indian delegation, led by Rajit Punhani, Chief Executive Officer, Food Safety and Standards Authority of India participated actively in the Commission’sdeliberations along with technical experts. In an another major achievement, the Commission approved India&#8217;s proposal to undertake new work for the development of a Codex Standard for Cashew Kernels. The Commission also adopted the Codex Standards for Dried Coriander Seeds and Fresh Curry Leaves, both developed under India&#8217;s chairmanship. The Standard for Dried Coriander Seeds would facilitate trade in one of the world&#8217;s most widely traded spices, while the Standard for Fresh Curry Leaves provides an international benchmark for this regionally important culinary herb. India has also been elected Co-Chair of the Electronic Working Group established regarding New Food Sources and Production Systems. It will review existing regulatory frameworks, identify gaps in Codex risk analysis principles, and consider the need for any future Codex guidance. The Ministry said that India remains committed to working closely with the Codex Alimentarius Commission, Food and Agriculture Oganisation, World Health Organisaiton and Member Countries in developing science-based, transparent and globally harmonized food standards that support food safety, consumer protection and fair trade.",
@@ -167,17 +178,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:10:40+00:00",
         "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
-        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
-        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. Government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:00:26+00:00",
-        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -250,6 +250,17 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
+        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:20:26+00:00",
+        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India strengthens global leadership in food standards at Codex Alimentarius Commission session",
         "summary": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It […]",
         "article": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It reinforces India&#8217;s contribution to the development of science-based international food standards. The Indian delegation, led by Rajit Punhani, Chief Executive Officer, Food Safety and Standards Authority of India participated actively in the Commission’sdeliberations along with technical experts. In an another major achievement, the Commission approved India&#8217;s proposal to undertake new work for the development of a Codex Standard for Cashew Kernels. The Commission also adopted the Codex Standards for Dried Coriander Seeds and Fresh Curry Leaves, both developed under India&#8217;s chairmanship. The Standard for Dried Coriander Seeds would facilitate trade in one of the world&#8217;s most widely traded spices, while the Standard for Fresh Curry Leaves provides an international benchmark for this regionally important culinary herb. India has also been elected Co-Chair of the Electronic Working Group established regarding New Food Sources and Production Systems. It will review existing regulatory frameworks, identify gaps in Codex risk analysis principles, and consider the need for any future Codex guidance. The Ministry said that India remains committed to working closely with the Codex Alimentarius Commission, Food and Agriculture Oganisation, World Health Organisaiton and Member Countries in developing science-based, transparent and globally harmonized food standards that support food safety, consumer protection and fair trade.",
@@ -279,17 +290,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:10:40+00:00",
         "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
-        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
-        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. Government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:00:26+00:00",
-        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -362,6 +362,17 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
+        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
+        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. The government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T00:20:26+00:00",
+        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "India strengthens global leadership in food standards at Codex Alimentarius Commission session",
         "summary": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It […]",
         "article": "India has achieved significant milestones at the 49th Session of the Codex Alimentarius Commission (CAC49) held in Geneva in Switzerland. The session was organised from 6th to 10th of this month. Ministry of Health and Family Welfare has said that the Commission adopted seven Codex standards and guidelines developed under India&#8217;s chairmanship andco-chairmanship. It reinforces India&#8217;s contribution to the development of science-based international food standards. The Indian delegation, led by Rajit Punhani, Chief Executive Officer, Food Safety and Standards Authority of India participated actively in the Commission’sdeliberations along with technical experts. In an another major achievement, the Commission approved India&#8217;s proposal to undertake new work for the development of a Codex Standard for Cashew Kernels. The Commission also adopted the Codex Standards for Dried Coriander Seeds and Fresh Curry Leaves, both developed under India&#8217;s chairmanship. The Standard for Dried Coriander Seeds would facilitate trade in one of the world&#8217;s most widely traded spices, while the Standard for Fresh Curry Leaves provides an international benchmark for this regionally important culinary herb. India has also been elected Co-Chair of the Electronic Working Group established regarding New Food Sources and Production Systems. It will review existing regulatory frameworks, identify gaps in Codex risk analysis principles, and consider the need for any future Codex guidance. The Ministry said that India remains committed to working closely with the Codex Alimentarius Commission, Food and Agriculture Oganisation, World Health Organisaiton and Member Countries in developing science-based, transparent and globally harmonized food standards that support food safety, consumer protection and fair trade.",
@@ -391,17 +402,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T15:10:40+00:00",
         "link": "https://newsonair.gov.in/audit-process-in-madhya-pradesh-fully-digital-through-drashti/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Drishti.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India expanding its nuclear power with 24 power reactors and 8.78 Gigawatt capacity",
-        "summary": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural […]",
-        "article": "India is currently operating 24 nuclear power reactors across seven sites with a total installed capacity of 8.78 Gigawatt. Ten more reactor units with a combined capacity of eight thousand Megawatt are under construction. These reactors are Pressurised Heavy Water Reactors, Boiling Water Reactors and Light Water Reactors. The country is mainly using natural uranium fuel to run the Pressurised Heavy Water Reactors to produce nuclear energy. Government said that India is steadily expanding its nuclear power programme to strengthen energy security and support clean economic growth. A major outcome of the 3rd India-Australia Annual summit, which was held in Melbourne last week, was the finalisation of the Administrative Arrangement under the India-Australia Civil Nuclear Cooperation Agreement. It enables long-term exports of Australian uranium to India for peaceful purposes. The Australian uranium will ensure a steady supply of the primary fuel to run these nuclear power reactors.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T15:00:26+00:00",
-        "link": "https://newsonair.gov.in/india-expanding-its-nuclear-power-with-24-power-reactors-and-8-78-gigawatt-capacity/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Nuke.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1131,28 +1131,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-14T13:02:54+00:00",
         "link": "https://newsonair.gov.in/hi/agriculture-minister-shivraj-singh-chouhan-announced-four-agricultural-research-centers-in-west-bengal-2/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/west-bengal-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फ्रांस: राष्ट्रपति मैक्रों ने बैस्टिल दिवस समारोह की मेजबानी की",
-        "summary": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में […]",
-        "article": "फ्रांस में आज बैस्टिल दिवस मनाया जा रहा है। इस मौके पर पेरिस में आयोजित वार्षिक सैन्य परेड में पूरे यूरोप की एकजुटता दिखाई दी, जिसमें कई यूरोपीय देशों के सैनिकों और विमानों ने हिस्सा लिया। फ्रांस के राष्ट्रपति इमैनुएल मैक्रों ने अपने कार्यकाल के अंतिम बैस्टिल दिवस समारोह की मेजबानी की। समारोह में यूक्रेन के राष्ट्रपति वोलोदिमिर जेलेंस्की सहित करीब 30 देशों के नेता शामिल हुए। इस दौरान यूरोप की सामूहिक सुरक्षा के प्रति प्रतिबद्धता को रेखांकित किया गया। परेड में यूक्रेन के सैनिकों, फ्रांस में प्रशिक्षित यूक्रेनी लड़ाकू विमान पायलटों और करीब छह हजार आठ सौ सैनिकों ने भाग लिया, जो इस आयोजन के इतिहास में सबसे बड़ी भागीदारी है। प्रत्&#x200d;येक वर्ष 14 जुलाई को मनाया जाने वाला बैस्टिल दिवस वर्ष 1789 में बैस्टिल जेल पर हुए हमले की याद में मनाया जाता है।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T11:18:02+00:00",
-        "link": "https://newsonair.gov.in/hi/france-president-emmanuel-macron-leads-bastille-day-celebration-in-paris/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/francew-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "फीफा विश्व कप के पहले सेमीफाइनल में आज रात फ़्रांस का मुकाबला स्पेन से",
-        "summary": "फीफा फुटबॉल विश्‍व कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फ़ाइनल में जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में विश्‍व कप जीतने के बाद इस बार विश्‍व […]",
-        "article": "फीफा फुटबॉल विश्&#x200d;व कप में आज रात टेक्सास के डलास स्टेडियम में पहला सेमी-फ़ाइनल फ़्रांस और स्पेन के बीच खेला जाएगा। यह मैच भारतीय समयानुसार रात साढ़े बारह बजे शुरू होगा। फ़्रांस लगातार तीसरी बार फ़ाइनल में जगह पक्की करने की कोशिश करेगा। वहीं, स्पेन 2010 में विश्&#x200d;व कप जीतने के बाद इस बार विश्&#x200d;व कप फ़ाइनल में पहुंचने की कोशिश करेगा।",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T09:33:26+00:00",
-        "link": "https://newsonair.gov.in/hi/france-spain-clash-in-first-fifa-world-cup-semifinal-tonight/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/FIFA-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
