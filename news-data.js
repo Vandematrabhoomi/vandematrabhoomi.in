@@ -1,41 +1,8 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-15T07:27:28.427520",
+  "generated": "2026-07-15T07:32:27.830421",
   "en": {
     "top": [
-      {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
-        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:23:11+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
-        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
-        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:19:43+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
       {
         "title": "India says confidence in UN declining over lack of Security Council reforms",
         "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
@@ -66,17 +33,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T05:46:47+00:00",
         "link": "https://newsonair.gov.in/lok-sabha-speaker-om-birla-greets-youth-on-world-youth-skills-day/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:39:32+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/piyush.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -133,44 +89,59 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "post_id": 1739063,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "post_id": 1738994,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "post_id": 1738935,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:39:32+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
+        "post_id": 1738766,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "breaking": [
       {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
-        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:23:11+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
-        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
-        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:19:43+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
         "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
         "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
@@ -193,17 +164,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:39:32+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/piyush.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
         "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
         "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
@@ -211,320 +171,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T02:32:58+00:00",
         "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
-        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
-        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:14:09+00:00",
-        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government launches first trial Index of Services Production for formal services sector",
-        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
-        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:30:09+00:00",
-        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
-        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
-        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:18:10+00:00",
-        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "national": [
-      {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
-        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:23:11+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
-        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
-        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:19:43+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
-        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
-        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:10:40+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
-        "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
-        "article": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended his greetings to the skilled youth of India and the world on World Youth Skills Day and said that skills and technology are essential for self-reliance. &nbsp; Mr Birla urged every young person in the country to embrace modern skills and innovation, expressing confidence that this would enable India to emerge as one of the world&#8217;s most capable and leading nations in the years to come.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:46:47+00:00",
-        "link": "https://newsonair.gov.in/lok-sabha-speaker-om-birla-greets-youth-on-world-youth-skills-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:39:32+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/piyush.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
-        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
-        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:32:58+00:00",
-        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
-        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
-        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:14:09+00:00",
-        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government launches first trial Index of Services Production for formal services sector",
-        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
-        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:30:09+00:00",
-        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
-        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
-        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:18:10+00:00",
-        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "politics": [
-      {
-        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
-        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
-        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:19:17+00:00",
-        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
-        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:23:11+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
-        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
-        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:19:43+00:00",
-        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
-        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
-        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:10:40+00:00",
-        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
-        "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
-        "article": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended his greetings to the skilled youth of India and the world on World Youth Skills Day and said that skills and technology are essential for self-reliance. &nbsp; Mr Birla urged every young person in the country to embrace modern skills and innovation, expressing confidence that this would enable India to emerge as one of the world&#8217;s most capable and leading nations in the years to come.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:46:47+00:00",
-        "link": "https://newsonair.gov.in/lok-sabha-speaker-om-birla-greets-youth-on-world-youth-skills-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
-        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
-        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T05:39:32+00:00",
-        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/piyush.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
-        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
-        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:32:58+00:00",
-        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
-        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
-        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:14:09+00:00",
-        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government launches first trial Index of Services Production for formal services sector",
-        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
-        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:30:09+00:00",
-        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
-        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
-        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T02:18:10+00:00",
-        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      }
-    ],
-    "world": [
-      {
-        "title": "India says confidence in UN declining over lack of Security Council reforms",
-        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
-        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T06:14:11+00:00",
-        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM Dr S Jaishankar, EU’s Kaja Kallas discuss West Asia and maritime commerce",
-        "summary": "External Affairs Minister Dr S Jaishankar today held a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Brussels. In a social media post, Dr Jaishankar said that they had useful discussions on West Asia and the need to ensure peace and stability. The two leaders also exchanged views on […]",
-        "article": "External Affairs Minister Dr S Jaishankar today held a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Brussels. In a social media post, Dr Jaishankar said that they had useful discussions on West Asia and the need to ensure peace and stability. The two leaders also exchanged views on the importance of safe and unimpeded maritime commerce. &nbsp; The Minister also shared that they spoke about advancing the India &#8211; EU Strategic Partnership to ensure supply chain resilience. In another post, Ms Kallas said, this is a historic year for India-EU relations, with the cooperation between both sides deepening across trade, technology, security and defence.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T04:49:29+00:00",
-        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-eu-discuss-west-asia-and-maritime-commerce/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oo.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Indian-origin NASA astronaut Anil Menon begins first mission to International Space Station",
-        "summary": "Indian-origin NASA astronaut Anil Menon lifted off to the International Space Station (ISS) aboard Russia&#8217;s Soyuz MS-29 spacecraft at 08:17 PM, Indian Time, yesterday. This marks the beginning of his first spaceflight on an eight-month mission focused on scientific research and technology demonstrations. The Soyuz spacecraft lifted off from the Baikonur Cosmodrome in Kazakhstan, carrying […]",
-        "article": "Indian-origin NASA astronaut Anil Menon lifted off to the International Space Station (ISS) aboard Russia&#8217;s Soyuz MS-29 spacecraft at 08:17 PM, Indian Time, yesterday. This marks the beginning of his first spaceflight on an eight-month mission focused on scientific research and technology demonstrations. The Soyuz spacecraft lifted off from the Baikonur Cosmodrome in Kazakhstan, carrying Menon alongside Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina. The spacecraft reached orbit shortly after launch and docked automatically with the ISS&#8217;s Prichal module following a two-orbit journey lasting about three hours. NASA said the newly arrived crew will spend about eight months aboard the orbital laboratory before returning to Earth in April 2027.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:29:14+00:00",
-        "link": "https://newsonair.gov.in/indian-origin-nasa-astronaut-anil-menon-begins-first-mission-to-international-space-station/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-5.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Minister Kiren Rijiju condoles demise of Qatar’s Father Amir",
-        "summary": "Union Minister Kiren Rijiju extended condolences to Amir of Qatar, Sheikh Tamim bin Hamad Al Thani, on the demise of Father Amir, Sheikh Hamad bin Khalifa Al Thani. &#160; In a social media post, the Indian Embassy in Doha said that the Minister also conveyed warm personal regards of Prime Minister Narendra Modi to Amir […]",
-        "article": "Union Minister Kiren Rijiju extended condolences to Amir of Qatar, Sheikh Tamim bin Hamad Al Thani, on the demise of Father Amir, Sheikh Hamad bin Khalifa Al Thani. &nbsp; In a social media post, the Indian Embassy in Doha said that the Minister also conveyed warm personal regards of Prime Minister Narendra Modi to Amir of Qatar. The Prime Minister had earlier recalled Father Amir’s enduring legacy in Qatar’s development and his pivotal role in strengthening India-Qatar strategic partnership.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:27:07+00:00",
-        "link": "https://newsonair.gov.in/union-minister-kiren-rijiju-condoles-demise-of-qatars-father-amir/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "US President Donald Trump warns Iran of intensified US strikes",
-        "summary": "The United States has resumed the blockade of Iranian ports in response to Tehran&#8217;s recent attacks on commercial ships passing through the Strait of Hormuz. During an interview with TV News Channel, US President Donald Trump said that the Hormuz is open if people want to go through it, but not for Iran. Mr […]",
-        "article": "The United States has resumed the blockade of Iranian ports in response to Tehran&#8217;s recent attacks on commercial ships passing through the Strait of Hormuz. During an interview with TV News Channel, US President Donald Trump said that the Hormuz is open if people want to go through it, but not for Iran. Mr Trump also warned Tehran, saying that the US is going to hit Iran &#8220;very hard&#8221; tonight, and the intensity of these attacks will increase with every night after. He said that US will knock out all power plants and bridges of Iran unless they get to the table and negotiate. Mr Trump further alleged that everything Tehran says is a lie as they always wanted a nuclear weapon. He also alleged that Tehran breaks the deal every time and gave his message to Iranian regime&#8217;s leadership that the only option left with them is they better make a deal or they are not going to have anybody left. Meanwhile, Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) attacked Weapons and Parts Storage Facilities in Bahrain in large-scale strikes. The IRGC said in a statement that several weapons and parts storage sheds for ships and aircraft were destroyed at the Sheikh Isa base in Bahrain during a simultaneous missile and drone operation. The IRGC also claimed that it destroyed or damaged a number of drones by attacking the ramp where the MQ9 drones were deployed at the Ali Salem base in Kuwait. The air defences of Kuwait confirmed its engagement with “hostile aerial targets” in the country’s airspace.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T03:19:37+00:00",
-        "link": "https://newsonair.gov.in/us-president-donald-trump-warns-iran-of-intensified-us-strikes/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/TRUMP-IRAN-1-1.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -577,6 +223,28 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
         "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
         "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
@@ -586,6 +254,352 @@ window.VM_NEWS = {
         "post_id": 1738518,
         "image_url": "",
         "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "national": [
+      {
+        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
+        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
+        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:10:40+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
+        "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
+        "article": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended his greetings to the skilled youth of India and the world on World Youth Skills Day and said that skills and technology are essential for self-reliance. &nbsp; Mr Birla urged every young person in the country to embrace modern skills and innovation, expressing confidence that this would enable India to emerge as one of the world&#8217;s most capable and leading nations in the years to come.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:46:47+00:00",
+        "link": "https://newsonair.gov.in/lok-sabha-speaker-om-birla-greets-youth-on-world-youth-skills-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:32:58+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "post_id": 1739063,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "post_id": 1738994,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "post_id": 1738935,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:39:32+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
+        "post_id": 1738766,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "post_id": 1738518,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "politics": [
+      {
+        "title": "Vice President, PM Modi pay tribute to K Kamaraj on birth anniversary",
+        "summary": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &#160; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, […]",
+        "article": "Vice President C P Radhakrishnan and Prime Minister Narendra Modi have paid tribute to the freedom fighter, and statesman K Kamaraj on his birth anniversary today. &nbsp; In a social media post, the Vice President described him as one of the tallest leaders of Indian politics. He noted that Kamraj was a symbol of simplicity, integrity and selfless public service. &nbsp; Mr Radhakrishnan highlighted that Kamaraj played a pivotal role in India’s freedom struggle and transformed countless lives through his pioneering efforts to expand education and promote inclusive development. The Vice President noted that his enduring legacy of service and nation-building continues to inspire generations. While the Prime Minister said that K Kamaraj was a stalwart of India’s freedom movement and an exceptional public figure. Mr Modi noted that Kamraj dedicated his life to nation-building and his unwavering commitment to areas like education, inclusive development and the welfare of the underprivileged continues to guide generations.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:10:40+00:00",
+        "link": "https://newsonair.gov.in/vice-president-c-p-radhakrishnan-pays-tribute-to-k-kamaraj-on-birth-anniversary/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/apye-yo.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Lok Sabha Speaker Om Birla greets youth on World Youth Skills Day",
+        "summary": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended […]",
+        "article": "On the occasion of World Youth Skills Day, Lok Sabha Speaker Om Birla said that the greatest strength of India is its youth power. In a social media post, Mr Birla said that the energy, talent, and innovation of the youth are the strongest foundation for realising the vision of a Viksit Bharat. He extended his greetings to the skilled youth of India and the world on World Youth Skills Day and said that skills and technology are essential for self-reliance. &nbsp; Mr Birla urged every young person in the country to embrace modern skills and innovation, expressing confidence that this would enable India to emerge as one of the world&#8217;s most capable and leading nations in the years to come.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:46:47+00:00",
+        "link": "https://newsonair.gov.in/lok-sabha-speaker-om-birla-greets-youth-on-world-youth-skills-day/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/0.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK Comprehensive Economic and Trade Agreement Comes into Force today",
+        "summary": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants […]",
+        "article": "The Comprehensive Economic and Trade Agreement (CETA) between India and the United Kingdom came into force from today. Simultaneously, the Agreement on Social Security, also referred to as the Double Contribution Convention (DCC), also came into effect, which reinforcing the mobility and competitiveness of Indian professionals in the United Kingdom. The landmark deal grants Indian exports zero-duty access to 99 per cent of tariff lines in the UK market. It reflects the shared commitment of India and the United Kingdom to deepen their strategic partnership and deliver prosperity for their people. Briefing the media in New Delhi, Commerce Secretary Rajesh Agrawal has described the India-UK Comprehensive Economic and Trade Agreement as a defining milestone in India&#8217;s trade journey, saying it establishes a future-oriented economic partnership between two major economies. Briefing the media in New Delhi yesterday, he said the agreement will mark the beginning of a new phase in bilateral trade and investment relations between India and the United Kingdom. Mr Agrawal said the agreement is among India&#8217;s most comprehensive trade pacts, offering broad sectoral coverage while reducing tariff and non-tariff barriers. Highlighting the Double Contribution Convention (DCC), Mr Agrawal said the arrangement will benefit Indian professionals and their employers by exempting eligible workers on temporary assignments in the UK from paying social security contributions there for the specified period. Our correspondent reports that the implementation of the India-UK CETA and DCC marks a major step in India&#8217;s journey towards becoming a globally integrated, resilient and competitive economy. This agreement has been designed as a people-centric agreement that delivers benefits across society. The simultaneous enforcement of the CETA and the DCC will open up significant new opportunities for India’s exports. Indian exporters will benefit from the complete elimination of UK tariffs across several key sectors. Tariffs of up to 70% on processed food products, over 21% on marine products, around 18% on engineering goods and auto components, up to 16% on leather and footwear products and around 12% on textiles and clothing will be reduced to zero. This will significantly enhance the competitiveness of Indian exports in the UK market, generate new opportunities for farmers, fishermen, MSMEs and manufacturers, and strengthen India&#8217;s integration into global value chains. Under the agreement, India has protected its sensitive sectors, including dairy products, cereals, millets, edible oils, oilseeds, apples and several vegetable products.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:32:58+00:00",
+        "link": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/zayn-4-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "post_id": 1739063,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "post_id": 1738994,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "post_id": 1738935,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:39:32+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
+        "post_id": 1738766,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government launches first trial Index of Services Production for formal services sector",
+        "summary": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. […]",
+        "article": "The government has released the country’s first trial Index of Services Production (ISP) for 19 sub-sectors, providing, for the first time, a monthly measure of short-term activity in the formal services sector. The inaugural index, with 2024-25 as the base year, covers April 2026 and accounts for nearly 60 per cent of India’s services sector. &nbsp; The Ministry of Statistics and Programme Implementation (MoSPI) described the sub-sectoral ISP as a major milestone in improving the measurement of India’s services sector and strengthening the country’s statistical system. It said the comprehensive overall Index of Services Production will be introduced after evaluating the stability of the trial series and expanding its coverage-the first set of data points to broad-based growth in the services sector. Fourteen of the 19 sub-sectors recorded double-digit growth in April this year compared to the corresponding month last year, while almost all remaining sectors also registered positive growth. The fastest-growing sectors are accommodation and food services with 37.2 per cent and Retail Trade with 30.8 per cent. &nbsp; MoSPI said the data will be available on e- sankhyiki portal as well. On the occasion, Secretary, MoSPI, Dr Saurabh Garg, today said that the launch of the Index marks a significant step in strengthening India&#8217;s statistical system. The Secretary highlighted that the index has been developed entirely using administrative data, including inputs from government ministries and GST records, without imposing any additional compliance burden on industries or businesses. He also explained that the ISP is an output indicator and should not be equated with the Gross Value Added (GVA) used in GDP estimation. Dr Garg said that the Ministry will continue to seek feedback from stakeholders to strengthen the ISP further and enhance the country&#8217;s statistical ecosystem. Meanwhile, Chief Economic Advisor (CEA) Dr V Anantha Nageswaran emphasised that the release of the index should be viewed as a trial series, not a final or perfect index. He said that releasing it publicly reflects the confidence of the Ministry in the method and a willingness to improve it through scrutiny. He further said that the coverage of the index would expand over time, with the addition of sectors such as health services and ownership of dwelling businesses, which will take the coverage to around 85 to 90 per cent of formal services sector contribution in the economy.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:30:09+00:00",
+        "link": "https://newsonair.gov.in/government-launches-first-trial-index-of-services-production-for-formal-services-sector/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Government to launch Eighth Tranche of Auction for Critical and Strategic Mineral Blocks",
+        "summary": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under […]",
+        "article": "Union Minister of Coal and Mines G. Kishan Reddy will launch the Eighth Tranche of Auction of Critical and Strategic Mineral Blocks in New Delhi today. Ministry of Mines has said that it comprises 20 critical and strategic mineral blocks spread across nine states, including 13 newly identified blocks and 7 blocks being offered under the second attempt. &nbsp; The mineral portfolio includes Molybdenum, Graphite, Glauconite, Rare Earth Elements, Titanium, Tungsten, Potash, Lithium, Caesium, and Rubidium. These minerals are critical for clean energy, advanced manufacturing, fertilisers, defence and other strategic sectors. With seven tranches of auction completed, the Ministry has successfully auctioned 56 out of 88 critical and strategic mineral blocks, achieving a success rate of over 63 percent. &nbsp; The Ministry said the strong industry response across successive auction rounds reflects growing investor confidence in the Government&#8217;s transparent, competitive and market-driven auction framework. The Ministry stated that mineral sector has achieved a historic milestone in financial year 2025-26, with 212 mineral blocks successfully auctioned, the highest in any financial year since the commencement of the auction regime. This included 22 critical and strategic mineral blocks.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:18:10+00:00",
+        "link": "https://newsonair.gov.in/government-to-launch-eighth-tranche-of-auction-for-critical-and-strategic-mineral-blocks/",
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "post_id": 1738518,
+        "image_url": "",
+        "image_credit": "",
+        "source": "Prasar Bharati"
+      }
+    ],
+    "world": [
+      {
+        "title": "Industry bodies hail India-UK Free Trade Agreement as historic milestone",
+        "summary": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on […]",
+        "article": "Industry bodies have described the India-UK Free Trade Agreement as a historic milestone in India&#8217;s free trade agreement journey. Secretary General of FICCI, Anant Swarup said that the agreement will go a long way in enhancing India&#8217;s participation in global value chains and encouraging innovation-led growth. Mr Swarup congratulated Prime Minister Narendra Modi on the operationalisation of the India-UK CETA. He said that by facilitating greater co-operation in innovation, technology, and talent mobility, it will also help enhance the competitiveness of Indian industry. ASSOCHAM President, Nirmal Kumar Minda said, the agreement marks a historic milestone in India&#8217;s FTA journey, bringing together two of the world&#8217;s oldest democracies through a comprehensive free trade partnership. He said, under the agreement, 99 per cent of India&#8217;s exports to the UK will enjoy duty-free access. Mr Minda said, the agreement is expected to significantly benefit Indian sectors such as textiles, leather, marine products, gems and jewellery, engineering goods, and chemicals. Chairman of the Trade Promotion Council of India, Mohit Singla, said the operationalisation of the India-UK trade agreement marks a historic milestone in strengthening one of India’s most important economic partnerships. He said, this landmark agreement opens a new chapter of opportunity for Indian exporters by providing enhanced market access, greater predictability, and a level playing field in the UK market.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T07:19:17+00:00",
+        "link": "https://newsonair.gov.in/industry-bodies-hail-india-uk-free-trade-agreement-as-historic-milestone/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA strengthens economic ties between India and UK: Union Minister Pralhad Joshi",
+        "summary": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "article": "Union Consumer Affairs Minister Pralhad Joshi said that the India-UK Comprehensive Economic and Trade Agreement (CETA) is a landmark step that strengthens the country’s economic interests, safeguarding the farmers and agricultural sector. He added that the agreement marks a transformative step in strengthening economic ties between India and the United Kingdom.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:23:11+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-strengthens-economic-ties-between-india-and-uk-union-minister-pralhad-joshi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Union-Consumer-Affairs-Minister-Pralhad-Joshi.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Defence Minister Rajnath Singh says India-UK CETA strengthens India’s economic growth & global partnerships",
+        "summary": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit […]",
+        "article": "Defence Minister Rajnath Singh said that the India-UK Comprehensive Economic and Trade Agreement, which came into force today, marks a significant step in strengthening India&#8217;s economic growth and global partnerships. In a social media post, Mr Singh said that the agreement will boost exports, create new opportunities for MSMEs, support Indian industries, and benefit professionals working in the UK, opening new avenues for jobs and investment. Mr Singh underlined that India, guided by the leadership of Prime Minister Narendra Modi, continues to secure agreements that strengthen the country’s economy, expand global opportunities and contribute to the vision of a Viksit Bharat.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:19:43+00:00",
+        "link": "https://newsonair.gov.in/defence-minister-rajnath-singh-says-india-uk-ceta-strengthens-indias-economic-growth-global-partnerships/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/01/rajnath-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India says confidence in UN declining over lack of Security Council reforms",
+        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
+        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T06:14:11+00:00",
+        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "India-UK CETA creates unprecedented opportunities for key sectors: Union Minister Piyush Goyal",
+        "summary": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s […]",
+        "article": "Union Commerce and Industry Minister Piyush Goyal has described today as a defining milestone in India-UK relations. In a social media post, Mr Goyal said that the India-UK Comprehensive Economic and Trade Agreement (CETA) and the Agreement on Social Security have come into force, providing zero-duty market access for nearly 99 per cent of India&#8217;s exports and covering almost 100 per cent of the bilateral trade value. &nbsp; The minister said the India-UK Free Trade Agreement will create unprecedented opportunities for India&#8217;s textiles, leather, gems and jewellery, engineering goods, marine products, chemicals, processed foods, MSMEs, farmers and manufacturers. He added that the agreement also opens new avenues for the country&#8217;s IT, professional, financial, education and business services sectors, while enhancing mobility for Indian talent. Mr Goyal said the Agreement on Social Security further strengthens the partnership by exempting Indian professionals on temporary assignments in the UK from double social security contributions for up to five years, thereby enhancing the global competitiveness of India&#8217;s workforce. The minister added that India and the UK remain committed to building a resilient, innovation-driven partnership that will promote growth, investment and shared prosperity for generations to come.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T05:39:32+00:00",
+        "link": "https://newsonair.gov.in/india-uk-ceta-creates-unprecedented-opportunities-for-key-sectors-union-minister-piyush-goyal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/piyush.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Dr S Jaishankar, EU’s Kaja Kallas discuss West Asia and maritime commerce",
+        "summary": "External Affairs Minister Dr S Jaishankar today held a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Brussels. In a social media post, Dr Jaishankar said that they had useful discussions on West Asia and the need to ensure peace and stability. The two leaders also exchanged views on […]",
+        "article": "External Affairs Minister Dr S Jaishankar today held a meeting with EU High Representative for Foreign Affairs and Security Policy Kaja Kallas in Brussels. In a social media post, Dr Jaishankar said that they had useful discussions on West Asia and the need to ensure peace and stability. The two leaders also exchanged views on the importance of safe and unimpeded maritime commerce. &nbsp; The Minister also shared that they spoke about advancing the India &#8211; EU Strategic Partnership to ensure supply chain resilience. In another post, Ms Kallas said, this is a historic year for India-EU relations, with the cooperation between both sides deepening across trade, technology, security and defence.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T04:49:29+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-eu-discuss-west-asia-and-maritime-commerce/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/oo.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Indian-origin NASA astronaut Anil Menon begins first mission to International Space Station",
+        "summary": "Indian-origin NASA astronaut Anil Menon lifted off to the International Space Station (ISS) aboard Russia&#8217;s Soyuz MS-29 spacecraft at 08:17 PM, Indian Time, yesterday. This marks the beginning of his first spaceflight on an eight-month mission focused on scientific research and technology demonstrations. The Soyuz spacecraft lifted off from the Baikonur Cosmodrome in Kazakhstan, carrying […]",
+        "article": "Indian-origin NASA astronaut Anil Menon lifted off to the International Space Station (ISS) aboard Russia&#8217;s Soyuz MS-29 spacecraft at 08:17 PM, Indian Time, yesterday. This marks the beginning of his first spaceflight on an eight-month mission focused on scientific research and technology demonstrations. The Soyuz spacecraft lifted off from the Baikonur Cosmodrome in Kazakhstan, carrying Menon alongside Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina. The spacecraft reached orbit shortly after launch and docked automatically with the ISS&#8217;s Prichal module following a two-orbit journey lasting about three hours. NASA said the newly arrived crew will spend about eight months aboard the orbital laboratory before returning to Earth in April 2027.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:29:14+00:00",
+        "link": "https://newsonair.gov.in/indian-origin-nasa-astronaut-anil-menon-begins-first-mission-to-international-space-station/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Kiren Rijiju condoles demise of Qatar’s Father Amir",
+        "summary": "Union Minister Kiren Rijiju extended condolences to Amir of Qatar, Sheikh Tamim bin Hamad Al Thani, on the demise of Father Amir, Sheikh Hamad bin Khalifa Al Thani. &#160; In a social media post, the Indian Embassy in Doha said that the Minister also conveyed warm personal regards of Prime Minister Narendra Modi to Amir […]",
+        "article": "Union Minister Kiren Rijiju extended condolences to Amir of Qatar, Sheikh Tamim bin Hamad Al Thani, on the demise of Father Amir, Sheikh Hamad bin Khalifa Al Thani. &nbsp; In a social media post, the Indian Embassy in Doha said that the Minister also conveyed warm personal regards of Prime Minister Narendra Modi to Amir of Qatar. The Prime Minister had earlier recalled Father Amir’s enduring legacy in Qatar’s development and his pivotal role in strengthening India-Qatar strategic partnership.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:27:07+00:00",
+        "link": "https://newsonair.gov.in/union-minister-kiren-rijiju-condoles-demise-of-qatars-father-amir/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/l.jpeg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US President Donald Trump warns Iran of intensified US strikes",
+        "summary": "The United States has resumed the blockade of Iranian ports in response to Tehran&#8217;s recent attacks on commercial ships passing through the Strait of Hormuz. During an interview with TV News Channel, US President Donald Trump said that the Hormuz is open if people want to go through it, but not for Iran. Mr […]",
+        "article": "The United States has resumed the blockade of Iranian ports in response to Tehran&#8217;s recent attacks on commercial ships passing through the Strait of Hormuz. During an interview with TV News Channel, US President Donald Trump said that the Hormuz is open if people want to go through it, but not for Iran. Mr Trump also warned Tehran, saying that the US is going to hit Iran &#8220;very hard&#8221; tonight, and the intensity of these attacks will increase with every night after. He said that US will knock out all power plants and bridges of Iran unless they get to the table and negotiate. Mr Trump further alleged that everything Tehran says is a lie as they always wanted a nuclear weapon. He also alleged that Tehran breaks the deal every time and gave his message to Iranian regime&#8217;s leadership that the only option left with them is they better make a deal or they are not going to have anybody left. Meanwhile, Iran&#8217;s Islamic Revolutionary Guard Corps (IRGC) attacked Weapons and Parts Storage Facilities in Bahrain in large-scale strikes. The IRGC said in a statement that several weapons and parts storage sheds for ships and aircraft were destroyed at the Sheikh Isa base in Bahrain during a simultaneous missile and drone operation. The IRGC also claimed that it destroyed or damaged a number of drones by attacking the ramp where the MQ9 drones were deployed at the Ali Salem base in Kuwait. The air defences of Kuwait confirmed its engagement with “hostile aerial targets” in the country’s airspace.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T03:19:37+00:00",
+        "link": "https://newsonair.gov.in/us-president-donald-trump-warns-iran-of-intensified-us-strikes/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/05/TRUMP-IRAN-1-1.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Union Minister Sarbananda Sonowal launches ‘Seafarer-First’ initiative to safeguard Indian seafarers in conflict-affected region",
+        "summary": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure",
+        "article": "Amid escalating maritime security concerns in West Asia following attacks on two merchant vessels in the Strait of Hormuz, Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has launched a comprehensive &#8216;Seafarer-First&#8217; initiative to safeguard Indian seafarers operating in the conflict-affected region. The Minister has directed a whole-of-government response to ensure their safety and welfare. Chairing a high-level inter-ministerial review meeting in New Delhi, Mr Sonowal ordered real-time vessel-by-vessel monitoring, and the appointment of dedicated liaison officers for every affected Indian seafarer in the region. The Minister also ordered for round-the-clock coordination by the Ministry of Ports, Shipping and Waterways, in association with Ministry of External Affairs, Petroleum and Natural Gas, Chemicals and Fertilisers, the Indian Navy, the Directorate General of Shipping and Indian Missions in Iran and Oman. &nbsp; The Minister directed the Directorate General of Shipping to establish a real-time operational dashboard to track every Indian seafarer aboard vessels operating in the Persian Gulf, the Strait of Hormuz and the Gulf of Oman, irrespective of the vessel&#8217;s flag. He also instructed authorities to coordinate closely with Indian Missions in Iran, Oman and the UAE for real-time information on navigational safety, medical evacuation and repatriation. Mr Sonowal further directed shipowners, vessel managers and recruitment agencies to ensure that no Indian seafarer is compelled to sail without adequate information, protection and support. He said the government remains committed to safeguarding Indian seafarers and ensuring the uninterrupted movement of global trade through the region. &nbsp; The review comes in the wake of attacks on merchant vessels MT Al Bahiyah and MT Mombasa in the Strait of Hormuz. The two vessels had 30 Indian seafarers among a total crew of 46. One Indian seafarer was killed and another injured in the attack on MT Al Bahiyah. On MT Mombasa, nine Indian nationals were injured, including two who remain critically injured. &nbsp; Expressing grief over the loss of the Indian seafarer, Mr Sonowal conveyed his condolences to the bereaved family and wished the injured a speedy recovery. He assured that the Government would extend all possible assistance to affected seafarers and their families.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T02:14:09+00:00",
+        "link": "https://newsonair.gov.in/union-minister-sarbananda-sonowal-launches-seafarer-first-initiative-to-safeguard-indian-seafarers-in-conflict-affected-region/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ki-me-a-i-mi.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
