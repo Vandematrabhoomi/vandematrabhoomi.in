@@ -1094,72 +1094,6 @@
     .ad-strip .ad-banner-label { align-self: flex-end; }
     .ad-strip .ad-banner-slot  { height: 130px; }
 
-    /* ── Side Ad Rail — one long skyscraper strip that scrolls with the page,
-       top-aligned to wherever the current section's own ad-banner starts and
-       stretched all the way down to the bottom of the page (both set via JS,
-       see alignAdRail()) so it's never independently floating above the
-       content, and never runs out of height and leaves the lower part of the
-       page without an ad strip beside it. ── */
-    .side-ad-rail {
-      position: absolute; top: 210px; right: 18px; z-index: 50;
-      display: flex; flex-direction: column;
-      height: 70vh; min-height: 320px;
-    }
-    .side-ad-rail .ad-strip { width: 160px; height: 100%; margin: 0; display: flex; flex-direction: column; }
-    .side-ad-rail .ad-banner-slot { width: 160px; flex: 1; }
-    .side-ad-rail .ad-ph-hi { font-size: 15px; }
-    .side-ad-rail .ad-ph-en { font-size: 9px; }
-    .side-ad-rail .ad-contact-label { font-size: 8px; }
-    .side-ad-rail .ad-placeholder a { font-size: 10px; }
-    @media (min-width: 769px) {
-      .main { margin-right: 190px; }
-    }
-    @media (max-width: 768px) {
-      .side-ad-rail { display: none; }
-    }
-
-    /* ── Participate CTA box ──────────────────────────
-       Sits right above the side ad rail on desktop (top set via JS,
-       see alignAdRail()); reflows to a normal in-page block on phones
-       since there's no side gutter to float it in there. ── */
-    .cta-box {
-      background: linear-gradient(155deg, var(--red) 0%, var(--red-dark) 100%);
-      border-radius: 6px;
-      padding: 14px 12px 12px;
-      display: flex; flex-direction: column; gap: 10px;
-      box-shadow: 0 3px 10px rgba(204,0,0,.35);
-    }
-    .cta-badge {
-      font-family: 'Archivo', sans-serif;
-      font-size: 13px; font-weight: 800; color: #fff;
-      text-align: center; letter-spacing: .02em;
-      background: rgba(255,255,255,.16);
-      border-radius: 20px; padding: 7px 8px;
-      animation: cta-pulse 1.4s ease-in-out infinite;
-    }
-    @keyframes cta-pulse {
-      0%, 100% { transform: scale(1);    opacity: 1;   }
-      50%      { transform: scale(1.05); opacity: .78; }
-    }
-    .cta-item {
-      display: flex; align-items: center; gap: 8px;
-      background: rgba(255,255,255,.12);
-      border: 1px solid rgba(255,255,255,.32);
-      border-radius: 5px; padding: 9px;
-      text-decoration: none; color: #fff;
-      font-family: 'Archivo', sans-serif;
-      font-size: 11.5px; font-weight: 600; line-height: 1.35;
-      transition: background .15s;
-    }
-    .cta-item:hover { background: rgba(255,255,255,.24); }
-    .cta-item-icon { font-size: 16px; flex-shrink: 0; }
-    @media (min-width: 769px) {
-      .cta-box { position: absolute; right: 18px; width: 160px; z-index: 50; }
-    }
-    @media (max-width: 768px) {
-      .cta-box { margin: 14px 14px 0; }
-    }
-
     /* ── Opinion coming-soon state ──────────────────── */
     .op-coming-soon {
       display: flex; flex-direction: column;
@@ -1480,6 +1414,11 @@
             <path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.1c0-.8.2-1.4 1.4-1.4h1.5V5.2C15.9 5.1 15 5 14 5c-2.1 0-3.5 1.3-3.5 3.6v2.4H8.1v2.8h2.4V21h3z"/>
           </svg>
         </a>
+        <a href="https://wa.me/919211980589?text=Namaste%20Vande%20Matrabhoomi" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+          <svg viewBox="0 0 24 24" fill="currentColor" stroke="none">
+            <path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.05-1.36A10 10 0 1 0 12 2zm0 18.2a8.16 8.16 0 0 1-4.17-1.14l-.3-.18-3.1.84.83-3.02-.2-.31A8.2 8.2 0 1 1 12 20.2zm4.52-6.14c-.25-.12-1.46-.72-1.68-.8-.23-.08-.4-.12-.56.13-.17.25-.64.8-.79.96-.14.17-.29.19-.54.06-.25-.12-1.04-.38-1.98-1.22-.73-.65-1.23-1.46-1.37-1.7-.14-.25-.02-.38.11-.5.11-.11.25-.29.37-.44.12-.14.16-.25.25-.41.08-.17.04-.31-.02-.44-.06-.12-.56-1.35-.77-1.85-.2-.48-.41-.42-.56-.43h-.48c-.17 0-.44.06-.67.31-.23.25-.87.85-.87 2.08 0 1.22.89 2.4 1.02 2.57.12.17 1.75 2.67 4.24 3.74.59.26 1.05.41 1.41.52.59.19 1.13.16 1.55.1.47-.07 1.46-.6 1.67-1.18.2-.58.2-1.07.14-1.18-.06-.11-.23-.17-.48-.29z"/>
+          </svg>
+        </a>
       </div>
     </div>
   </div>
@@ -1540,21 +1479,6 @@
       <li><a href="#" data-feed="vmdesk"               data-hi="VM डेस्क"      data-en="VM Desk"        onclick="navClick(this);return false;">VM डेस्क</a></li>
     </ul>
   </nav>
-
-  <!-- Participate CTA — fills the gutter above the side ad rail on desktop;
-       shows inline near the top of the page on phones, where there's no
-       side gutter to place it in. -->
-  <div class="cta-box" id="cta-box">
-    <div class="cta-badge" data-hi="👉 क्लिक करें और भाग लें" data-en="👉 Click &amp; Participate">👉 क्लिक करें और भाग लें</div>
-    <a class="cta-item" href="https://www.youtube.com/@vande_matrabhoomi" target="_blank" rel="noopener noreferrer">
-      <span class="cta-item-icon">🎙️</span>
-      <span data-hi="पॉडकास्ट • टॉक शो • इवेंट्स • टैलेंट हंट" data-en="Podcast • Talk Shows • Events • Talent Hunt">पॉडकास्ट • टॉक शो • इवेंट्स • टैलेंट हंट</span>
-    </a>
-    <a class="cta-item" href="grievance.html">
-      <span class="cta-item-icon">📢</span>
-      <span data-hi="सामाजिक मुद्दों की आवाज़ उठाएं" data-en="Raise Your Voice for Social Issues">सामाजिक मुद्दों की आवाज़ उठाएं</span>
-    </a>
-  </div>
 
   <!-- ══════ NEWS SECTION ══════ -->
   <div class="section active" id="section-news">
@@ -1661,6 +1585,11 @@
               <a href="https://www.facebook.com/profile.php?id=61591456997937" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
                 <svg viewBox="0 0 24 24" fill="currentColor" stroke="none">
                   <path d="M13.5 21v-7.2h2.4l.4-2.8h-2.8V9.1c0-.8.2-1.4 1.4-1.4h1.5V5.2C15.9 5.1 15 5 14 5c-2.1 0-3.5 1.3-3.5 3.6v2.4H8.1v2.8h2.4V21h3z"/>
+                </svg>
+              </a>
+              <a href="https://wa.me/919211980589?text=Namaste%20Vande%20Matrabhoomi" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+                <svg viewBox="0 0 24 24" fill="currentColor" stroke="none">
+                  <path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5.05-1.36A10 10 0 1 0 12 2zm0 18.2a8.16 8.16 0 0 1-4.17-1.14l-.3-.18-3.1.84.83-3.02-.2-.31A8.2 8.2 0 1 1 12 20.2zm4.52-6.14c-.25-.12-1.46-.72-1.68-.8-.23-.08-.4-.12-.56.13-.17.25-.64.8-.79.96-.14.17-.29.19-.54.06-.25-.12-1.04-.38-1.98-1.22-.73-.65-1.23-1.46-1.37-1.7-.14-.25-.02-.38.11-.5.11-.11.25-.29.37-.44.12-.14.16-.25.25-.41.08-.17.04-.31-.02-.44-.06-.12-.56-1.35-.77-1.85-.2-.48-.41-.42-.56-.43h-.48c-.17 0-.44.06-.67.31-.23.25-.87.85-.87 2.08 0 1.22.89 2.4 1.02 2.57.12.17 1.75 2.67 4.24 3.74.59.26 1.05.41 1.41.52.59.19 1.13.16 1.55.1.47-.07 1.46-.6 1.67-1.18.2-.58.2-1.07.14-1.18-.06-.11-.23-.17-.48-.29z"/>
                 </svg>
               </a>
             </div>
@@ -1813,6 +1742,7 @@
             <label class="form-lbl" data-hi="पोस्ट प्रकार" data-en="POST TYPE">पोस्ट प्रकार</label>
             <div class="ptype-toggle">
               <button type="button" class="ptype-btn active" id="ptype-editorial" onclick="setPostType('editorial')" data-hi="संपादकीय" data-en="Editorial">संपादकीय</button>
+              <button type="button" class="ptype-btn" id="ptype-news" onclick="setPostType('news')" data-hi="समाचार" data-en="News">समाचार</button>
               <button type="button" class="ptype-btn" id="ptype-short" onclick="setPostType('short')" data-hi="VM शॉर्ट" data-en="VM Short">VM शॉर्ट</button>
             </div>
           </div>
@@ -2052,23 +1982,6 @@
   <span data-hi="शिकायत / विचार" data-en="Grievance / Ideas">शिकायत / विचार</span>
 </button>
 
-<!-- Side Ad Rail — two same-size ad slots, sticky on wide screens -->
-<div class="side-ad-rail">
-  <div class="ad-strip">
-    <span class="ad-banner-label">Advertisement</span>
-    <div class="ad-banner-slot">
-      <div class="ad-placeholder">
-        <div class="ad-ticker-inner">
-          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
-          <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
-          <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
-          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <script>
 /* ═══════════════════════════════════════════════════
    Vande Matrabhoomi — News Portal
@@ -2200,11 +2113,27 @@ function fmtDate(pubDate) {
   catch(e) { return d.toDateString(); }
 }
 
-/* ── Read from window.VM_NEWS (written by fetch_news.py) ── */
+/* ── Read from window.VM_NEWS (written by fetch_news.py), merged with
+   any Live Desk posts manually published under this same category
+   (see the "News" post type / newsStories() below) ── */
 function getCatItems(key) {
-  if (!window.VM_NEWS) return [];
-  var langData = window.VM_NEWS[lang] || window.VM_NEWS.en || {};
-  return langData[key] || window.VM_NEWS.en && window.VM_NEWS.en[key] || [];
+  var raw = [];
+  if (window.VM_NEWS) {
+    var langData = window.VM_NEWS[lang] || window.VM_NEWS.en || {};
+    raw = (langData[key] || (window.VM_NEWS.en && window.VM_NEWS.en[key]) || []).slice();
+  }
+  var manual = newsStories().filter(function(s){ return s.cat === key && s.lang === lang; });
+  if (manual.length) {
+    manual.forEach(function(s){
+      raw.push({
+        title: s.hl, summary: s.sum, article: s.body, pubDate: s.pub,
+        link: s.articleUrl || '', image_url: s.mediaUrl || '',
+        source: lang === 'hi' ? 'वंदे मातृभूमि' : 'Vande Matrabhoomi', image_credit: ''
+      });
+    });
+    raw.sort(function(a, b){ return new Date(b.pubDate || 0) - new Date(a.pubDate || 0); });
+  }
+  return raw;
 }
 
 function mapItem(raw) {
@@ -2289,7 +2218,6 @@ function loadBreaking() {
   if (!text) return;
   track.textContent = text + '   ●   ' + text;
   bar.style.display = 'flex';
-  alignAdRail();
 }
 
 /* ── Updated bar ────────────────────────────────────── */
@@ -2563,39 +2491,7 @@ function setSection(name) {
     s.classList.toggle('active', s.id === 'section-' + name);
   });
   if (name === 'opinion') renderOpinion();
-  alignAdRail();
 }
-
-/* ── Side ad rail alignment ────────────────────────────
-   Keeps the side ad rail's top edge level with the currently
-   visible section's own ad-banner (the "yellow strip"), instead
-   of a hardcoded guess -- so it stays lined up no matter which
-   tab is open, whether the breaking-news ticker is showing, or
-   which language's text is currently reflowing the masthead.
-   Also stretches the rail all the way down to the bottom of the
-   page, so the ad strip runs the full length of the page instead
-   of ending partway down and leaving bare space beside the rest
-   of the content as the page scrolls. Finally, on desktop widths,
-   sits the participate CTA box snugly right above the rail so
-   there's no bare gap left between the top of the gutter and
-   where the ad strip begins. ── */
-function alignAdRail() {
-  var rail = document.querySelector('.side-ad-rail');
-  var cta  = document.querySelector('.cta-box');
-  var activeSection = document.querySelector('.section.active');
-  if (!rail || !activeSection) return;
-  var adBanner = activeSection.querySelector('.ad-banner, .ad-strip');
-  if (!adBanner) return;
-  var top = adBanner.getBoundingClientRect().top + window.scrollY;
-  var pageBottom = document.documentElement.scrollHeight;
-  rail.style.top = top + 'px';
-  rail.style.height = Math.max(pageBottom - top - 24, 320) + 'px';
-  if (cta && window.innerWidth > 768) {
-    cta.style.top = Math.max(top - cta.offsetHeight - 14, 12) + 'px';
-  }
-}
-window.addEventListener('resize', alignAdRail);
-window.addEventListener('load', alignAdRail);
 
 /* ── Language toggle ────────────────────────────────── */
 function setLang(l) {
@@ -2619,7 +2515,6 @@ function setLang(l) {
   renderEditorialTeaser();
   renderVmBanner();
   setDate();
-  alignAdRail();
 }
 
 /* ── Opinion section (shows Live Desk stories) ───────── */
@@ -2717,27 +2612,59 @@ var CAT_DESK = {
   en: { Latest:'Latest', Nation:'Nation', Politics:'Politics', Sports:'Sports', Business:'Business', Lifestyle:'Lifestyle', VMShort:'VM Desk' }
 };
 
-/* VM shorts live in the same story pipeline with the sentinel category
-   'VMShort'. They appear in the Live Desk feed, the homepage notification
-   strip, and the VM डेस्क tab of the category bar — never in Opinion or
-   the editorial teaser. */
+/* Every Live Desk post carries a `ptype`: 'editorial' (Opinion section),
+   'news' (merged into the regular category feeds by date, see
+   getCatItems()), or 'short' (VM Desk banner/tab, sentinel category
+   'VMShort'). Older rows published before `ptype` existed come back from
+   the backend without it -- default them to 'editorial' (or 'short' if
+   they still carry the old VMShort sentinel) so nothing already
+   published gets miscategorised. */
 function editorialStories() {
-  return stories.filter(function(s){ return s.cat !== 'VMShort'; });
+  return stories.filter(function(s){ return s.ptype === 'editorial'; });
 }
 function vmShorts() {
-  return stories.filter(function(s){ return s.cat === 'VMShort'; });
+  return stories.filter(function(s){ return s.ptype === 'short'; });
+}
+function newsStories() {
+  return stories.filter(function(s){ return s.ptype === 'news'; });
 }
 
-/* ── Live Desk post type (editorial vs VM short) ───────── */
+/* ── Live Desk post type (editorial vs news vs VM short) ───────── */
 var postType = 'editorial';
+
+var CAT_OPTIONS_EDITORIAL =
+  '<option value="Latest"    data-hi="ताज़ा"       data-en="Latest">ताज़ा</option>' +
+  '<option value="Nation"    data-hi="राष्ट्रीय"   data-en="Nation">राष्ट्रीय</option>' +
+  '<option value="Politics"  data-hi="राजनीति"     data-en="Politics">राजनीति</option>' +
+  '<option value="Sports"    data-hi="खेल"         data-en="Sports">खेल</option>' +
+  '<option value="Business"  data-hi="व्यापार"     data-en="Business">व्यापार</option>' +
+  '<option value="Lifestyle" data-hi="जीवनशैली"   data-en="Lifestyle">जीवनशैली</option>';
+
+/* Same category keys the auto-fetched news feed uses (see CAT_HI/CAT_EN
+   above) -- publishing a "News" post under one of these is what makes it
+   show up in that category's tab on the News page, sorted in by date
+   alongside the auto-pulled stories (see getCatItems()). */
+var NEWS_CATS = ['national','politics','world','sports','business','entertainment','lifestyle'];
+var CAT_OPTIONS_NEWS = NEWS_CATS.map(function(k){
+  return '<option value="'+k+'" data-hi="'+CAT_HI[k]+'" data-en="'+CAT_EN[k]+'">'+CAT_HI[k]+'</option>';
+}).join('');
+
 function setPostType(t) {
   postType = t;
   document.getElementById('ptype-editorial').classList.toggle('active', t === 'editorial');
+  document.getElementById('ptype-news').classList.toggle('active', t === 'news');
   document.getElementById('ptype-short').classList.toggle('active', t === 'short');
   var isShort = t === 'short';
   document.getElementById('grp-cat').style.display  = isShort ? 'none' : '';
   document.getElementById('grp-sum').style.display  = isShort ? 'none' : '';
   document.getElementById('grp-body').style.display = isShort ? 'none' : '';
+
+  var catSelect = document.getElementById('f-cat');
+  catSelect.innerHTML = t === 'news' ? CAT_OPTIONS_NEWS : CAT_OPTIONS_EDITORIAL;
+  catSelect.querySelectorAll('option').forEach(function(o){
+    o.textContent = lang==='hi' ? o.getAttribute('data-hi') : o.getAttribute('data-en');
+  });
+
   var hlLbl = document.getElementById('f-hl-lbl');
   hlLbl.setAttribute('data-hi', isShort ? 'शॉर्ट अपडेट' : 'शीर्षक');
   hlLbl.setAttribute('data-en', isShort ? 'SHORT UPDATE' : 'HEADLINE');
@@ -2774,7 +2701,7 @@ function saveDraftNow() {
   if (!currentDraftId) currentDraftId = 'd' + Date.now();
   fetch(VM_LIVEDESK_URL, {
     method: 'POST',
-    body: JSON.stringify({ type: 'draft', id: currentDraftId, hl: hl, cat: cat, sum: sum, body: body, lang: lang })
+    body: JSON.stringify({ type: 'draft', id: currentDraftId, ptype: postType, hl: hl, cat: cat, sum: sum, body: body, lang: lang })
   }).then(function(){ showDraftStatus(); loadDrafts(); }).catch(function(){});
 }
 
@@ -2786,7 +2713,7 @@ function flushDraftSave() {
   var body = document.getElementById('f-body').value.trim();
   if (!hl && !sum && !body) return;
   if (!currentDraftId) currentDraftId = 'd' + Date.now();
-  var payload = JSON.stringify({ type: 'draft', id: currentDraftId, hl: hl, cat: cat, sum: sum, body: body, lang: lang });
+  var payload = JSON.stringify({ type: 'draft', id: currentDraftId, ptype: postType, hl: hl, cat: cat, sum: sum, body: body, lang: lang });
   navigator.sendBeacon(VM_LIVEDESK_URL, new Blob([payload], { type: 'text/plain' }));
 }
 window.addEventListener('beforeunload', flushDraftSave);
@@ -2841,6 +2768,7 @@ function resumeDraft(id) {
   var d = drafts.filter(function(x){ return String(x.id) === String(id); })[0];
   if (!d) return;
   currentDraftId = d.id;
+  setPostType(d.ptype || 'editorial'); // swaps in the right category option set first
   document.getElementById('f-hl').value   = d.hl || '';
   document.getElementById('f-cat').value  = d.cat || 'Latest';
   document.getElementById('f-sum').value  = d.sum || '';
@@ -2956,7 +2884,7 @@ function publishStory() {
     if (!VM_LIVEDESK_URL) { afterPublish(false); return; }
     fetch(VM_LIVEDESK_URL, {
       method: 'POST',
-      body: JSON.stringify({ type: 'story', hl: hl, cat: cat, sum: sum, body: body, mediaChunks: mediaChunks || [], lang: lang, draftId: currentDraftId })
+      body: JSON.stringify({ type: 'story', ptype: postType, hl: hl, cat: cat, sum: sum, body: body, mediaChunks: mediaChunks || [], lang: lang, draftId: currentDraftId })
     }).then(function(r){ return r.text(); })
       .then(function(t){ afterPublish(t.indexOf('error') !== 0); })
       .catch(function(){ afterPublish(false); });
@@ -2983,6 +2911,8 @@ function loadStories() {
         var d = new Date(s.pubDate);
         return {
           id: s.id, hl: s.hl, cat: s.cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
+          lang: s.lang || 'hi', articleUrl: s.articleUrl || '',
+          ptype: s.ptype || (s.cat === 'VMShort' ? 'short' : 'editorial'),
           pub: s.pubDate,
           dateHi: d.toLocaleDateString('hi-IN', { day:'numeric', month:'long', year:'numeric' }),
           dateEn: d.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
@@ -2993,9 +2923,9 @@ function loadStories() {
       renderEditorialTeaser();
       renderVmBanner();
       if (currentFeed === 'vmdesk') renderVmDesk();
-      alignAdRail();
+      else loadFeed(currentFeed); // pick up any manually-published "News" posts into the visible category tab
     })
-    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); alignAdRail(); });
+    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); });
 }
 
 function renderEditorialTeaser() {
@@ -3023,16 +2953,22 @@ function renderFeed() {
     return;
   }
   var liveText = lang==='hi' ? '✓ लाइव' : '✓ Live';
+  var catLabel = function(cat){
+    var desk = CAT_DESK[lang][cat];
+    if (desk) return desk;
+    var main = lang==='hi' ? CAT_HI[cat] : CAT_EN[cat];
+    return main || cat;
+  };
   feed.innerHTML = stories.map(function(s){
     return '<div class="story-card">'
       + '<div class="story-meta">'
-        + '<span class="cat-badge">'+esc(CAT_DESK[lang][s.cat]||s.cat)+'</span>'
+        + '<span class="cat-badge">'+esc(catLabel(s.cat))+'</span>'
         + '<span class="story-dt">'+esc(lang==='hi'?s.dateHi:s.dateEn)+'</span>'
         + '<span class="live-tag">'+liveText+'</span>'
       + '</div>'
       + '<div class="story-hl">'+esc(s.hl)+'</div>'
       + (s.sum ? '<div class="story-sum">'+esc(s.sum)+'</div>' : '')
-      + (s.cat === 'VMShort' && s.mediaUrl
+      + ((s.ptype === 'short' || s.ptype === 'news') && s.mediaUrl
           ? '<img class="story-thumb" src="'+esc(s.mediaUrl)+'" alt="" onerror="this.remove();">'
           : '')
     + '</div>';
@@ -3083,8 +3019,6 @@ setDate();
 loadStories();
 loadFeed('top');
 loadBreaking();
-alignAdRail();
-setTimeout(alignAdRail, 300); // re-check after fonts/images finish reflowing the masthead
 
 if (location.hash === '#opinion') setSection('opinion');
 if (location.hash === '#desk') openDesk();

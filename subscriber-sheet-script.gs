@@ -69,8 +69,12 @@ function getStoriesSheet_() {
   var sheet = ss.getSheetByName(STORIES_SHEET_NAME);
   if (!sheet) {
     sheet = ss.insertSheet(STORIES_SHEET_NAME);
-    sheet.appendRow(['ID', 'Timestamp', 'Headline', 'Category', 'Summary', 'Body', 'MediaUrl', 'Lang']);
-    sheet.getRange(1, 1, 1, 8).setFontWeight('bold');
+    sheet.appendRow(['ID', 'Timestamp', 'Headline', 'Category', 'Summary', 'Body', 'MediaUrl', 'Lang', 'PostType']);
+    sheet.getRange(1, 1, 1, 9).setFontWeight('bold');
+  } else if (sheet.getLastColumn() < 9) {
+    // Sheet predates the PostType column (added for the News post type) --
+    // label it now so existing rows aren't left with a blank header.
+    sheet.getRange(1, 9).setValue('PostType').setFontWeight('bold');
   }
   return sheet;
 }
@@ -79,11 +83,14 @@ function publishStory_(data) {
   var hl = (data.hl || '').trim();
   if (!hl) return ContentService.createTextOutput('error: headline required');
 
-  var id   = Date.now();
-  var cat  = data.cat || 'Latest';
-  var sum  = data.sum || '';
-  var body = data.body || '';
-  var lang = data.lang || 'hi';
+  var id    = Date.now();
+  var cat   = data.cat || 'Latest';
+  var sum   = data.sum || '';
+  var body  = data.body || '';
+  var lang  = data.lang || 'hi';
+  // 'editorial' (Opinion section), 'news' (merged into the regular category
+  // feeds by the frontend), or 'short' (VM Desk banner/tab).
+  var ptype = data.ptype || 'editorial';
 
   // The photo itself can't be uploaded from here (this Apps Script project's
   // outbound calls -- DriveApp and UrlFetchApp -- are both blocked by an
@@ -96,7 +103,7 @@ function publishStory_(data) {
 
   var sheet = getStoriesSheet_();
   var pubDate = new Date();
-  sheet.appendRow([id, pubDate, hl, cat, sum, body, mediaUrl, lang]);
+  sheet.appendRow([id, pubDate, hl, cat, sum, body, mediaUrl, lang, ptype]);
 
   if (data.mediaChunks && data.mediaChunks.length) {
     try { saveMediaChunks_(id, data.mediaChunks); } catch (mediaErr) { /* publish already succeeded; photo just won't appear */ }
@@ -198,8 +205,13 @@ function listStories_() {
     var r = rows[i];
     if (!r[0]) continue;
     var ts = r[1] instanceof Date ? r[1] : new Date(r[1]);
+    // Rows published before the PostType column existed come back with an
+    // empty r[8] -- default those to 'short' (old VMShort sentinel) or
+    // 'editorial', same as the frontend's own fallback, so nothing already
+    // published gets miscategorised.
+    var ptype = r[8] || (r[3] === 'VMShort' ? 'short' : 'editorial');
     out.push({
-      id: r[0], hl: r[2], cat: r[3], sum: r[4], body: r[5], mediaUrl: r[6], lang: r[7],
+      id: r[0], hl: r[2], cat: r[3], sum: r[4], body: r[5], mediaUrl: r[6], lang: r[7], ptype: ptype,
       pubDate: ts.toISOString(),
       articleUrl: SITE_URL + '/a/' + r[0] + '.html'
     });
@@ -217,27 +229,30 @@ function getDraftsSheet_() {
   var sheet = ss.getSheetByName(DRAFTS_SHEET_NAME);
   if (!sheet) {
     sheet = ss.insertSheet(DRAFTS_SHEET_NAME);
-    sheet.appendRow(['ID', 'Timestamp', 'Headline', 'Category', 'Summary', 'Body', 'Lang']);
-    sheet.getRange(1, 1, 1, 7).setFontWeight('bold');
+    sheet.appendRow(['ID', 'Timestamp', 'Headline', 'Category', 'Summary', 'Body', 'Lang', 'PostType']);
+    sheet.getRange(1, 1, 1, 8).setFontWeight('bold');
+  } else if (sheet.getLastColumn() < 8) {
+    sheet.getRange(1, 8).setValue('PostType').setFontWeight('bold');
   }
   return sheet;
 }
 
 function saveDraft_(data) {
   var id = data.id || ('d' + Date.now());
+  var ptype = data.ptype || 'editorial';
   var sheet = getDraftsSheet_();
   var rows  = sheet.getDataRange().getValues();
 
   for (var i = 1; i < rows.length; i++) {
     if (String(rows[i][0]) === String(id)) {
-      sheet.getRange(i + 1, 2, 1, 6).setValues([[
-        new Date(), data.hl || '', data.cat || 'Latest', data.sum || '', data.body || '', data.lang || 'hi'
+      sheet.getRange(i + 1, 2, 1, 7).setValues([[
+        new Date(), data.hl || '', data.cat || 'Latest', data.sum || '', data.body || '', data.lang || 'hi', ptype
       ]]);
       return json_({ ok: true, id: id });
     }
   }
 
-  sheet.appendRow([id, new Date(), data.hl || '', data.cat || 'Latest', data.sum || '', data.body || '', data.lang || 'hi']);
+  sheet.appendRow([id, new Date(), data.hl || '', data.cat || 'Latest', data.sum || '', data.body || '', data.lang || 'hi', ptype]);
   return json_({ ok: true, id: id });
 }
 
@@ -265,7 +280,7 @@ function listDrafts_() {
     var r = rows[i];
     if (!r[0]) continue;
     var ts = r[1] instanceof Date ? r[1] : new Date(r[1]);
-    out.push({ id: r[0], hl: r[2], cat: r[3], sum: r[4], body: r[5], lang: r[6], savedAt: ts.toISOString() });
+    out.push({ id: r[0], hl: r[2], cat: r[3], sum: r[4], body: r[5], lang: r[6], ptype: r[7] || 'editorial', savedAt: ts.toISOString() });
   }
   out.reverse(); // most recently edited first
   return out;
@@ -291,6 +306,15 @@ function listDrafts_() {
 // minutes to resolve. In-progress drafts autosave to "Live Desk Drafts",
 // visible only to the admin via the password-gated Live Desk panel, and are
 // deleted once published.
+//
+// POST TYPES: every story carries a PostType column — 'editorial' (shows in
+// the Opinion section), 'news' (merged by the frontend into the matching
+// category's tab on the News page, sorted in by date alongside the
+// auto-fetched news — see getCatItems() in index.html), or 'short' (VM Desk
+// banner/tab, Category column holds the old 'VMShort' sentinel). Rows
+// published before this column existed come back with it blank; listStories_
+// defaults those to 'editorial' (or 'short' if Category is still 'VMShort')
+// so nothing already published gets miscategorised.
 //
 // PHOTOS: this account's Apps Script project can't make outbound calls
 // (DriveApp and UrlFetchApp both fail with a broken/silent consent screen —
