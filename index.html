@@ -1111,11 +1111,14 @@
        into the reading flow. ── */
     .side-ad-rail {
       position: absolute; top: 210px; right: 18px; z-index: 50;
-      display: flex; flex-direction: column;
+      display: flex; flex-direction: column; gap: 16px;
       height: 70vh; min-height: 320px;
     }
-    .side-ad-rail .ad-strip { width: 160px; height: 100%; margin: 0; display: flex; flex-direction: column; }
-    .side-ad-rail .ad-banner-slot { width: 160px; flex: 1; }
+    /* Two equal ad slots split the rail's full length between them
+       (flex: 1 each), so the rail still starts and ends where it did
+       as one long strip -- just divided into two sellable ads. */
+    .side-ad-rail .ad-strip { width: 160px; flex: 1; min-height: 0; margin: 0; display: flex; flex-direction: column; }
+    .side-ad-rail .ad-banner-slot { width: 160px; flex: 1; min-height: 0; }
     .side-ad-rail .ad-ph-hi { font-size: 15px; }
     .side-ad-rail .ad-ph-en { font-size: 9px; }
     .side-ad-rail .ad-contact-label { font-size: 8px; }
@@ -1582,6 +1585,19 @@
        edge of the page, on both desktop and phones (narrower on phones --
        see the mobile CSS on .side-ad-rail). -->
   <div class="side-ad-rail">
+    <div class="ad-strip">
+      <span class="ad-banner-label">Advertisement</span>
+      <div class="ad-banner-slot">
+        <div class="ad-placeholder">
+          <div class="ad-ticker-inner">
+            <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
+            <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
+            <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
+            <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="ad-strip">
       <span class="ad-banner-label">Advertisement</span>
       <div class="ad-banner-slot">
