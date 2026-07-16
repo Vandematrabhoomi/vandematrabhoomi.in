@@ -28,9 +28,6 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch latest news
-        run: python fetch_news.py
-
       - name: Process Live Desk photos
         run: python process_livedesk_media.py
 
