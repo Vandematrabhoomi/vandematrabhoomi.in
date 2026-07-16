@@ -1099,9 +1099,10 @@
        stretched all the way down to the bottom of the page (both set via JS,
        see alignAdRail()) so it's never independently floating above the
        content, and never runs out of height and leaves the lower part of the
-       page without an ad strip beside it. On phones (no side gutter to put
-       it in) it reflows into a normal banner-height block in the page flow
-       instead of disappearing. ── */
+       page without an ad strip beside it. Same mechanism on phones as on
+       desktop -- narrower rail, narrower reserved gutter -- so it stays a
+       side column next to the content instead of a full-width block stacked
+       into the reading flow. ── */
     .side-ad-rail {
       position: absolute; top: 210px; right: 18px; z-index: 50;
       display: flex; flex-direction: column;
@@ -1117,23 +1118,22 @@
       .main { margin-right: 190px; }
     }
     @media (max-width: 768px) {
-      .side-ad-rail {
-        position: static; width: auto; height: auto; min-height: 0; z-index: auto;
-        margin: 14px 14px 14px;
-      }
-      /* height:auto here (not a fixed 140px) -- this box has to hold BOTH
-         the "Advertisement" label AND the 140px slot below it, so forcing
-         its own height to 140px made the label+slot overflow the box and
-         visually collide with whatever comes right after it. */
-      .side-ad-rail .ad-strip { width: 100%; height: auto; }
-      .side-ad-rail .ad-banner-slot { width: 100%; height: 140px; flex: none; }
+      .main { margin-right: 108px; }
+      .side-ad-rail { right: 8px; }
+      .side-ad-rail .ad-strip { width: 100px; }
+      .side-ad-rail .ad-banner-slot { width: 100px; }
+      .side-ad-rail .ad-ph-hi { font-size: 10px; }
+      .side-ad-rail .ad-ph-en { font-size: 6.5px; }
+      .side-ad-rail .ad-contact-label { font-size: 6px; }
+      .side-ad-rail .ad-placeholder a { font-size: 6.5px; }
     }
 
     /* ── Participate CTA box ──────────────────────────
-       Sits right above the side ad rail on desktop (top set via JS,
-       see alignAdRail()); reflows to a normal in-page block on phones
-       since there's no side gutter to float it in there. ── */
+       Sits right above the side ad rail (top set via JS, see
+       alignAdRail()), same side column on both desktop and phones --
+       just narrower there, to match the narrower rail. ── */
     .cta-box {
+      position: absolute; right: 18px; width: 160px; z-index: 50;
       background: linear-gradient(155deg, var(--red) 0%, var(--red-dark) 100%);
       border-radius: 6px;
       padding: 14px 12px 12px;
@@ -1164,11 +1164,11 @@
     }
     .cta-item:hover { background: rgba(255,255,255,.24); }
     .cta-item-icon { font-size: 16px; flex-shrink: 0; }
-    @media (min-width: 769px) {
-      .cta-box { position: absolute; right: 18px; width: 160px; z-index: 50; }
-    }
     @media (max-width: 768px) {
-      .cta-box { margin: 14px 14px 0; }
+      .cta-box { right: 8px; width: 100px; padding: 8px 6px 6px; gap: 6px; }
+      .cta-badge { font-size: 9px; padding: 5px; border-radius: 14px; }
+      .cta-item { font-size: 7.5px; padding: 6px; gap: 4px; }
+      .cta-item-icon { font-size: 11px; }
     }
 
     /* ── Opinion coming-soon state ──────────────────── */
@@ -1557,9 +1557,9 @@
     </ul>
   </nav>
 
-  <!-- Participate CTA — fills the gutter above the side ad rail on desktop;
-       shows inline near the top of the page on phones, where there's no
-       side gutter to place it in. -->
+  <!-- Participate CTA — fills the gutter above the side ad rail, on the
+       right edge of the page on both desktop and phones (narrower on
+       phones, same mechanism -- see the mobile CSS on .cta-box). -->
   <div class="cta-box" id="cta-box">
     <div class="cta-badge" data-hi="👉 क्लिक करें और भाग लें" data-en="👉 Click &amp; Participate">👉 क्लिक करें और भाग लें</div>
     <a class="cta-item" href="https://www.youtube.com/@vande_matrabhoomi" target="_blank" rel="noopener noreferrer">
@@ -1572,10 +1572,9 @@
     </a>
   </div>
 
-  <!-- Side Ad Rail — one long floating skyscraper strip on desktop;
-       reflows into a normal banner-height ad in the page flow on phones
-       (placed here, right beside the CTA box, so it shows up near the
-       top of the page on mobile instead of being buried at the bottom). -->
+  <!-- Side Ad Rail — one long floating skyscraper strip on the right
+       edge of the page, on both desktop and phones (narrower on phones --
+       see the mobile CSS on .side-ad-rail). -->
   <div class="side-ad-rail">
     <div class="ad-strip">
       <span class="ad-banner-label">Advertisement</span>
@@ -2616,23 +2615,15 @@ function setSection(name) {
    Also stretches the rail all the way down to the bottom of the
    page, so the ad strip runs the full length of the page instead
    of ending partway down and leaving bare space beside the rest
-   of the content as the page scrolls. Finally, on desktop widths,
-   sits the participate CTA box snugly right above the rail so
-   there's no bare gap left between the top of the gutter and
-   where the ad strip begins. On phones the rail and CTA box are
-   normal in-page blocks (see the mobile CSS), so none of this
-   positioning math applies there. ── */
+   of the content as the page scrolls. Also sits the participate CTA
+   box snugly right above the rail so there's no bare gap left
+   between the top of the gutter and where the ad strip begins.
+   Same math on phones as on desktop -- only the CSS widths/offsets
+   differ (see the mobile media queries on .side-ad-rail/.cta-box),
+   so both stay a side column next to the content everywhere. ── */
 function alignAdRail() {
   var rail = document.querySelector('.side-ad-rail');
   var cta  = document.querySelector('.cta-box');
-  if (window.innerWidth <= 768) {
-    // Mobile: both are normal in-flow blocks (see the mobile CSS) -- clear
-    // any inline top/height left over from a wider viewport so they don't
-    // override the mobile layout after a resize/rotation.
-    if (rail) { rail.style.top = ''; rail.style.height = ''; }
-    if (cta)  { cta.style.top = ''; }
-    return;
-  }
   var activeSection = document.querySelector('.section.active');
   if (!rail || !activeSection) return;
   var adBanner = activeSection.querySelector('.ad-banner, .ad-strip');
