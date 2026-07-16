@@ -17,6 +17,7 @@ function doPost(e) {
     if (data.type === 'story')       return publishStory_(data);
     if (data.type === 'draft')       return saveDraft_(data);
     if (data.type === 'deleteDraft') return deleteDraft_(data.id);
+    if (data.type === 'deleteStory') return deleteStory_(data.id);
     if (data.type === 'setMediaUrl') return setMediaUrl_(data.id, data.url);
     return addSubscriber_(data);
   } catch (err) {
@@ -190,6 +191,24 @@ function deleteMediaRow_(id) {
       return;
     }
   }
+}
+
+// Admin delete of a published story (doPost {type:'deleteStory'}). Removes
+// the story row plus any pending media-chunk row; the static share page
+// under /a/ is cleaned up by generate_article_pages.py on the next
+// workflow run (it deletes pages whose id no longer exists here).
+function deleteStory_(id) {
+  if (!id) return ContentService.createTextOutput('error: id required');
+  var sheet = getStoriesSheet_();
+  var rows  = sheet.getDataRange().getValues();
+  for (var i = 1; i < rows.length; i++) {
+    if (String(rows[i][0]) === String(id)) {
+      sheet.deleteRow(i + 1);
+      try { deleteMediaRow_(id); } catch (mediaErr) { /* best-effort cleanup */ }
+      return ContentService.createTextOutput('ok');
+    }
+  }
+  return ContentService.createTextOutput('error: story not found');
 }
 
 // `articleUrl` is generated here so the frontend has a stable share link

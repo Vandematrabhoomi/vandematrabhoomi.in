@@ -207,12 +207,24 @@ def run():
     req = urllib.request.Request(STORIES_URL, headers={"User-Agent": "VandeMatrabhoomi/1.0"})
     with urllib.request.urlopen(req, timeout=30) as resp:
         stories = json.loads(resp.read().decode("utf-8"))
+    if not isinstance(stories, list):
+        raise RuntimeError(f"unexpected stories payload: {stories!r:.200}")
 
     written = 0
     for story in stories:
         path = os.path.join(ARTICLE_DIR, f"{story['id']}.html")
         if os.path.exists(path):
-            continue
+            # Regenerate if the story's own photo arrived after the page was
+            # first written (media is processed by a separate workflow step,
+            # so the first generation can race ahead of it) -- otherwise the
+            # share preview would keep its placeholder image forever.
+            media = story.get("mediaUrl") or ""
+            if not media:
+                continue
+            with open(path, encoding="utf-8") as f:
+                if media in f.read():
+                    continue
+            print(f"  photo arrived for {story['id']} — regenerating its page")
         if not story.get("mediaUrl"):
             related = find_related_image(story)
             if related:
@@ -222,7 +234,23 @@ def run():
         written += 1
         print(f"  wrote a/{story['id']}.html — {story.get('hl', '')[:60]}")
 
-    print(f"Done — {written} new article page(s), {len(stories)} total stories checked.")
+    # Remove pages for stories that were deleted from the sheet, so a
+    # deleted article's share link stops resolving instead of serving
+    # stale content forever. Only runs when the stories fetch succeeded
+    # (we'd have raised above otherwise), so a flaky backend can't wipe
+    # every page with an empty response... unless the sheet really is
+    # empty, in which case removing them all is correct.
+    live_ids = {str(s["id"]) for s in stories}
+    removed = 0
+    for fname in os.listdir(ARTICLE_DIR):
+        if not fname.endswith(".html"):
+            continue
+        if fname[:-5] not in live_ids:
+            os.remove(os.path.join(ARTICLE_DIR, fname))
+            removed += 1
+            print(f"  removed a/{fname} — story deleted from the sheet")
+
+    print(f"Done — {written} page(s) written, {removed} removed, {len(stories)} stories checked.")
 
 
 if __name__ == "__main__":

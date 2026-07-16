@@ -712,6 +712,16 @@
       color: #2a7a3c; background: #e8f5ec;
       padding: 2px 8px; border-radius: 3px;
     }
+    .story-del {
+      margin-left: 8px;
+      font-family: 'Archivo', sans-serif;
+      font-size: 10px; font-weight: 700;
+      color: #b00000; background: #fdecec;
+      border: 1px solid #f2c3c3; border-radius: 3px;
+      padding: 2px 8px; cursor: pointer;
+      transition: background .15s;
+    }
+    .story-del:hover { background: #f8d7d7; }
     .story-hl {
       font-family: 'Noto Serif Devanagari', serif;
       font-size: 17px; font-weight: 600;
@@ -1138,11 +1148,12 @@
     }
 
     /* ── Participate CTA box ──────────────────────────
-       Sits right above the side ad rail (top set via JS, see
-       alignAdRail()), same side column on both desktop and phones --
-       just narrower there, to match the narrower rail. ── */
+       Pinned to the viewport (position: fixed) at the top of the side
+       gutter, so it stays put in the exact same spot while the page --
+       and the ad rail beneath it -- scrolls, on every tab. z-index one
+       above the rail so the rail slides under it cleanly. ── */
     .cta-box {
-      position: absolute; right: 18px; width: 160px; z-index: 50;
+      position: fixed; top: 120px; right: 18px; width: 160px; z-index: 51;
       background: linear-gradient(155deg, var(--red) 0%, var(--red-dark) 100%);
       border-radius: 6px;
       padding: 14px 12px 12px;
@@ -2169,6 +2180,7 @@ function checkAdminPass() {
     setSection('desk');
     document.querySelectorAll('.sb-tab').forEach(function(t){ t.classList.toggle('active', t.dataset.sec === 'desk'); });
     loadDrafts();
+    renderFeed();   // re-render so the admin-only delete buttons appear
   } else {
     document.getElementById('admin-err').style.display = 'block';
     document.getElementById('admin-pass').value = '';
@@ -2257,7 +2269,10 @@ function getCatItems(key) {
     var langData = window.VM_NEWS[lang] || window.VM_NEWS.en || {};
     raw = (langData[key] || (window.VM_NEWS.en && window.VM_NEWS.en[key]) || []).slice();
   }
-  var manual = newsStories().filter(function(s){ return s.cat === key && s.lang === lang; });
+  // 'top' (the homepage's default tab) shows every manually-published News
+  // post regardless of its category, same as Prasar Bharati's top feed did;
+  // the category tabs each show just their own.
+  var manual = newsStories().filter(function(s){ return s.lang === lang && (key === 'top' || s.cat === key); });
   if (manual.length) {
     manual.forEach(function(s){
       raw.push({
@@ -2636,29 +2651,25 @@ function setSection(name) {
    of a hardcoded guess -- so it stays lined up no matter which
    tab is open, whether the breaking-news ticker is showing, or
    which language's text is currently reflowing the masthead.
-   Also stretches the rail all the way down to the bottom of the
-   page, so the ad strip runs the full length of the page instead
-   of ending partway down and leaving bare space beside the rest
-   of the content as the page scrolls. Also sits the participate CTA
-   box snugly right above the rail so there's no bare gap left
-   between the top of the gutter and where the ad strip begins.
-   Same math on phones as on desktop -- only the CSS widths/offsets
-   differ (see the mobile media queries on .side-ad-rail/.cta-box),
-   so both stay a side column next to the content everywhere. ── */
+   Also stretches the rail down to exactly where the page content
+   (.main) ends -- measured from .main itself, NOT from the
+   document's scrollHeight: the rail is part of the document, so
+   measuring the document meant an over-tall rail defined its own
+   "page bottom" and could never shrink back, leaving the ad
+   running long past the content with white space beside it.
+   (The participate CTA box is position:fixed via CSS and needs
+   no JS positioning.) ── */
 function alignAdRail() {
   var rail = document.querySelector('.side-ad-rail');
-  var cta  = document.querySelector('.cta-box');
+  var main = document.querySelector('.main');
   var activeSection = document.querySelector('.section.active');
-  if (!rail || !activeSection) return;
+  if (!rail || !main || !activeSection) return;
   var adBanner = activeSection.querySelector('.ad-banner, .ad-strip');
   if (!adBanner) return;
   var top = adBanner.getBoundingClientRect().top + window.scrollY;
-  var pageBottom = document.documentElement.scrollHeight;
+  var contentBottom = main.getBoundingClientRect().bottom + window.scrollY;
   rail.style.top = top + 'px';
-  rail.style.height = Math.max(pageBottom - top - 24, 320) + 'px';
-  if (cta) {
-    cta.style.top = Math.max(top - cta.offsetHeight - 14, 12) + 'px';
-  }
+  rail.style.height = Math.max(contentBottom - top, 320) + 'px';
 }
 window.addEventListener('resize', alignAdRail);
 window.addEventListener('load', alignAdRail);
@@ -3083,7 +3094,14 @@ function loadStories() {
         return {
           id: s.id, hl: s.hl, cat: s.cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
           lang: s.lang || 'hi', articleUrl: s.articleUrl || '',
-          ptype: s.ptype || (s.cat === 'VMShort' ? 'short' : 'editorial'),
+          // Backend may omit ptype (rows published before the PostType column,
+          // or an older deployment that drops the field). Infer it from the
+          // category: News posts use the lowercase feed keys (national,
+          // politics, ...) which editorials never do -- editorial categories
+          // are capitalized (Latest, Nation, ...). This is what keeps News
+          // posts out of the Opinion section even without backend support.
+          ptype: s.ptype || (s.cat === 'VMShort' ? 'short'
+                 : (NEWS_CATS.indexOf(s.cat) !== -1 ? 'news' : 'editorial')),
           pub: s.pubDate,
           dateHi: d.toLocaleDateString('hi-IN', { day:'numeric', month:'long', year:'numeric' }),
           dateEn: d.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
@@ -3137,6 +3155,11 @@ function renderFeed() {
         + '<span class="cat-badge">'+esc(catLabel(s.cat))+'</span>'
         + '<span class="story-dt">'+esc(lang==='hi'?s.dateHi:s.dateEn)+'</span>'
         + '<span class="live-tag">'+liveText+'</span>'
+        + (deskAuth
+            ? '<button class="story-del" onclick="deleteStory(\''+s.id+'\')" title="'
+              + (lang==='hi' ? 'यह समाचार हटाएं' : 'Delete this story')+'">🗑 '
+              + (lang==='hi' ? 'हटाएं' : 'Delete')+'</button>'
+            : '')
       + '</div>'
       + '<div class="story-hl">'+esc(s.hl)+'</div>'
       + (s.sum ? '<div class="story-sum">'+esc(s.sum)+'</div>' : '')
@@ -3145,6 +3168,31 @@ function renderFeed() {
           : '')
     + '</div>';
   }).join('');
+}
+
+/* Admin-only: remove a published story. Deletes the sheet row via the
+   Apps Script endpoint; the story disappears from the site immediately
+   on the next stories refresh, and its share page under /a/ is cleaned
+   up by generate_article_pages.py on the next workflow run. */
+function deleteStory(id) {
+  if (!deskAuth || !VM_LIVEDESK_URL) return;
+  var s = stories.filter(function(x){ return String(x.id) === String(id); })[0];
+  var name = s ? '"' + (s.hl || '').slice(0, 60) + '"' : '';
+  if (!window.confirm(lang==='hi'
+      ? 'क्या आप वाकई यह समाचार हटाना चाहते हैं? ' + name
+      : 'Really delete this story? ' + name)) return;
+  fetch(VM_LIVEDESK_URL, { method: 'POST', body: JSON.stringify({ type: 'deleteStory', id: id }) })
+    .then(function(r){ return r.text(); })
+    .then(function(t){
+      if (t.indexOf('error') === 0) {
+        alert(lang==='hi' ? 'हटाया नहीं जा सका। पुनः प्रयास करें।' : 'Could not delete. Please try again.');
+        return;
+      }
+      loadStories();
+    })
+    .catch(function(){
+      alert(lang==='hi' ? 'हटाया नहीं जा सका। पुनः प्रयास करें।' : 'Could not delete. Please try again.');
+    });
 }
 
 /* ── VM Desk homepage notification strip ─────────────── */
