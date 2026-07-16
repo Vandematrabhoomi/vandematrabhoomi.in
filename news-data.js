@@ -1,8 +1,41 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-16T00:29:16.552410",
+  "generated": "2026-07-16T02:34:47.734091",
   "en": {
     "top": [
+      {
+        "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
+        "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
+        "article": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor spanning over 46 kilometres between National Highway-19 and the Varanasi Ring Road in Uttar Pradesh under the Hybrid Annuity Model. The project will be built at a total capital cost of over 14,400 crore rupees. Briefing the media in New Delhi, Information and Broadcasting Minister Ashwini Vaishnaw said the other project involves the development of an around 43-kilometre-long six-lane and four-lane Elevated Corridor along the Varuna River bank in Varanasi at a cost of around 11,000 crore rupees. The Union Cabinet also approved Semicon 2.0 with a budgetary outlay of 1,27,500 crore rupees to strengthen India&#8217;s semiconductor design and manufacturing ecosystem. Mr Vaishnaw said that, building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to placing India on the global semiconductor map. He said investments worth around four lakh crore rupees are expected under Semicon 2.0. The Minister said the Cabinet also approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of 62,500 crore rupees. He said the scheme aims to scale up domestic mobile phone production, deepen local value addition and strengthen India&#8217;s position as a global electronics manufacturing hub. The Cabinet also approved two multitracking railway projects covering four districts in Odisha and Jharkhand, expanding the Indian Railways network by about 145 kilometres. It also approved the National Investment Policy for Urea-2026 under the vision of Atmanirbhar Bharat. The policy seeks to encourage new investments in the urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:56+00:00",
+        "link": "https://newsonair.gov.in/cabinet-approves-highway-projects-worth-over-%e2%82%b925000-crore-for-varanasiuttar-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "New IRCTC beta website launched for easier ticket booking",
+        "summary": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. […]",
+        "article": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. Second, passengers can view seat availability across all classes. Third, it offers a faster checkout process, significantly reducing the number of steps required to book tickets. Finally, the website will save passengers&#8217; details, making repeat bookings easier. The beta version can be accessed at https://www.irctc.co.in/eticket/. A link to the beta version has also been provided on the homepage of the existing website. The Ministry has urged users to provide feedback on its simplified features. The IRCTC website was first launched in 2002 and currently handles an average of around 14.5 lakh ticket bookings every day. There have been several complaints regarding its functioning and features. The beta version will also enable users to provide feedback on further improvements, which can be incorporated in future releases to enhance customer satisfaction.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:07+00:00",
+        "link": "https://newsonair.gov.in/new-irctc-beta-website-launched-for-easier-ticket-booking/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Red Fort closed to public ahead of Independence Day celebrations",
+        "summary": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders […]",
+        "article": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders are issued every year ahead of Independence Day. On August 15, only those holding government-issued passes will be allowed to enter the Red Fort complex to attend the Independence Day celebrations, which are conducted under heightened security arrangements.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:25:33+00:00",
+        "link": "https://newsonair.gov.in/red-fort-closed-to-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "State legislatures are the heartbeat of Indian democracy: Vice President C. P. Radhakrishnan",
         "summary": "Vice President C. P. Radhakrishnan has said that by exercising their right to vote, people reaffirm their faith in democracy. He called upon elected representatives to uphold this trust by serving with honesty, integrity, and dedication. Addressing the Conference of Present and Former Members of the Rajasthan Legislative Assembly in Jaipur on the occassion […]",
@@ -11,17 +44,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:00:45+00:00",
         "link": "https://newsonair.gov.in/state-legislatures-are-the-heartbeat-of-indian-democracy-vice-president-c-p-radhakrishnan/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cabinet Approves two Elevated Corridors to Decongest Varanasi and improve urban mobility",
-        "summary": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 […]",
-        "article": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 thousand 4 hundered crore rupees and will provide seamless connectivity between NH-19 and the Varanasi Ring Road, significantly decongesting the city&#8217;s road network and improving urban mobility. It is expected to reduce the average travel time across the project influence area from approximately 60 minutes to 20 minutes. He added that the project will significantly improve connectivity to major religious, educational and cultural landmarks. The Union Cabinet has also approved development of around 43 kilometer 6 and 4 lane Elevated Corridor along Varuna River Bank in Uttar Pradesh at total Capital Cost of around 11 thousand crore rupees. Mr Vaishnaw said that the corridor is a major component of the Varanasi Decongestion Plan and will provide seamless connectivity between NH-31 and Kashi Railway Station. He said, it will also substantially improve access to Varanasi Ring Road, Varanasi Airport, Kashi Railway Station,Varanasi Junction, Deen Dayal Upadhyaya Junction.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:10:56+00:00",
-        "link": "https://newsonair.gov.in/cabinet-approves-two-elevated-corridors-to-decongest-varanasi-approved-%f0%9d%90%92%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%a2%f0%9d%90%9c%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%9f%90-%f0%9d%9f%8e-to-develop-semico/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Cabinet-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -70,28 +92,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s first hydrogen train to be flagged off between Jind and Sonipat in Haryana",
-        "summary": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium […]",
-        "article": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium in Jind. Mr Modi will travel to Chandigarh in the afternoon where he will lay the foundation stone and inaugurate various development projects worth over six thousand 600 crore rupees spanning healthcare, education and road infrastructure. He will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar where he will lay the foundation stone and inaugurate multiple development projects worth over five thousand 470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. He will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:55:22+00:00",
-        "link": "https://newsonair.gov.in/indias-first-hydrogen-train-to-be-flagged-off-between-jind-and-sonipat-in-haryana/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/train-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Goods worth 140 million exported to UK on the first day of CETA: Commerce Secretary",
-        "summary": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for […]",
-        "article": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for Viksit Bharat by 2047. He said, this is one of the most aspirational and biggest trade agreements, which will open up opportunities in market access on both sides. The secretary said that this will not only give a boost to the country&#8217;s merchandise trade but also give a boost to services in coming days. Talking to Akashvani News, High Commissioner of UK to India, Lindy Cameron, said that this agreement is a great deal for both sides. Chairman of Apparel Export Promotion Council (AEPC) Dr A Sakthivel said that due to this agreement, exports will be doubled in one and a half years. Tarun Bajaj of Agricultural and Processed Food Products Export Development Authority said this agreement will be beneficial for the agricultural and processing sector. Executive Director of Gem and Jewellery Export Promotion Council Sabyasachi Ray said that the Gems and Jewellery sector will immensely benefit from this agreement.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:03:51+00:00",
-        "link": "https://newsonair.gov.in/goods-worth-140-million-exported-to-uk-on-the-first-day-of-ceta-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "US launches new round of attacks to degrade military capabilities of Iran",
         "summary": "The US military has said that it has launched a new round of attacks on Iran today. The US military’s Central Command (CENTCOM) said, the strikes are designed to further degrade military capabilities Iranian forces have used to attack commercial shipping in the Strait of Hormuz. Meanwhile, Iran&#8217;s state media reported that US […]",
         "article": "The US military has said that it has launched a new round of attacks on Iran today. The US military’s Central Command (CENTCOM) said, the strikes are designed to further degrade military capabilities Iranian forces have used to attack commercial shipping in the Strait of Hormuz. Meanwhile, Iran&#8217;s state media reported that US strikes hit the southern port city of Bushehr, which houses the country&#8217;s only civilian nuclear power plant complex. On the other hand, Iran&#8217;s Islamic Revolutionary Guards Corps (IRGC) said that it conducted retaliatory strikes against the US military facilities in Bahrain and Jordan, attacking their military infrastructure, aircraft shelters, key command centres and strategic drones. In a statement, the IRGC said its Aerospace Force targetted the US military base at al-Azraq in Jordan in response to renewed US aggression against Iran. The IRGC claimed that a significant amount of US military attacks against Iran were conducted from American bases in Jordan. In a separate statement, the IRGC said its navy attacked the US Fifth Fleet’s facilities in Bahrain, targetting the NSI management centre, large warehouses sheltering military parts and equipment, the command and control centre, and fuel storage facilities. It said that the strikes were conducted in response to the US deploying its naval forces in the Indian Ocean and blocking maritime routes under the pretext of controlling the Strait of Hormuz.",
@@ -99,28 +99,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T12:25:55+00:00",
         "link": "https://newsonair.gov.in/us-iran-intensify-air-strikes-as-naval-blockage-reimposed/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Naval-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "First consignments from different parts of India sent to UK under CETA",
-        "summary": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said […]",
-        "article": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said that the goods from both countries will get preferential tariffs that will further boost bilateral trade between the two countries. In West Bengal , as part of the flag-off ceremony, an event has been organised in Kolkata, at the Netaji Subhash Chandra Bose International Airport cargo complex today. Gold jewellery, betel leaves, coffee and tea export consignments ceremonially sent from the international cargo complex of the NSCBI airport in Kolkata today. Jute, engineering products and goods from north east would be benefitted with this Free Trade Agreement. Addressing the programme the Commerce and Industry Minister of West Bengal Tapas Roy called it a historical day. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri and Regional Head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana’s products in the UK market. Meanwhile, ready-made garments and woollen and worsted yarn were flagged off from Punjab’s Amritsar and Ludhiana. At Ludhiana, the ceremony was jointly organised at Sahnewal by DGFT (RA) Ludhiana, the Customs Commissionerate, Ludhiana, and FIEO. In Amritsar, the consignment of ready-made garments was flagged off from Sri Guru Ram Dass Jee International Airport through Air India’s direct flight to Birmingham. The agreement secures zero-duty market access for nearly 99% of India&#8217;s exports to the UK, expands opportunities across 137 services sub-sectors, and boosts key sectors, including textiles, leather, engineering, food processing, pharmaceuticals and MSMEs. In Maharashtra , export shipments were flagged off from Nhava Sheva and SEEPZ-SEZ in Mumbai. At Nhava Sheva, India’s largest containerised cargo port, the Directorate General of Foreign Trade (DGFT), Regional Authority Mumbai, flagged off consignments from seven exporters representing sectors including chemicals, pharmaceuticals, plastics, food products, enzymes, and spices, marking the commencement of exports under the agreement. Senior Customs and DGFT officials attended the ceremony. At SEEPZ-SEZ, India’s first Special Economic Zone and a leading export hub for gems and jewellery, Development Commissioner Dnyaneshwar B. Patil led a flag-off ceremony for export shipments to the United Kingdom. A presentation on the agreement highlighted that the gems and jewellery sector contributes over ₹2,109 crore to SEEPZ’s exports to the UK. With the UK’s 4% import duty abolished from today, the sector is expected to receive an annual tariff benefit of about ₹84 crore, besides improved competitiveness, higher investments, employment …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:56:00+00:00",
-        "link": "https://newsonair.gov.in/first-export-consignment-to-uk-flagged-off-from-hyderabad-under-india-uk-ceta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM S Jaishankar discusses clean and green energy technologies with EU officials",
-        "summary": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation hubs, startups and association with Horizon Europe. During his two-day official visit to Belgium, Dr Jaishankar also co-chaired the inaugural India-Belgium Strategic Dialogue in Brussels with Belgian Deputy Prime Minister and Minister of Foreign Affairs Maxime Prévot. The discussions in the dialogue focused on expanding bilateral ties and accelerating India-EU cooperation. He noted that deliberations reflected the ambition of India’s ties with Belgium, and the European Union. He noted that during the meeting they reviewed cooperation in political, economic, investments, clean energy, defence, mobility and pharmaceutical domains. The Meeting further followed discussions on exploring avenues of opportunities in ports, maritime, semiconductors as well as broader cooperation for supply chain de-risking. Two Sides also exchanged their perspectives on global developments, including in West Asia. Earlier in the morning, Dr Jaishankar also met European Commissioner for International Partnerships Jozef Síkela. Both leaders had discussions on advancing cooperation in connectivity, trilateral partnerships, IMEC and green shipping between the two nations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:38:16+00:00",
-        "link": "https://newsonair.gov.in/eam-s-jaishankar-discusses-clean-and-green-energy-technologies-with-eu-officials/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jaishankar.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -134,9 +112,64 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
+      },
+      {
+        "title": "Keralam begins exports under India-UK Comprehensive Economic and Trade Agreement",
+        "summary": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to […]",
+        "article": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to provide a major boost to food processing industries in Keralam. Since a substantial share of the state&#8217;s food industry comprises MSMEs, the benefits of the agreement are likely to reach a wider section of entrepreneurs. Other key sectors in Keralam that are expected to benefit from the agreement include seafood, textiles, and footwear. On the very first day the agreement came into force, the first seafood consignments to avail of its benefits were dispatched from Thiruvananthapuram and Kochi. These shipments mark the beginning of exports from Keralam under the India-UK trade agreement.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:44:42+00:00",
+        "link": "https://newsonair.gov.in/keralam-begins-exports-under-india-uk-comprehensive-economic-and-trade-agreement/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Palestine welcomes India’s decision to establish three development projects",
+        "summary": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &#160; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in […]",
+        "article": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &nbsp; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in the Gaza Strip, continue to face one of the gravest humanitarian crises of recent times. It said India&#8217;s commitment to establish a Specialty Hospital and an Artificial Limb Fitment Centre will make a meaningful contribution to strengthening healthcare services and supporting the rehabilitation of those most severely affected. &nbsp; It added that the proposed Vocational Training Institute represents an investment in the future of the Palestinian people by equipping young Palestinians with the skills needed to rebuild their communities and economy. &nbsp; Earlier on Monday, External Affairs Minister Dr S Jaishankar announced the initiative during the launch of India&#8217;s campaign for election to the United Nations Security Council for the 2028-29 term, in Brussels. The Embassy also welcomed India&#8217;s reaffirmation of its longstanding support for a negotiated two-State solution, with an independent State of Palestine and Israel living side by side in peace and security. It further welcomed India&#8217;s support for Palestine&#8217;s full membership of the United Nations and its continued humanitarian and development partnership with the Palestinian people.",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:41:55+00:00",
+        "link": "https://newsonair.gov.in/palestine-welcomes-indias-decision-to-establish-three-development-projects/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
+        "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
+        "article": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor spanning over 46 kilometres between National Highway-19 and the Varanasi Ring Road in Uttar Pradesh under the Hybrid Annuity Model. The project will be built at a total capital cost of over 14,400 crore rupees. Briefing the media in New Delhi, Information and Broadcasting Minister Ashwini Vaishnaw said the other project involves the development of an around 43-kilometre-long six-lane and four-lane Elevated Corridor along the Varuna River bank in Varanasi at a cost of around 11,000 crore rupees. The Union Cabinet also approved Semicon 2.0 with a budgetary outlay of 1,27,500 crore rupees to strengthen India&#8217;s semiconductor design and manufacturing ecosystem. Mr Vaishnaw said that, building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to placing India on the global semiconductor map. He said investments worth around four lakh crore rupees are expected under Semicon 2.0. The Minister said the Cabinet also approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of 62,500 crore rupees. He said the scheme aims to scale up domestic mobile phone production, deepen local value addition and strengthen India&#8217;s position as a global electronics manufacturing hub. The Cabinet also approved two multitracking railway projects covering four districts in Odisha and Jharkhand, expanding the Indian Railways network by about 145 kilometres. It also approved the National Investment Policy for Urea-2026 under the vision of Atmanirbhar Bharat. The policy seeks to encourage new investments in the urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:56+00:00",
+        "link": "https://newsonair.gov.in/cabinet-approves-highway-projects-worth-over-%e2%82%b925000-crore-for-varanasiuttar-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "New IRCTC beta website launched for easier ticket booking",
+        "summary": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. […]",
+        "article": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. Second, passengers can view seat availability across all classes. Third, it offers a faster checkout process, significantly reducing the number of steps required to book tickets. Finally, the website will save passengers&#8217; details, making repeat bookings easier. The beta version can be accessed at https://www.irctc.co.in/eticket/. A link to the beta version has also been provided on the homepage of the existing website. The Ministry has urged users to provide feedback on its simplified features. The IRCTC website was first launched in 2002 and currently handles an average of around 14.5 lakh ticket bookings every day. There have been several complaints regarding its functioning and features. The beta version will also enable users to provide feedback on further improvements, which can be incorporated in future releases to enhance customer satisfaction.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:07+00:00",
+        "link": "https://newsonair.gov.in/new-irctc-beta-website-launched-for-easier-ticket-booking/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Red Fort closed to public ahead of Independence Day celebrations",
+        "summary": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders […]",
+        "article": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders are issued every year ahead of Independence Day. On August 15, only those holding government-issued passes will be allowed to enter the Red Fort complex to attend the Independence Day celebrations, which are conducted under heightened security arrangements.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:25:33+00:00",
+        "link": "https://newsonair.gov.in/red-fort-closed-to-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "State legislatures are the heartbeat of Indian democracy: Vice President C. P. Radhakrishnan",
         "summary": "Vice President C. P. Radhakrishnan has said that by exercising their right to vote, people reaffirm their faith in democracy. He called upon elected representatives to uphold this trust by serving with honesty, integrity, and dedication. Addressing the Conference of Present and Former Members of the Rajasthan Legislative Assembly in Jaipur on the occassion […]",
@@ -145,17 +178,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:00:45+00:00",
         "link": "https://newsonair.gov.in/state-legislatures-are-the-heartbeat-of-indian-democracy-vice-president-c-p-radhakrishnan/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cabinet Approves two Elevated Corridors to Decongest Varanasi and improve urban mobility",
-        "summary": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 […]",
-        "article": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 thousand 4 hundered crore rupees and will provide seamless connectivity between NH-19 and the Varanasi Ring Road, significantly decongesting the city&#8217;s road network and improving urban mobility. It is expected to reduce the average travel time across the project influence area from approximately 60 minutes to 20 minutes. He added that the project will significantly improve connectivity to major religious, educational and cultural landmarks. The Union Cabinet has also approved development of around 43 kilometer 6 and 4 lane Elevated Corridor along Varuna River Bank in Uttar Pradesh at total Capital Cost of around 11 thousand crore rupees. Mr Vaishnaw said that the corridor is a major component of the Varanasi Decongestion Plan and will provide seamless connectivity between NH-31 and Kashi Railway Station. He said, it will also substantially improve access to Varanasi Ring Road, Varanasi Airport, Kashi Railway Station,Varanasi Junction, Deen Dayal Upadhyaya Junction.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:10:56+00:00",
-        "link": "https://newsonair.gov.in/cabinet-approves-two-elevated-corridors-to-decongest-varanasi-approved-%f0%9d%90%92%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%a2%f0%9d%90%9c%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%9f%90-%f0%9d%9f%8e-to-develop-semico/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Cabinet-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -193,47 +215,27 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s first hydrogen train to be flagged off between Jind and Sonipat in Haryana",
-        "summary": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium […]",
-        "article": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium in Jind. Mr Modi will travel to Chandigarh in the afternoon where he will lay the foundation stone and inaugurate various development projects worth over six thousand 600 crore rupees spanning healthcare, education and road infrastructure. He will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar where he will lay the foundation stone and inaugurate multiple development projects worth over five thousand 470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. He will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:55:22+00:00",
-        "link": "https://newsonair.gov.in/indias-first-hydrogen-train-to-be-flagged-off-between-jind-and-sonipat-in-haryana/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/train-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
+        "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
+        "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:23:47+00:00",
+        "link": "https://newsonair.gov.in/india-and-belgium-launch-strategic-dialogue-to-deepen-bilateral-ties/",
+        "post_id": 1740440,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Goods worth 140 million exported to UK on the first day of CETA: Commerce Secretary",
-        "summary": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for […]",
-        "article": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for Viksit Bharat by 2047. He said, this is one of the most aspirational and biggest trade agreements, which will open up opportunities in market access on both sides. The secretary said that this will not only give a boost to the country&#8217;s merchandise trade but also give a boost to services in coming days. Talking to Akashvani News, High Commissioner of UK to India, Lindy Cameron, said that this agreement is a great deal for both sides. Chairman of Apparel Export Promotion Council (AEPC) Dr A Sakthivel said that due to this agreement, exports will be doubled in one and a half years. Tarun Bajaj of Agricultural and Processed Food Products Export Development Authority said this agreement will be beneficial for the agricultural and processing sector. Executive Director of Gem and Jewellery Export Promotion Council Sabyasachi Ray said that the Gems and Jewellery sector will immensely benefit from this agreement.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:03:51+00:00",
-        "link": "https://newsonair.gov.in/goods-worth-140-million-exported-to-uk-on-the-first-day-of-ceta-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "First consignments from different parts of India sent to UK under CETA",
-        "summary": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said […]",
-        "article": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said that the goods from both countries will get preferential tariffs that will further boost bilateral trade between the two countries. In West Bengal , as part of the flag-off ceremony, an event has been organised in Kolkata, at the Netaji Subhash Chandra Bose International Airport cargo complex today. Gold jewellery, betel leaves, coffee and tea export consignments ceremonially sent from the international cargo complex of the NSCBI airport in Kolkata today. Jute, engineering products and goods from north east would be benefitted with this Free Trade Agreement. Addressing the programme the Commerce and Industry Minister of West Bengal Tapas Roy called it a historical day. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri and Regional Head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana’s products in the UK market. Meanwhile, ready-made garments and woollen and worsted yarn were flagged off from Punjab’s Amritsar and Ludhiana. At Ludhiana, the ceremony was jointly organised at Sahnewal by DGFT (RA) Ludhiana, the Customs Commissionerate, Ludhiana, and FIEO. In Amritsar, the consignment of ready-made garments was flagged off from Sri Guru Ram Dass Jee International Airport through Air India’s direct flight to Birmingham. The agreement secures zero-duty market access for nearly 99% of India&#8217;s exports to the UK, expands opportunities across 137 services sub-sectors, and boosts key sectors, including textiles, leather, engineering, food processing, pharmaceuticals and MSMEs. In Maharashtra , export shipments were flagged off from Nhava Sheva and SEEPZ-SEZ in Mumbai. At Nhava Sheva, India’s largest containerised cargo port, the Directorate General of Foreign Trade (DGFT), Regional Authority Mumbai, flagged off consignments from seven exporters representing sectors including chemicals, pharmaceuticals, plastics, food products, enzymes, and spices, marking the commencement of exports under the agreement. Senior Customs and DGFT officials attended the ceremony. At SEEPZ-SEZ, India’s first Special Economic Zone and a leading export hub for gems and jewellery, Development Commissioner Dnyaneshwar B. Patil led a flag-off ceremony for export shipments to the United Kingdom. A presentation on the agreement highlighted that the gems and jewellery sector contributes over ₹2,109 crore to SEEPZ’s exports to the UK. With the UK’s 4% import duty abolished from today, the sector is expected to receive an annual tariff benefit of about ₹84 crore, besides improved competitiveness, higher investments, employment …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:56:00+00:00",
-        "link": "https://newsonair.gov.in/first-export-consignment-to-uk-flagged-off-from-hyderabad-under-india-uk-ceta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM S Jaishankar discusses clean and green energy technologies with EU officials",
-        "summary": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation hubs, startups and association with Horizon Europe. During his two-day official visit to Belgium, Dr Jaishankar also co-chaired the inaugural India-Belgium Strategic Dialogue in Brussels with Belgian Deputy Prime Minister and Minister of Foreign Affairs Maxime Prévot. The discussions in the dialogue focused on expanding bilateral ties and accelerating India-EU cooperation. He noted that deliberations reflected the ambition of India’s ties with Belgium, and the European Union. He noted that during the meeting they reviewed cooperation in political, economic, investments, clean energy, defence, mobility and pharmaceutical domains. The Meeting further followed discussions on exploring avenues of opportunities in ports, maritime, semiconductors as well as broader cooperation for supply chain de-risking. Two Sides also exchanged their perspectives on global developments, including in West Asia. Earlier in the morning, Dr Jaishankar also met European Commissioner for International Partnerships Jozef Síkela. Both leaders had discussions on advancing cooperation in connectivity, trilateral partnerships, IMEC and green shipping between the two nations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:38:16+00:00",
-        "link": "https://newsonair.gov.in/eam-s-jaishankar-discusses-clean-and-green-energy-technologies-with-eu-officials/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jaishankar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EAM Dr S Jaishankar says India-EU partnership gaining strong momentum",
+        "summary": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology […]",
+        "article": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology Council meeting in Brussels yesterday, Dr Jaishankar said that India and the European Union share a natural affinity and have built a strong relationship based on trust. He said both sides are now working to translate that trust into deeper cooperation in business and technology. Dr Jaishankar also announced that India and the European Union will begin negotiations for India&#8217;s association with the Horizon Europe programme. He added that both sides have agreed to establish the first Innovation Hub focused on EV charging infrastructure standards. Commerce and Industry Minister Piyush Goyal described the proposed India-EU Free Trade Agreement as fair, equitable and balanced, calling it a win-win arrangement for all sectors in both economies. Highlighting the outcomes of the meeting, Mr Goyal said India and the European Union share a vision for an innovation-driven, trusted and future-ready growth partnership. He said the Trade and Technology Council has emerged as an important pillar of bilateral engagement and has helped both sides move from discussions to delivery. Mr Goyal added that India and the European Union are committed to reducing dependencies in critical sectors and to building reliable, resilient and diversified supply chains.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:33:58+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-says-india-eu-partnership-gaining-strong-momentum/",
+        "post_id": 1740312,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -250,6 +252,39 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
+        "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
+        "article": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor spanning over 46 kilometres between National Highway-19 and the Varanasi Ring Road in Uttar Pradesh under the Hybrid Annuity Model. The project will be built at a total capital cost of over 14,400 crore rupees. Briefing the media in New Delhi, Information and Broadcasting Minister Ashwini Vaishnaw said the other project involves the development of an around 43-kilometre-long six-lane and four-lane Elevated Corridor along the Varuna River bank in Varanasi at a cost of around 11,000 crore rupees. The Union Cabinet also approved Semicon 2.0 with a budgetary outlay of 1,27,500 crore rupees to strengthen India&#8217;s semiconductor design and manufacturing ecosystem. Mr Vaishnaw said that, building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to placing India on the global semiconductor map. He said investments worth around four lakh crore rupees are expected under Semicon 2.0. The Minister said the Cabinet also approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of 62,500 crore rupees. He said the scheme aims to scale up domestic mobile phone production, deepen local value addition and strengthen India&#8217;s position as a global electronics manufacturing hub. The Cabinet also approved two multitracking railway projects covering four districts in Odisha and Jharkhand, expanding the Indian Railways network by about 145 kilometres. It also approved the National Investment Policy for Urea-2026 under the vision of Atmanirbhar Bharat. The policy seeks to encourage new investments in the urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:56+00:00",
+        "link": "https://newsonair.gov.in/cabinet-approves-highway-projects-worth-over-%e2%82%b925000-crore-for-varanasiuttar-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "New IRCTC beta website launched for easier ticket booking",
+        "summary": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. […]",
+        "article": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. Second, passengers can view seat availability across all classes. Third, it offers a faster checkout process, significantly reducing the number of steps required to book tickets. Finally, the website will save passengers&#8217; details, making repeat bookings easier. The beta version can be accessed at https://www.irctc.co.in/eticket/. A link to the beta version has also been provided on the homepage of the existing website. The Ministry has urged users to provide feedback on its simplified features. The IRCTC website was first launched in 2002 and currently handles an average of around 14.5 lakh ticket bookings every day. There have been several complaints regarding its functioning and features. The beta version will also enable users to provide feedback on further improvements, which can be incorporated in future releases to enhance customer satisfaction.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:07+00:00",
+        "link": "https://newsonair.gov.in/new-irctc-beta-website-launched-for-easier-ticket-booking/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Red Fort closed to public ahead of Independence Day celebrations",
+        "summary": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders […]",
+        "article": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders are issued every year ahead of Independence Day. On August 15, only those holding government-issued passes will be allowed to enter the Red Fort complex to attend the Independence Day celebrations, which are conducted under heightened security arrangements.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:25:33+00:00",
+        "link": "https://newsonair.gov.in/red-fort-closed-to-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "State legislatures are the heartbeat of Indian democracy: Vice President C. P. Radhakrishnan",
         "summary": "Vice President C. P. Radhakrishnan has said that by exercising their right to vote, people reaffirm their faith in democracy. He called upon elected representatives to uphold this trust by serving with honesty, integrity, and dedication. Addressing the Conference of Present and Former Members of the Rajasthan Legislative Assembly in Jaipur on the occassion […]",
         "article": "Vice President C. P. Radhakrishnan has said that by exercising their right to vote, people reaffirm their faith in democracy. He called upon elected representatives to uphold this trust by serving with honesty, integrity, and dedication. Addressing the Conference of Present and Former Members of the Rajasthan Legislative Assembly in Jaipur on the occassion of 75th anniversary of the Rajasthan Legislative Assembly, Mr Radhakrishnan said that State Legislatures are the heartbeat of Indian democracy. While Parliament reflects the aspirations of the nation, State Legislative Assemblies give voice to the hopes, dreams, and concerns of villages, towns, and families. He said this constitutes the true spirit and dignity of legislative institutions. The Vice President urged public representatives to remain humble while interacting with their constituents and to listen patiently to their concerns. He said constructive and policy-oriented suggestions, whether from members of the ruling party or the Opposition, should be duly considered, as they can bring about meaningful change. He added that the strength of democracy lies not in the grandeur of legislative buildings but in the quality of conduct, debate, and deliberations within them. Earlier, the valedictory session was addressed by Governor Haribhau Bagde, Chief Minister Bhajan Lal Sharma, and Rajasthan Legislative Assembly Speaker Vasudev Devnani. Lok Sabha Speaker Om Birla attended the inaugural session of the conference. Former and senior legislators were also felicitated on the occasion.",
@@ -257,17 +292,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:00:45+00:00",
         "link": "https://newsonair.gov.in/state-legislatures-are-the-heartbeat-of-indian-democracy-vice-president-c-p-radhakrishnan/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cabinet Approves two Elevated Corridors to Decongest Varanasi and improve urban mobility",
-        "summary": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 […]",
-        "article": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 thousand 4 hundered crore rupees and will provide seamless connectivity between NH-19 and the Varanasi Ring Road, significantly decongesting the city&#8217;s road network and improving urban mobility. It is expected to reduce the average travel time across the project influence area from approximately 60 minutes to 20 minutes. He added that the project will significantly improve connectivity to major religious, educational and cultural landmarks. The Union Cabinet has also approved development of around 43 kilometer 6 and 4 lane Elevated Corridor along Varuna River Bank in Uttar Pradesh at total Capital Cost of around 11 thousand crore rupees. Mr Vaishnaw said that the corridor is a major component of the Varanasi Decongestion Plan and will provide seamless connectivity between NH-31 and Kashi Railway Station. He said, it will also substantially improve access to Varanasi Ring Road, Varanasi Airport, Kashi Railway Station,Varanasi Junction, Deen Dayal Upadhyaya Junction.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:10:56+00:00",
-        "link": "https://newsonair.gov.in/cabinet-approves-two-elevated-corridors-to-decongest-varanasi-approved-%f0%9d%90%92%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%a2%f0%9d%90%9c%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%9f%90-%f0%9d%9f%8e-to-develop-semico/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Cabinet-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -305,47 +329,27 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s first hydrogen train to be flagged off between Jind and Sonipat in Haryana",
-        "summary": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium […]",
-        "article": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium in Jind. Mr Modi will travel to Chandigarh in the afternoon where he will lay the foundation stone and inaugurate various development projects worth over six thousand 600 crore rupees spanning healthcare, education and road infrastructure. He will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar where he will lay the foundation stone and inaugurate multiple development projects worth over five thousand 470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. He will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:55:22+00:00",
-        "link": "https://newsonair.gov.in/indias-first-hydrogen-train-to-be-flagged-off-between-jind-and-sonipat-in-haryana/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/train-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
+        "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
+        "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:23:47+00:00",
+        "link": "https://newsonair.gov.in/india-and-belgium-launch-strategic-dialogue-to-deepen-bilateral-ties/",
+        "post_id": 1740440,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Goods worth 140 million exported to UK on the first day of CETA: Commerce Secretary",
-        "summary": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for […]",
-        "article": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for Viksit Bharat by 2047. He said, this is one of the most aspirational and biggest trade agreements, which will open up opportunities in market access on both sides. The secretary said that this will not only give a boost to the country&#8217;s merchandise trade but also give a boost to services in coming days. Talking to Akashvani News, High Commissioner of UK to India, Lindy Cameron, said that this agreement is a great deal for both sides. Chairman of Apparel Export Promotion Council (AEPC) Dr A Sakthivel said that due to this agreement, exports will be doubled in one and a half years. Tarun Bajaj of Agricultural and Processed Food Products Export Development Authority said this agreement will be beneficial for the agricultural and processing sector. Executive Director of Gem and Jewellery Export Promotion Council Sabyasachi Ray said that the Gems and Jewellery sector will immensely benefit from this agreement.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:03:51+00:00",
-        "link": "https://newsonair.gov.in/goods-worth-140-million-exported-to-uk-on-the-first-day-of-ceta-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "First consignments from different parts of India sent to UK under CETA",
-        "summary": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said […]",
-        "article": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said that the goods from both countries will get preferential tariffs that will further boost bilateral trade between the two countries. In West Bengal , as part of the flag-off ceremony, an event has been organised in Kolkata, at the Netaji Subhash Chandra Bose International Airport cargo complex today. Gold jewellery, betel leaves, coffee and tea export consignments ceremonially sent from the international cargo complex of the NSCBI airport in Kolkata today. Jute, engineering products and goods from north east would be benefitted with this Free Trade Agreement. Addressing the programme the Commerce and Industry Minister of West Bengal Tapas Roy called it a historical day. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri and Regional Head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana’s products in the UK market. Meanwhile, ready-made garments and woollen and worsted yarn were flagged off from Punjab’s Amritsar and Ludhiana. At Ludhiana, the ceremony was jointly organised at Sahnewal by DGFT (RA) Ludhiana, the Customs Commissionerate, Ludhiana, and FIEO. In Amritsar, the consignment of ready-made garments was flagged off from Sri Guru Ram Dass Jee International Airport through Air India’s direct flight to Birmingham. The agreement secures zero-duty market access for nearly 99% of India&#8217;s exports to the UK, expands opportunities across 137 services sub-sectors, and boosts key sectors, including textiles, leather, engineering, food processing, pharmaceuticals and MSMEs. In Maharashtra , export shipments were flagged off from Nhava Sheva and SEEPZ-SEZ in Mumbai. At Nhava Sheva, India’s largest containerised cargo port, the Directorate General of Foreign Trade (DGFT), Regional Authority Mumbai, flagged off consignments from seven exporters representing sectors including chemicals, pharmaceuticals, plastics, food products, enzymes, and spices, marking the commencement of exports under the agreement. Senior Customs and DGFT officials attended the ceremony. At SEEPZ-SEZ, India’s first Special Economic Zone and a leading export hub for gems and jewellery, Development Commissioner Dnyaneshwar B. Patil led a flag-off ceremony for export shipments to the United Kingdom. A presentation on the agreement highlighted that the gems and jewellery sector contributes over ₹2,109 crore to SEEPZ’s exports to the UK. With the UK’s 4% import duty abolished from today, the sector is expected to receive an annual tariff benefit of about ₹84 crore, besides improved competitiveness, higher investments, employment …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:56:00+00:00",
-        "link": "https://newsonair.gov.in/first-export-consignment-to-uk-flagged-off-from-hyderabad-under-india-uk-ceta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM S Jaishankar discusses clean and green energy technologies with EU officials",
-        "summary": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation hubs, startups and association with Horizon Europe. During his two-day official visit to Belgium, Dr Jaishankar also co-chaired the inaugural India-Belgium Strategic Dialogue in Brussels with Belgian Deputy Prime Minister and Minister of Foreign Affairs Maxime Prévot. The discussions in the dialogue focused on expanding bilateral ties and accelerating India-EU cooperation. He noted that deliberations reflected the ambition of India’s ties with Belgium, and the European Union. He noted that during the meeting they reviewed cooperation in political, economic, investments, clean energy, defence, mobility and pharmaceutical domains. The Meeting further followed discussions on exploring avenues of opportunities in ports, maritime, semiconductors as well as broader cooperation for supply chain de-risking. Two Sides also exchanged their perspectives on global developments, including in West Asia. Earlier in the morning, Dr Jaishankar also met European Commissioner for International Partnerships Jozef Síkela. Both leaders had discussions on advancing cooperation in connectivity, trilateral partnerships, IMEC and green shipping between the two nations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:38:16+00:00",
-        "link": "https://newsonair.gov.in/eam-s-jaishankar-discusses-clean-and-green-energy-technologies-with-eu-officials/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jaishankar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EAM Dr S Jaishankar says India-EU partnership gaining strong momentum",
+        "summary": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology […]",
+        "article": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology Council meeting in Brussels yesterday, Dr Jaishankar said that India and the European Union share a natural affinity and have built a strong relationship based on trust. He said both sides are now working to translate that trust into deeper cooperation in business and technology. Dr Jaishankar also announced that India and the European Union will begin negotiations for India&#8217;s association with the Horizon Europe programme. He added that both sides have agreed to establish the first Innovation Hub focused on EV charging infrastructure standards. Commerce and Industry Minister Piyush Goyal described the proposed India-EU Free Trade Agreement as fair, equitable and balanced, calling it a win-win arrangement for all sectors in both economies. Highlighting the outcomes of the meeting, Mr Goyal said India and the European Union share a vision for an innovation-driven, trusted and future-ready growth partnership. He said the Trade and Technology Council has emerged as an important pillar of bilateral engagement and has helped both sides move from discussions to delivery. Mr Goyal added that India and the European Union are committed to reducing dependencies in critical sectors and to building reliable, resilient and diversified supply chains.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:33:58+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-says-india-eu-partnership-gaining-strong-momentum/",
+        "post_id": 1740312,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -362,6 +366,39 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
+        "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
+        "article": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor spanning over 46 kilometres between National Highway-19 and the Varanasi Ring Road in Uttar Pradesh under the Hybrid Annuity Model. The project will be built at a total capital cost of over 14,400 crore rupees. Briefing the media in New Delhi, Information and Broadcasting Minister Ashwini Vaishnaw said the other project involves the development of an around 43-kilometre-long six-lane and four-lane Elevated Corridor along the Varuna River bank in Varanasi at a cost of around 11,000 crore rupees. The Union Cabinet also approved Semicon 2.0 with a budgetary outlay of 1,27,500 crore rupees to strengthen India&#8217;s semiconductor design and manufacturing ecosystem. Mr Vaishnaw said that, building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to placing India on the global semiconductor map. He said investments worth around four lakh crore rupees are expected under Semicon 2.0. The Minister said the Cabinet also approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of 62,500 crore rupees. He said the scheme aims to scale up domestic mobile phone production, deepen local value addition and strengthen India&#8217;s position as a global electronics manufacturing hub. The Cabinet also approved two multitracking railway projects covering four districts in Odisha and Jharkhand, expanding the Indian Railways network by about 145 kilometres. It also approved the National Investment Policy for Urea-2026 under the vision of Atmanirbhar Bharat. The policy seeks to encourage new investments in the urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:56+00:00",
+        "link": "https://newsonair.gov.in/cabinet-approves-highway-projects-worth-over-%e2%82%b925000-crore-for-varanasiuttar-pradesh/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/7-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "New IRCTC beta website launched for easier ticket booking",
+        "summary": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. […]",
+        "article": "The Ministry of Railways has launched a new beta version of the Indian Railway Catering and Tourism Corporation (IRCTC) website to make train ticket booking simpler and more user-friendly. The IRCTC has introduced four major improvements in the new beta version. First, it does not have unnecessary captchas, pop-ups, flashing graphics or other distracting elements. Second, passengers can view seat availability across all classes. Third, it offers a faster checkout process, significantly reducing the number of steps required to book tickets. Finally, the website will save passengers&#8217; details, making repeat bookings easier. The beta version can be accessed at https://www.irctc.co.in/eticket/. A link to the beta version has also been provided on the homepage of the existing website. The Ministry has urged users to provide feedback on its simplified features. The IRCTC website was first launched in 2002 and currently handles an average of around 14.5 lakh ticket bookings every day. There have been several complaints regarding its functioning and features. The beta version will also enable users to provide feedback on further improvements, which can be incorporated in future releases to enhance customer satisfaction.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:08:07+00:00",
+        "link": "https://newsonair.gov.in/new-irctc-beta-website-launched-for-easier-ticket-booking/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Red Fort closed to public ahead of Independence Day celebrations",
+        "summary": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders […]",
+        "article": "Delhi&#8217;s iconic Red Fort complex has been closed to the public until the 80th Independence Day celebrations on August 15. The Archaeological Survey of India (ASI) has issued an order in this regard in view of the ongoing preparations for the national celebrations at the historic monument. A senior ASI official said that such orders are issued every year ahead of Independence Day. On August 15, only those holding government-issued passes will be allowed to enter the Red Fort complex to attend the Independence Day celebrations, which are conducted under heightened security arrangements.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:25:33+00:00",
+        "link": "https://newsonair.gov.in/red-fort-closed-to-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "State legislatures are the heartbeat of Indian democracy: Vice President C. P. Radhakrishnan",
         "summary": "Vice President C. P. Radhakrishnan has said that by exercising their right to vote, people reaffirm their faith in democracy. He called upon elected representatives to uphold this trust by serving with honesty, integrity, and dedication. Addressing the Conference of Present and Former Members of the Rajasthan Legislative Assembly in Jaipur on the occassion […]",
         "article": "Vice President C. P. Radhakrishnan has said that by exercising their right to vote, people reaffirm their faith in democracy. He called upon elected representatives to uphold this trust by serving with honesty, integrity, and dedication. Addressing the Conference of Present and Former Members of the Rajasthan Legislative Assembly in Jaipur on the occassion of 75th anniversary of the Rajasthan Legislative Assembly, Mr Radhakrishnan said that State Legislatures are the heartbeat of Indian democracy. While Parliament reflects the aspirations of the nation, State Legislative Assemblies give voice to the hopes, dreams, and concerns of villages, towns, and families. He said this constitutes the true spirit and dignity of legislative institutions. The Vice President urged public representatives to remain humble while interacting with their constituents and to listen patiently to their concerns. He said constructive and policy-oriented suggestions, whether from members of the ruling party or the Opposition, should be duly considered, as they can bring about meaningful change. He added that the strength of democracy lies not in the grandeur of legislative buildings but in the quality of conduct, debate, and deliberations within them. Earlier, the valedictory session was addressed by Governor Haribhau Bagde, Chief Minister Bhajan Lal Sharma, and Rajasthan Legislative Assembly Speaker Vasudev Devnani. Lok Sabha Speaker Om Birla attended the inaugural session of the conference. Former and senior legislators were also felicitated on the occasion.",
@@ -369,17 +406,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:00:45+00:00",
         "link": "https://newsonair.gov.in/state-legislatures-are-the-heartbeat-of-indian-democracy-vice-president-c-p-radhakrishnan/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Cabinet Approves two Elevated Corridors to Decongest Varanasi and improve urban mobility",
-        "summary": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 […]",
-        "article": "The Union Cabinet today approved a 6-lane Greenfield Elevated Corridor covering over 46 kilometer between National Highway-19 and Varanasi Ring Road in Uttar Pradesh on Hybrid Annuity Model, improving urban mobility. Briefing media in New Delhi today, Information and Broadcasting Minister Ashwini Vaishnaw said that the total capital cost of the project stands over 14 thousand 4 hundered crore rupees and will provide seamless connectivity between NH-19 and the Varanasi Ring Road, significantly decongesting the city&#8217;s road network and improving urban mobility. It is expected to reduce the average travel time across the project influence area from approximately 60 minutes to 20 minutes. He added that the project will significantly improve connectivity to major religious, educational and cultural landmarks. The Union Cabinet has also approved development of around 43 kilometer 6 and 4 lane Elevated Corridor along Varuna River Bank in Uttar Pradesh at total Capital Cost of around 11 thousand crore rupees. Mr Vaishnaw said that the corridor is a major component of the Varanasi Decongestion Plan and will provide seamless connectivity between NH-31 and Kashi Railway Station. He said, it will also substantially improve access to Varanasi Ring Road, Varanasi Airport, Kashi Railway Station,Varanasi Junction, Deen Dayal Upadhyaya Junction.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:10:56+00:00",
-        "link": "https://newsonair.gov.in/cabinet-approves-two-elevated-corridors-to-decongest-varanasi-approved-%f0%9d%90%92%f0%9d%90%9e%f0%9d%90%a6%f0%9d%90%a2%f0%9d%90%9c%f0%9d%90%a8%f0%9d%90%a7-%f0%9d%9f%90-%f0%9d%9f%8e-to-develop-semico/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Cabinet-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -417,47 +443,27 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "India’s first hydrogen train to be flagged off between Jind and Sonipat in Haryana",
-        "summary": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium […]",
-        "article": "Prime Minister Narendra Modi will flag off India’s first hydrogen train between Jind and Sonipat at Jind railway station in Haryana on Friday during his visit to Haryana, Chandigarh and Punjab. He will lay the foundation stone and dedicate to the nation various development projects worth around 14 thousand 700 crore rupees at Eklavya Stadium in Jind. Mr Modi will travel to Chandigarh in the afternoon where he will lay the foundation stone and inaugurate various development projects worth over six thousand 600 crore rupees spanning healthcare, education and road infrastructure. He will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar where he will lay the foundation stone and inaugurate multiple development projects worth over five thousand 470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. He will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:55:22+00:00",
-        "link": "https://newsonair.gov.in/indias-first-hydrogen-train-to-be-flagged-off-between-jind-and-sonipat-in-haryana/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/train-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
+        "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
+        "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:23:47+00:00",
+        "link": "https://newsonair.gov.in/india-and-belgium-launch-strategic-dialogue-to-deepen-bilateral-ties/",
+        "post_id": 1740440,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "Goods worth 140 million exported to UK on the first day of CETA: Commerce Secretary",
-        "summary": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for […]",
-        "article": "The goods worth 140 million are being exported to the United Kingdom from India on the first day of the Comprehensive Economic and Trade Agreement. Addressing a press conference in New Delhi today, Secretary, Commerce and Industry Ministry Rajesh Agarwal said that this agreement is completely aligned with Prime Minister Narendra Modi&#8217;s vision for Viksit Bharat by 2047. He said, this is one of the most aspirational and biggest trade agreements, which will open up opportunities in market access on both sides. The secretary said that this will not only give a boost to the country&#8217;s merchandise trade but also give a boost to services in coming days. Talking to Akashvani News, High Commissioner of UK to India, Lindy Cameron, said that this agreement is a great deal for both sides. Chairman of Apparel Export Promotion Council (AEPC) Dr A Sakthivel said that due to this agreement, exports will be doubled in one and a half years. Tarun Bajaj of Agricultural and Processed Food Products Export Development Authority said this agreement will be beneficial for the agricultural and processing sector. Executive Director of Gem and Jewellery Export Promotion Council Sabyasachi Ray said that the Gems and Jewellery sector will immensely benefit from this agreement.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T13:03:51+00:00",
-        "link": "https://newsonair.gov.in/goods-worth-140-million-exported-to-uk-on-the-first-day-of-ceta-commerce-secretary/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Rajesh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "First consignments from different parts of India sent to UK under CETA",
-        "summary": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said […]",
-        "article": "As the India–United Kingdom Comprehensive Economic and Trade Agreement (CETA) came into effect today, the first consignments from different parts of the country have begun their journey to the UK. In Karnataka, The Deputy High Commissioner of UK, Chandru Iyer, flagged off shipments to the UK in Bengaluru. Speaking to Akashvani News, he said that the goods from both countries will get preferential tariffs that will further boost bilateral trade between the two countries. In West Bengal , as part of the flag-off ceremony, an event has been organised in Kolkata, at the Netaji Subhash Chandra Bose International Airport cargo complex today. Gold jewellery, betel leaves, coffee and tea export consignments ceremonially sent from the international cargo complex of the NSCBI airport in Kolkata today. Jute, engineering products and goods from north east would be benefitted with this Free Trade Agreement. Addressing the programme the Commerce and Industry Minister of West Bengal Tapas Roy called it a historical day. In Hyderabad, the inaugural consignment of export shipments from Telangana to the UK was flagged off this morning. The launch ceremony was attended by several senior officials, including Telangana’s Special Secretary for Industries Krishna Aditya, DGFT Additional Director Dr. Sampath Kumar, VSEZ Deputy Commissioner Bhavani Sri and Regional Head R.P. Naidu. The trade pact is expected to significantly enhance market access for Indian exports through the elimination of tariffs, simplified customs procedures, and improved regulatory cooperation. Officials anticipate that these tariff concessions will create robust new opportunities for exporters across multiple sectors while substantially boosting the competitiveness of Telangana’s products in the UK market. Meanwhile, ready-made garments and woollen and worsted yarn were flagged off from Punjab’s Amritsar and Ludhiana. At Ludhiana, the ceremony was jointly organised at Sahnewal by DGFT (RA) Ludhiana, the Customs Commissionerate, Ludhiana, and FIEO. In Amritsar, the consignment of ready-made garments was flagged off from Sri Guru Ram Dass Jee International Airport through Air India’s direct flight to Birmingham. The agreement secures zero-duty market access for nearly 99% of India&#8217;s exports to the UK, expands opportunities across 137 services sub-sectors, and boosts key sectors, including textiles, leather, engineering, food processing, pharmaceuticals and MSMEs. In Maharashtra , export shipments were flagged off from Nhava Sheva and SEEPZ-SEZ in Mumbai. At Nhava Sheva, India’s largest containerised cargo port, the Directorate General of Foreign Trade (DGFT), Regional Authority Mumbai, flagged off consignments from seven exporters representing sectors including chemicals, pharmaceuticals, plastics, food products, enzymes, and spices, marking the commencement of exports under the agreement. Senior Customs and DGFT officials attended the ceremony. At SEEPZ-SEZ, India’s first Special Economic Zone and a leading export hub for gems and jewellery, Development Commissioner Dnyaneshwar B. Patil led a flag-off ceremony for export shipments to the United Kingdom. A presentation on the agreement highlighted that the gems and jewellery sector contributes over ₹2,109 crore to SEEPZ’s exports to the UK. With the UK’s 4% import duty abolished from today, the sector is expected to receive an annual tariff benefit of about ₹84 crore, besides improved competitiveness, higher investments, employment …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:56:00+00:00",
-        "link": "https://newsonair.gov.in/first-export-consignment-to-uk-flagged-off-from-hyderabad-under-india-uk-ceta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "EAM S Jaishankar discusses clean and green energy technologies with EU officials",
-        "summary": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation […]",
-        "article": "External Affairs Minister Dr S Jaishankar today met with European Union Commissioner for Startups, Research and Innovation Ekaterina Zaharieva in Brussels, Belgium. In a social media post, Dr Jaishankar said that during the meeting, they discussed opportunities for research in clean and green energy technologies. He added that they also exchanged views on innovation hubs, startups and association with Horizon Europe. During his two-day official visit to Belgium, Dr Jaishankar also co-chaired the inaugural India-Belgium Strategic Dialogue in Brussels with Belgian Deputy Prime Minister and Minister of Foreign Affairs Maxime Prévot. The discussions in the dialogue focused on expanding bilateral ties and accelerating India-EU cooperation. He noted that deliberations reflected the ambition of India’s ties with Belgium, and the European Union. He noted that during the meeting they reviewed cooperation in political, economic, investments, clean energy, defence, mobility and pharmaceutical domains. The Meeting further followed discussions on exploring avenues of opportunities in ports, maritime, semiconductors as well as broader cooperation for supply chain de-risking. Two Sides also exchanged their perspectives on global developments, including in West Asia. Earlier in the morning, Dr Jaishankar also met European Commissioner for International Partnerships Jozef Síkela. Both leaders had discussions on advancing cooperation in connectivity, trilateral partnerships, IMEC and green shipping between the two nations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T11:38:16+00:00",
-        "link": "https://newsonair.gov.in/eam-s-jaishankar-discusses-clean-and-green-energy-technologies-with-eu-officials/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/jaishankar.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "EAM Dr S Jaishankar says India-EU partnership gaining strong momentum",
+        "summary": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology […]",
+        "article": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology Council meeting in Brussels yesterday, Dr Jaishankar said that India and the European Union share a natural affinity and have built a strong relationship based on trust. He said both sides are now working to translate that trust into deeper cooperation in business and technology. Dr Jaishankar also announced that India and the European Union will begin negotiations for India&#8217;s association with the Horizon Europe programme. He added that both sides have agreed to establish the first Innovation Hub focused on EV charging infrastructure standards. Commerce and Industry Minister Piyush Goyal described the proposed India-EU Free Trade Agreement as fair, equitable and balanced, calling it a win-win arrangement for all sectors in both economies. Highlighting the outcomes of the meeting, Mr Goyal said India and the European Union share a vision for an innovation-driven, trusted and future-ready growth partnership. He said the Trade and Technology Council has emerged as an important pillar of bilateral engagement and has helped both sides move from discussions to delivery. Mr Goyal added that India and the European Union are committed to reducing dependencies in critical sectors and to building reliable, resilient and diversified supply chains.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:33:58+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-says-india-eu-partnership-gaining-strong-momentum/",
+        "post_id": 1740312,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
@@ -473,6 +479,28 @@ window.VM_NEWS = {
       }
     ],
     "world": [
+      {
+        "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
+        "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
+        "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:23:47+00:00",
+        "link": "https://newsonair.gov.in/india-and-belgium-launch-strategic-dialogue-to-deepen-bilateral-ties/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/8-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "EAM Dr S Jaishankar says India-EU partnership gaining strong momentum",
+        "summary": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology […]",
+        "article": "External Affairs Minister Dr S. Jaishankar has expressed confidence that the India-EU Trade and Technology Council (TTC) meeting will further strengthen the momentum of the India-EU partnership, driven by the proposed Free Trade Agreement (FTA), the Security and Defence Partnership, and the Mobility Framework. Speaking to the media after the 3rd India-EU Trade and Technology Council meeting in Brussels yesterday, Dr Jaishankar said that India and the European Union share a natural affinity and have built a strong relationship based on trust. He said both sides are now working to translate that trust into deeper cooperation in business and technology. Dr Jaishankar also announced that India and the European Union will begin negotiations for India&#8217;s association with the Horizon Europe programme. He added that both sides have agreed to establish the first Innovation Hub focused on EV charging infrastructure standards. Commerce and Industry Minister Piyush Goyal described the proposed India-EU Free Trade Agreement as fair, equitable and balanced, calling it a win-win arrangement for all sectors in both economies. Highlighting the outcomes of the meeting, Mr Goyal said India and the European Union share a vision for an innovation-driven, trusted and future-ready growth partnership. He said the Trade and Technology Council has emerged as an important pillar of bilateral engagement and has helped both sides move from discussions to delivery. Mr Goyal added that India and the European Union are committed to reducing dependencies in critical sectors and to building reliable, resilient and diversified supply chains.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:33:58+00:00",
+        "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-says-india-eu-partnership-gaining-strong-momentum/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/3-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Amnesty International demands immediate release of detained PTM leader Zubair Shah Agha",
         "summary": "Amnesty International has accused Pakistani authorities of increasingly misusing administrative detention laws to suppress peaceful dissent. In a social media post, the human rights organisation called for the immediate release of Pashtun Tahaffuz Movement (PTM) leader Zubair Shah Agha, Baloch activist Syed Bibi Baloch, and journalist Ahmad Farhad. Amnesty International said, Zubair Shah Agha […]",
@@ -560,31 +588,20 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "First export consignments flagged off in Chennai under India-UK CETA",
-        "summary": "Marking a milestone in bilateral economic relations, the British Deputy High Commissioner to Chennai, Dr. Sutapa Chaudhary, today joined officials from the Directorate General of Foreign Trade (DGFT) to flag off the first export consignments under the new &#8216;Indo-UK Comprehensive Economic and Trade Agreement (CETA)&#8217;. The ceremony, held in Chennai, celebrates the official entry […]",
-        "article": "Marking a milestone in bilateral economic relations, the British Deputy High Commissioner to Chennai, Dr. Sutapa Chaudhary, today joined officials from the Directorate General of Foreign Trade (DGFT) to flag off the first export consignments under the new &#8216;Indo-UK Comprehensive Economic and Trade Agreement (CETA)&#8217;. The ceremony, held in Chennai, celebrates the official entry into force of the agreement, which is expected to deliver tangible benefits to the people of both nations. During her address to delegates and representatives from various export councils, Dr. Chaudhary emphasised that the CETA represents a carefully struck balance between opening new market opportunities and maintaining essential protections for sensitive domestic sectors. A key feature of the agreement is the strategic protection of the Agri-food sectors in both countries. Dr. Chaudhary noted that, India has maintained protections for critical sectors including dairy, dairy products, and edible oils. She also said that the UK has retained tariffs on specific items such as sugar, milled rice, pork, chicken, and eggs for strategic economic reasons. Despite these protections, the agreement significantly reduces the &#8220;mountains of paperwork&#8221; previously faced by businesses, paving the way for increased trade flow, she said. She encouraged Indian exporters to proactively expand their footprint in the British market, noting that the British Deputy High Commission is ready to provide active support. “We are here to help you navigate the UK market,” Dr. Chaudhary stated, highlighting the expertise of the High Commission’s trade team based in Nungambakkam. The flag-off ceremony is viewed as only the beginning of a deeper engagement. The British Deputy High Commission has announced a series of upcoming engagements and receptions over the next six months designed to connect British businesses with partners in Tamil Nadu and facilitate a robust two-way exchange of trade and investment.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:04:23+00:00",
-        "link": "https://newsonair.gov.in/first-export-consignments-flagged-off-in-chennai-under-india-uk-ceta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/L1P1II2T.jpeg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12th BRICS Labour and Employment Ministers’ Meeting begins in Hyderabad",
-        "summary": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and p",
-        "article": "The 12th BRICS Labour and Employment Ministers&#8217; Meeting has commenced in Hyderabad under India’s 2026 Chairship. Chaired by Union Minister Dr. Mansukh Mandaviya alongside Minister of State Shobha Karandlaje, the high-level deliberations focus on advancing social security, enhancing women&#8217;s workforce participation, mapping global skills, and leveraging digital technologies for gig and platform workers.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:57:15+00:00",
-        "link": "https://newsonair.gov.in/12th-brics-labour-and-employment-ministers-meeting-begins-in-hyderabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/p-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "sports": [
+      {
+        "title": "Argentina Beat England 2-1 to Reach FIFA World Cup Final",
+        "summary": "In FIFA World Cup Football, defending champions Argentina defeated England 2-1 in the second semi-final at Atlanta Stadium in the United States to set up a title clash against Spain. The first half ended goalless before Anthony Gordon put England ahead in the 55th minute. Argentina staged a dramatic comeback as Enzo Fernández equalised in […]",
+        "article": "In FIFA World Cup Football, defending champions Argentina defeated England 2-1 in the second semi-final at Atlanta Stadium in the United States to set up a title clash against Spain. The first half ended goalless before Anthony Gordon put England ahead in the 55th minute. Argentina staged a dramatic comeback as Enzo Fernández equalised in the 85th minute, and Lautaro Martínez scored the winner in the 90th minute. Argentina will now face Spain in the FIFA World Cup final on 19th July. The defending champions are aiming to retain the title they won in Qatar in 2022.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:21:36+00:00",
+        "link": "https://newsonair.gov.in/argentina-beat-england-2-1-to-reach-fifa-world-cup-final/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-9.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Asian Boxing U-19 & U-23: Indian women pugilists shine with three gold",
         "summary": "In the Asian Under-19 and Under-23 Boxing Championships, three Indian women boxers won gold medals, while 10 others bagged silver medals in Jakarta today. In the Under-19 category, Chandrika Pujari won the gold medal in the 51 kg weight class, while Prachi claimed gold in the 57 kg category. Chandrika defeated Uzbekistan&#8217;s Najokat […]",
@@ -681,17 +698,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T03:02:00+00:00",
         "link": "https://newsonair.gov.in/france-spain-england-and-argentina-enter-fifa-world-cup-semi-finals/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/6-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "China-France10th-seeded pair win Wimbledon women’s doubles title",
-        "summary": "In Wimbledon Tennis, the 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic has clinched the women&#8217;s doubles title. They defeated the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani 6-3, 7-5 in the title clash, claiming their first-ever Grand Slam trophy as a pair. In Men&#8217;s singles final, Italy&#8217;s World No. […",
-        "article": "In Wimbledon Tennis, the 10th-seeded pair of China&#8217;s Guo Hanyu and France&#8217;s Kristina Mladenovic has clinched the women&#8217;s doubles title. They defeated the second-seeded duo of Canada&#8217;s Gabriela Dabrowski and Brazil&#8217;s Luisa Stefani 6-3, 7-5 in the title clash, claiming their first-ever Grand Slam trophy as a pair. In Men&#8217;s singles final, Italy&#8217;s World No. 1 Jannik Sinner will face Germany&#8217;s Alexander Zverev in the men&#8217;s singles final later this evening at 8:30 p.m. IST. Sinner booked his place in the title clash with a straight-sets victory over Novak Djokovic, while Zverev entered his first Wimbledon final after defeating British wildcard Arthur Fery. Yesterday, in the Women&#8217;s Singles Final, the 21-year-old Linda Noskova won her maiden Grand Slam title after defeating fellow Czech Karolina Muchova 6-2, 5-7, 6-3 at Centre Court, London. Noskova became the third Czech woman in four years to win the grass-court major, after Marketa Vondrousova in 2023 and Barbora Krejcikova in 2024.",
-        "date": "2026-07-12",
-        "pubDate": "2026-07-12T14:45:27+00:00",
-        "link": "https://newsonair.gov.in/china-france-10th-seeded-pair-win-wimbledon-womens-doubles-title/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNCICW5XMAAOrYr-scaled.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1025,6 +1031,28 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
+        "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
+        "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:28:57+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-extended-his-best-wishes-to-the-people-of-the-country-on-the-occasion-of-the-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-16-075831.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
+        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
+        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:00:55+00:00",
+        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
@@ -1124,28 +1152,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "कैबिनेट ने कई महत्वपूर्ण परियोजनाओं सहित यूपी में 6-लेन ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी",
-        "summary": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्‍ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी […]",
-        "article": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्&#x200d;वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने मीडिया को बताया कि इस परियोजना की कुल लागत 14 हजार 400 करोड़ रुपये से अधिक है। इससे राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच निर्बाध संपर्क सुविधा मिलेगी। इससे शहर के सड़क नेटवर्क पर भीड़ कम होगी और शहरी आवाजाही बेहतर होगी। उम्मीद है कि इससे परियोजना के प्रभाव वाले क्षेत्र में यात्रा का औसत समय लगभग 60 मिनट से घटकर 20 मिनट रह जाएगा। श्री वैष्&#x200d;णव ने कहा कि यह परियोजना प्रमुख धार्मिक, शैक्षणिक और सांस्कृतिक स्थलों तक संपर्क को काफी बेहतर बनाएगी। मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी शहर में भीड़ कम करने के लिए वरुणा नदी के किनारे राष्&#x200d;ट्रीय राजमार्ग-31 और वाराणसी रिंग रोड को जोड़ने वाले 43 किलोमीटर से अधिक लंबे, 6/4-लेन वाले एलिवेटेड गलियारे के विकास को भी मंज़ूरी दी है। इस परियोजना की कुल लागत 10 हजार 998 करोड़ रुपये से अधिक है। यह परियोजना राष्&#x200d;ट्रीय राजमार्ग-31 और काशी रेलवे स्टेशन के बीच यात्रा के समय को लगभग 40 मिनट से घटाकर 20 मिनट कर देगी जिससे समय में लगभग 50 प्रतिशत की कमी आएगी। श्री वैष्णव ने कहा कि मंत्रिमंडल ने भारत के सेमीकंडक्टर डिज़ाइन और विनिर्माण पारिस्थितिकी को मज़बूत करने के लिए एक लाख 27 हजार 500 करोड़ रुपये के बजट के साथ सेमीकंडक्&#x200d;टर मिशन के दूसरे चरण को भी मंज़ूरी दी। उन्होंने कहा कि इस मिशन के पहले चरण की सफलता को आगे बढ़ाते हुए, इस योजना का उद्देश्&#x200d;य भारत को वै&#x200d;श्विक सेमीकंडक्टर मानचित्र पर लाने की सरकार की प्रतिबद्धता को और आगे बढ़ाना है। उन्होंने कहा कि यह योजना आर्थिक विकास में मदद करेगी, आपूर्ति शृंखला को मज़बूत करेगी और महत्&#x200d;वपूर्ण क्षेत्र में तकनीकी नेतृत्व स्थापित करेगी। श्री वैष्&#x200d;णव ने कहा कि &#8216;सेमीकॉन 2.0&#8217; के तहत 6 स्तंभों- डिज़ाइन, मशीनें और सामग्री, और अधिक फैब स्थापित करना, एटीएमपी-ओएसएटी इंडस्ट्री को और मज़बूत करना तथा अनुसंधान और विकास के ज़रिए सेमीकंडक्टर पारिस्थितिकी को समग्र रूप से विकसित किया जाएगा। श्री वैष्णव ने कहा कि सेमीकंडक्&#x200d;टर मिशन में उद्योग को शुरू करने और स्थापित करने पर ध्यान दिया गया था, और दूसरे चरण के अंतर्गत हमारी सभी रणनीतिक ज़रूरतों के लिए ज़रूरी चिप भारत में डिज़ाइन की जाएंगी। इस सेमीकंडक्टर प्रोग्राम के आखिर तक, देश चिप डिज़ाइन के मामले में आत्मनिर्भर हो जाएगा। श्री वैष्णव ने यह भी बताया कि भारत के सेमीकंडक्टर प्रोग्राम में दुनिया भर की बढ़ती दिलचस्पी को देखते हुए, इस उद्योग हर बड़ी कंपनी देश में अपनी मौजूदगी बनानी चाहती है। उन्होंने कहा कि भारत ने पहले ही अमरीका, जापान, यूरोपीय संघ, नीदरलैंड्स, सिंगापुर और जर्मनी के साथ साझेदारी कर ली है। उन्होंने बताया कि दूसरे चरण के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। मंत्रिमंडल ने 62 हजार 500 करोड़ रुपये के बजट के साथ मोबाइल फ़ोन विनिर्माण योजना को भी स्&#x200d;वीकृति दी। श्री वैष्णव ने कहा कि यह योजना अगले 5 वर्षों के लिए लागू की जाएगी। उन्होंने कहा कि इस योजना के तहत देश में मोबाइल फ़ोन बनाने के लिए पात्र बिक्री पर 2.25 प्रतिशत से 5 प्रतिशत तक की प्रोत्&#x200d;साहन सहायता दी जाएगी। श्री वैष्&#x200d;णव ने कहा कि मुख्य कल-पुर्जों और सब-असेंबली की घरेलू सोर्सिंग से 1.5 प्रतिशत तक का अतिरिक्त प्रोत्&#x200d;साहन जुड़ा है। आशा है कि इस योजना की अवधि के दौरान लगभग 39 लाख करोड़ रुपये के मोबाइल फ़ोन बनाए जाएंगे। कुल निर्यात लगभग साढे सात लाख करोड़ रुपये से बढ़कर 15 लाख करोड़ रुपये होने की संभावना है। श्री वैष्णव ने बताया कि इससे लगभग 60 हजार लोगों को प्रत्यक्ष रोजगार मिलने की भी आशा है। …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:10:13+00:00",
-        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-a-6-lane-greenfield-elevated-corridor-in-up-along-with-several-other-important-projects/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-171333.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होने के बाद पश्चिम बंगाल से निर्यात शुरू",
-        "summary": "भारत और ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्‍ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने […]",
-        "article": "भारत और ब्रिटेन के बीच व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्&#x200d;ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने के गहने, पान के पत्ते, कॉफ़ी और चाय के निर्यात कनसाइनमेंट को औपचारिक रूप से रवाना गया। इस मुक्&#x200d;त व्&#x200d;यापार समझौते से जूट, इंजीनियरिंग उत्पादों और पूर्वोत्तर के सामानों को फ़ायदा होगा। इस कार्यक्रम में पश्चिम बंगाल के वाणिज्य और उद्योग मंत्री तापस रॉय ने आज के दिन को ऐतिहासिक बताया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:08:02+00:00",
-        "link": "https://newsonair.gov.in/hi/exports-from-west-bengal-pick-up-after-india-uk-comprehensive-economic-and-trade-agreement-comes-into-effect/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "एमनेस्टी इंटरनेशनल ने पाकिस्तानी अधिकारियों पर शांतिपूर्ण विरोध को दबाने का आरोप लगाया",
         "summary": "एमनेस्टी इंटरनेशनल ने पाकिस्तानी अधिकारियों पर शांतिपूर्ण विरोध को दबाने के लिए प्रशासनिक हिरासत कानूनों का लगातार दुरुपयोग करने का आरोप लगाया है। सोशल मीडिया पोस्‍ट में मानवाधिकार संगठन ने पश्तून तहफ़्फ़ुज़ मूवमेंट के नेता ज़ुबैर शाह आगा, बलूच एक्टिविस्ट सैयद बीबी बलूच और पत्रकार अहमद फरहाद को तुरंत रिहा करने की मांग की है। […]",
         "article": "एमनेस्टी इंटरनेशनल ने पाकिस्तानी अधिकारियों पर शांतिपूर्ण विरोध को दबाने के लिए प्रशासनिक हिरासत कानूनों का लगातार दुरुपयोग करने का आरोप लगाया है। सोशल मीडिया पोस्&#x200d;ट में मानवाधिकार संगठन ने पश्तून तहफ़्फ़ुज़ मूवमेंट के नेता ज़ुबैर शाह आगा, बलूच एक्टिविस्ट सैयद बीबी बलूच और पत्रकार अहमद फरहाद को तुरंत रिहा करने की मांग की है। एमनेस्टी इंटरनेशनल ने कहा कि ज़ुबैर शाह आगा को 28 जून को क्वेटा में बलूच यकजेहती कमेटी के संवाददाता सम्&#x200d;मेलन में शामिल होने के बाद बिना किसी ठोस वजह के हिरासत में ले लिया गया था। यह कार्यक्रम बलूच अधिकार कार्यकर्ता महरंग बलूच को सज़ा सुनाए जाने के मुद्दे पर केंद्रित था। एमनेस्&#x200d;टी ने उनकी हिरासत को बड़े पैटर्न का हिस्सा बताया है। इस पैटर्न के अंतर्गत पाकिस्तानी अधिकारियों पर आरोप लगाए जाते रहे हैं कि वे कार्यकर्ताओं, पत्रकारों और मानवाधिकार रक्षकों को बिना उचित कानूनी प्रक्रिया के उनकी आज़ादी से वंचित करने के लिए प्रशासनिक हिरासत की शक्तियों का दुरुपयोग करते रहे हैं। एमनेस्&#x200d;टी ने सैयद बीबी बलूच की हिरासत का भी ज़िक्र किया, जिन्हें पहली जुलाई को बलूचिस्तान के तुरबत में इसी कानून के तहत हिरासत में लिया गया था।",
@@ -1159,6 +1165,28 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
+        "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
+        "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:28:57+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-extended-his-best-wishes-to-the-people-of-the-country-on-the-occasion-of-the-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-16-075831.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
+        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
+        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:00:55+00:00",
+        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
@@ -1243,34 +1271,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:19:29+00:00",
         "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैबिनेट ने कई महत्वपूर्ण परियोजनाओं सहित यूपी में 6-लेन ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी",
-        "summary": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्‍ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी […]",
-        "article": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्&#x200d;वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने मीडिया को बताया कि इस परियोजना की कुल लागत 14 हजार 400 करोड़ रुपये से अधिक है। इससे राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच निर्बाध संपर्क सुविधा मिलेगी। इससे शहर के सड़क नेटवर्क पर भीड़ कम होगी और शहरी आवाजाही बेहतर होगी। उम्मीद है कि इससे परियोजना के प्रभाव वाले क्षेत्र में यात्रा का औसत समय लगभग 60 मिनट से घटकर 20 मिनट रह जाएगा। श्री वैष्&#x200d;णव ने कहा कि यह परियोजना प्रमुख धार्मिक, शैक्षणिक और सांस्कृतिक स्थलों तक संपर्क को काफी बेहतर बनाएगी। मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी शहर में भीड़ कम करने के लिए वरुणा नदी के किनारे राष्&#x200d;ट्रीय राजमार्ग-31 और वाराणसी रिंग रोड को जोड़ने वाले 43 किलोमीटर से अधिक लंबे, 6/4-लेन वाले एलिवेटेड गलियारे के विकास को भी मंज़ूरी दी है। इस परियोजना की कुल लागत 10 हजार 998 करोड़ रुपये से अधिक है। यह परियोजना राष्&#x200d;ट्रीय राजमार्ग-31 और काशी रेलवे स्टेशन के बीच यात्रा के समय को लगभग 40 मिनट से घटाकर 20 मिनट कर देगी जिससे समय में लगभग 50 प्रतिशत की कमी आएगी। श्री वैष्णव ने कहा कि मंत्रिमंडल ने भारत के सेमीकंडक्टर डिज़ाइन और विनिर्माण पारिस्थितिकी को मज़बूत करने के लिए एक लाख 27 हजार 500 करोड़ रुपये के बजट के साथ सेमीकंडक्&#x200d;टर मिशन के दूसरे चरण को भी मंज़ूरी दी। उन्होंने कहा कि इस मिशन के पहले चरण की सफलता को आगे बढ़ाते हुए, इस योजना का उद्देश्&#x200d;य भारत को वै&#x200d;श्विक सेमीकंडक्टर मानचित्र पर लाने की सरकार की प्रतिबद्धता को और आगे बढ़ाना है। उन्होंने कहा कि यह योजना आर्थिक विकास में मदद करेगी, आपूर्ति शृंखला को मज़बूत करेगी और महत्&#x200d;वपूर्ण क्षेत्र में तकनीकी नेतृत्व स्थापित करेगी। श्री वैष्&#x200d;णव ने कहा कि &#8216;सेमीकॉन 2.0&#8217; के तहत 6 स्तंभों- डिज़ाइन, मशीनें और सामग्री, और अधिक फैब स्थापित करना, एटीएमपी-ओएसएटी इंडस्ट्री को और मज़बूत करना तथा अनुसंधान और विकास के ज़रिए सेमीकंडक्टर पारिस्थितिकी को समग्र रूप से विकसित किया जाएगा। श्री वैष्णव ने कहा कि सेमीकंडक्&#x200d;टर मिशन में उद्योग को शुरू करने और स्थापित करने पर ध्यान दिया गया था, और दूसरे चरण के अंतर्गत हमारी सभी रणनीतिक ज़रूरतों के लिए ज़रूरी चिप भारत में डिज़ाइन की जाएंगी। इस सेमीकंडक्टर प्रोग्राम के आखिर तक, देश चिप डिज़ाइन के मामले में आत्मनिर्भर हो जाएगा। श्री वैष्णव ने यह भी बताया कि भारत के सेमीकंडक्टर प्रोग्राम में दुनिया भर की बढ़ती दिलचस्पी को देखते हुए, इस उद्योग हर बड़ी कंपनी देश में अपनी मौजूदगी बनानी चाहती है। उन्होंने कहा कि भारत ने पहले ही अमरीका, जापान, यूरोपीय संघ, नीदरलैंड्स, सिंगापुर और जर्मनी के साथ साझेदारी कर ली है। उन्होंने बताया कि दूसरे चरण के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। मंत्रिमंडल ने 62 हजार 500 करोड़ रुपये के बजट के साथ मोबाइल फ़ोन विनिर्माण योजना को भी स्&#x200d;वीकृति दी। श्री वैष्णव ने कहा कि यह योजना अगले 5 वर्षों के लिए लागू की जाएगी। उन्होंने कहा कि इस योजना के तहत देश में मोबाइल फ़ोन बनाने के लिए पात्र बिक्री पर 2.25 प्रतिशत से 5 प्रतिशत तक की प्रोत्&#x200d;साहन सहायता दी जाएगी। श्री वैष्&#x200d;णव ने कहा कि मुख्य कल-पुर्जों और सब-असेंबली की घरेलू सोर्सिंग से 1.5 प्रतिशत तक का अतिरिक्त प्रोत्&#x200d;साहन जुड़ा है। आशा है कि इस योजना की अवधि के दौरान लगभग 39 लाख करोड़ रुपये के मोबाइल फ़ोन बनाए जाएंगे। कुल निर्यात लगभग साढे सात लाख करोड़ रुपये से बढ़कर 15 लाख करोड़ रुपये होने की संभावना है। श्री वैष्णव ने बताया कि इससे लगभग 60 हजार लोगों को प्रत्यक्ष रोजगार मिलने की भी आशा है। …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:10:13+00:00",
-        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-a-6-lane-greenfield-elevated-corridor-in-up-along-with-several-other-important-projects/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-171333.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होने के बाद पश्चिम बंगाल से निर्यात शुरू",
-        "summary": "भारत और ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्‍ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने […]",
-        "article": "भारत और ब्रिटेन के बीच व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्&#x200d;ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने के गहने, पान के पत्ते, कॉफ़ी और चाय के निर्यात कनसाइनमेंट को औपचारिक रूप से रवाना गया। इस मुक्&#x200d;त व्&#x200d;यापार समझौते से जूट, इंजीनियरिंग उत्पादों और पूर्वोत्तर के सामानों को फ़ायदा होगा। इस कार्यक्रम में पश्चिम बंगाल के वाणिज्य और उद्योग मंत्री तापस रॉय ने आज के दिन को ऐतिहासिक बताया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:08:02+00:00",
-        "link": "https://newsonair.gov.in/hi/exports-from-west-bengal-pick-up-after-india-uk-comprehensive-economic-and-trade-agreement-comes-into-effect/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
+        "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
+        "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:28:57+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-extended-his-best-wishes-to-the-people-of-the-country-on-the-occasion-of-the-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-16-075831.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
+        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
+        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:00:55+00:00",
+        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
@@ -1355,34 +1383,34 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:19:29+00:00",
         "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैबिनेट ने कई महत्वपूर्ण परियोजनाओं सहित यूपी में 6-लेन ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी",
-        "summary": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्‍ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी […]",
-        "article": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्&#x200d;वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने मीडिया को बताया कि इस परियोजना की कुल लागत 14 हजार 400 करोड़ रुपये से अधिक है। इससे राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच निर्बाध संपर्क सुविधा मिलेगी। इससे शहर के सड़क नेटवर्क पर भीड़ कम होगी और शहरी आवाजाही बेहतर होगी। उम्मीद है कि इससे परियोजना के प्रभाव वाले क्षेत्र में यात्रा का औसत समय लगभग 60 मिनट से घटकर 20 मिनट रह जाएगा। श्री वैष्&#x200d;णव ने कहा कि यह परियोजना प्रमुख धार्मिक, शैक्षणिक और सांस्कृतिक स्थलों तक संपर्क को काफी बेहतर बनाएगी। मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी शहर में भीड़ कम करने के लिए वरुणा नदी के किनारे राष्&#x200d;ट्रीय राजमार्ग-31 और वाराणसी रिंग रोड को जोड़ने वाले 43 किलोमीटर से अधिक लंबे, 6/4-लेन वाले एलिवेटेड गलियारे के विकास को भी मंज़ूरी दी है। इस परियोजना की कुल लागत 10 हजार 998 करोड़ रुपये से अधिक है। यह परियोजना राष्&#x200d;ट्रीय राजमार्ग-31 और काशी रेलवे स्टेशन के बीच यात्रा के समय को लगभग 40 मिनट से घटाकर 20 मिनट कर देगी जिससे समय में लगभग 50 प्रतिशत की कमी आएगी। श्री वैष्णव ने कहा कि मंत्रिमंडल ने भारत के सेमीकंडक्टर डिज़ाइन और विनिर्माण पारिस्थितिकी को मज़बूत करने के लिए एक लाख 27 हजार 500 करोड़ रुपये के बजट के साथ सेमीकंडक्&#x200d;टर मिशन के दूसरे चरण को भी मंज़ूरी दी। उन्होंने कहा कि इस मिशन के पहले चरण की सफलता को आगे बढ़ाते हुए, इस योजना का उद्देश्&#x200d;य भारत को वै&#x200d;श्विक सेमीकंडक्टर मानचित्र पर लाने की सरकार की प्रतिबद्धता को और आगे बढ़ाना है। उन्होंने कहा कि यह योजना आर्थिक विकास में मदद करेगी, आपूर्ति शृंखला को मज़बूत करेगी और महत्&#x200d;वपूर्ण क्षेत्र में तकनीकी नेतृत्व स्थापित करेगी। श्री वैष्&#x200d;णव ने कहा कि &#8216;सेमीकॉन 2.0&#8217; के तहत 6 स्तंभों- डिज़ाइन, मशीनें और सामग्री, और अधिक फैब स्थापित करना, एटीएमपी-ओएसएटी इंडस्ट्री को और मज़बूत करना तथा अनुसंधान और विकास के ज़रिए सेमीकंडक्टर पारिस्थितिकी को समग्र रूप से विकसित किया जाएगा। श्री वैष्णव ने कहा कि सेमीकंडक्&#x200d;टर मिशन में उद्योग को शुरू करने और स्थापित करने पर ध्यान दिया गया था, और दूसरे चरण के अंतर्गत हमारी सभी रणनीतिक ज़रूरतों के लिए ज़रूरी चिप भारत में डिज़ाइन की जाएंगी। इस सेमीकंडक्टर प्रोग्राम के आखिर तक, देश चिप डिज़ाइन के मामले में आत्मनिर्भर हो जाएगा। श्री वैष्णव ने यह भी बताया कि भारत के सेमीकंडक्टर प्रोग्राम में दुनिया भर की बढ़ती दिलचस्पी को देखते हुए, इस उद्योग हर बड़ी कंपनी देश में अपनी मौजूदगी बनानी चाहती है। उन्होंने कहा कि भारत ने पहले ही अमरीका, जापान, यूरोपीय संघ, नीदरलैंड्स, सिंगापुर और जर्मनी के साथ साझेदारी कर ली है। उन्होंने बताया कि दूसरे चरण के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। मंत्रिमंडल ने 62 हजार 500 करोड़ रुपये के बजट के साथ मोबाइल फ़ोन विनिर्माण योजना को भी स्&#x200d;वीकृति दी। श्री वैष्णव ने कहा कि यह योजना अगले 5 वर्षों के लिए लागू की जाएगी। उन्होंने कहा कि इस योजना के तहत देश में मोबाइल फ़ोन बनाने के लिए पात्र बिक्री पर 2.25 प्रतिशत से 5 प्रतिशत तक की प्रोत्&#x200d;साहन सहायता दी जाएगी। श्री वैष्&#x200d;णव ने कहा कि मुख्य कल-पुर्जों और सब-असेंबली की घरेलू सोर्सिंग से 1.5 प्रतिशत तक का अतिरिक्त प्रोत्&#x200d;साहन जुड़ा है। आशा है कि इस योजना की अवधि के दौरान लगभग 39 लाख करोड़ रुपये के मोबाइल फ़ोन बनाए जाएंगे। कुल निर्यात लगभग साढे सात लाख करोड़ रुपये से बढ़कर 15 लाख करोड़ रुपये होने की संभावना है। श्री वैष्णव ने बताया कि इससे लगभग 60 हजार लोगों को प्रत्यक्ष रोजगार मिलने की भी आशा है। …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:10:13+00:00",
-        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-a-6-lane-greenfield-elevated-corridor-in-up-along-with-several-other-important-projects/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-171333.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होने के बाद पश्चिम बंगाल से निर्यात शुरू",
-        "summary": "भारत और ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्‍ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने […]",
-        "article": "भारत और ब्रिटेन के बीच व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्&#x200d;ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने के गहने, पान के पत्ते, कॉफ़ी और चाय के निर्यात कनसाइनमेंट को औपचारिक रूप से रवाना गया। इस मुक्&#x200d;त व्&#x200d;यापार समझौते से जूट, इंजीनियरिंग उत्पादों और पूर्वोत्तर के सामानों को फ़ायदा होगा। इस कार्यक्रम में पश्चिम बंगाल के वाणिज्य और उद्योग मंत्री तापस रॉय ने आज के दिन को ऐतिहासिक बताया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:08:02+00:00",
-        "link": "https://newsonair.gov.in/hi/exports-from-west-bengal-pick-up-after-india-uk-comprehensive-economic-and-trade-agreement-comes-into-effect/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
+        "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
+        "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:28:57+00:00",
+        "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-extended-his-best-wishes-to-the-people-of-the-country-on-the-occasion-of-the-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-16-075831.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
+        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
+        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:00:55+00:00",
+        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
         "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
         "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
@@ -1467,28 +1495,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:19:29+00:00",
         "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "कैबिनेट ने कई महत्वपूर्ण परियोजनाओं सहित यूपी में 6-लेन ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी",
-        "summary": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्‍ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्‍वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी […]",
-        "article": "केंद्रीय मंत्रिमंडल ने आज उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच 46 किलोमीटर से अधिक लंबे 6-लेन वाले ग्रीनफील्ड एलिवेटेड कॉरिडोर को स्&#x200d;वीकृति दी। इसे &#8216;हाइब्रिड एन्युइटी मॉडल&#8217; के तहत बनाया जाएगा। इससे शहरी आवाजाही बेहतर होगी। नई दिल्ली में आज मंत्रिमंडल की बैठक के बाद सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने मीडिया को बताया कि इस परियोजना की कुल लागत 14 हजार 400 करोड़ रुपये से अधिक है। इससे राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच निर्बाध संपर्क सुविधा मिलेगी। इससे शहर के सड़क नेटवर्क पर भीड़ कम होगी और शहरी आवाजाही बेहतर होगी। उम्मीद है कि इससे परियोजना के प्रभाव वाले क्षेत्र में यात्रा का औसत समय लगभग 60 मिनट से घटकर 20 मिनट रह जाएगा। श्री वैष्&#x200d;णव ने कहा कि यह परियोजना प्रमुख धार्मिक, शैक्षणिक और सांस्कृतिक स्थलों तक संपर्क को काफी बेहतर बनाएगी। मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी शहर में भीड़ कम करने के लिए वरुणा नदी के किनारे राष्&#x200d;ट्रीय राजमार्ग-31 और वाराणसी रिंग रोड को जोड़ने वाले 43 किलोमीटर से अधिक लंबे, 6/4-लेन वाले एलिवेटेड गलियारे के विकास को भी मंज़ूरी दी है। इस परियोजना की कुल लागत 10 हजार 998 करोड़ रुपये से अधिक है। यह परियोजना राष्&#x200d;ट्रीय राजमार्ग-31 और काशी रेलवे स्टेशन के बीच यात्रा के समय को लगभग 40 मिनट से घटाकर 20 मिनट कर देगी जिससे समय में लगभग 50 प्रतिशत की कमी आएगी। श्री वैष्णव ने कहा कि मंत्रिमंडल ने भारत के सेमीकंडक्टर डिज़ाइन और विनिर्माण पारिस्थितिकी को मज़बूत करने के लिए एक लाख 27 हजार 500 करोड़ रुपये के बजट के साथ सेमीकंडक्&#x200d;टर मिशन के दूसरे चरण को भी मंज़ूरी दी। उन्होंने कहा कि इस मिशन के पहले चरण की सफलता को आगे बढ़ाते हुए, इस योजना का उद्देश्&#x200d;य भारत को वै&#x200d;श्विक सेमीकंडक्टर मानचित्र पर लाने की सरकार की प्रतिबद्धता को और आगे बढ़ाना है। उन्होंने कहा कि यह योजना आर्थिक विकास में मदद करेगी, आपूर्ति शृंखला को मज़बूत करेगी और महत्&#x200d;वपूर्ण क्षेत्र में तकनीकी नेतृत्व स्थापित करेगी। श्री वैष्&#x200d;णव ने कहा कि &#8216;सेमीकॉन 2.0&#8217; के तहत 6 स्तंभों- डिज़ाइन, मशीनें और सामग्री, और अधिक फैब स्थापित करना, एटीएमपी-ओएसएटी इंडस्ट्री को और मज़बूत करना तथा अनुसंधान और विकास के ज़रिए सेमीकंडक्टर पारिस्थितिकी को समग्र रूप से विकसित किया जाएगा। श्री वैष्णव ने कहा कि सेमीकंडक्&#x200d;टर मिशन में उद्योग को शुरू करने और स्थापित करने पर ध्यान दिया गया था, और दूसरे चरण के अंतर्गत हमारी सभी रणनीतिक ज़रूरतों के लिए ज़रूरी चिप भारत में डिज़ाइन की जाएंगी। इस सेमीकंडक्टर प्रोग्राम के आखिर तक, देश चिप डिज़ाइन के मामले में आत्मनिर्भर हो जाएगा। श्री वैष्णव ने यह भी बताया कि भारत के सेमीकंडक्टर प्रोग्राम में दुनिया भर की बढ़ती दिलचस्पी को देखते हुए, इस उद्योग हर बड़ी कंपनी देश में अपनी मौजूदगी बनानी चाहती है। उन्होंने कहा कि भारत ने पहले ही अमरीका, जापान, यूरोपीय संघ, नीदरलैंड्स, सिंगापुर और जर्मनी के साथ साझेदारी कर ली है। उन्होंने बताया कि दूसरे चरण के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। मंत्रिमंडल ने 62 हजार 500 करोड़ रुपये के बजट के साथ मोबाइल फ़ोन विनिर्माण योजना को भी स्&#x200d;वीकृति दी। श्री वैष्णव ने कहा कि यह योजना अगले 5 वर्षों के लिए लागू की जाएगी। उन्होंने कहा कि इस योजना के तहत देश में मोबाइल फ़ोन बनाने के लिए पात्र बिक्री पर 2.25 प्रतिशत से 5 प्रतिशत तक की प्रोत्&#x200d;साहन सहायता दी जाएगी। श्री वैष्&#x200d;णव ने कहा कि मुख्य कल-पुर्जों और सब-असेंबली की घरेलू सोर्सिंग से 1.5 प्रतिशत तक का अतिरिक्त प्रोत्&#x200d;साहन जुड़ा है। आशा है कि इस योजना की अवधि के दौरान लगभग 39 लाख करोड़ रुपये के मोबाइल फ़ोन बनाए जाएंगे। कुल निर्यात लगभग साढे सात लाख करोड़ रुपये से बढ़कर 15 लाख करोड़ रुपये होने की संभावना है। श्री वैष्णव ने बताया कि इससे लगभग 60 हजार लोगों को प्रत्यक्ष रोजगार मिलने की भी आशा है। …",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:10:13+00:00",
-        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-a-6-lane-greenfield-elevated-corridor-in-up-along-with-several-other-important-projects/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-171333.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होने के बाद पश्चिम बंगाल से निर्यात शुरू",
-        "summary": "भारत और ब्रिटेन के बीच व्‍यापक आर्थिक और व्‍यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्‍ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने […]",
-        "article": "भारत और ब्रिटेन के बीच व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता लागू होते ही आज सामान की खेप रवाना करने के लिए देश भर में समारोह आयोजित किए गए। इस समारोह के अंतर्गत आज कोलकाता के नेताजी सुभाष चंद्र बोस अंतरराष्&#x200d;ट्रीय हवाई अड्डे के कार्गो कॉम्प्लेक्स में विशेष कार्यक्रम आयोजित किया गया। इस कॉम्प्लेक्स से सोने के गहने, पान के पत्ते, कॉफ़ी और चाय के निर्यात कनसाइनमेंट को औपचारिक रूप से रवाना गया। इस मुक्&#x200d;त व्&#x200d;यापार समझौते से जूट, इंजीनियरिंग उत्पादों और पूर्वोत्तर के सामानों को फ़ायदा होगा। इस कार्यक्रम में पश्चिम बंगाल के वाणिज्य और उद्योग मंत्री तापस रॉय ने आज के दिन को ऐतिहासिक बताया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:08:02+00:00",
-        "link": "https://newsonair.gov.in/hi/exports-from-west-bengal-pick-up-after-india-uk-comprehensive-economic-and-trade-agreement-comes-into-effect/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1607,6 +1613,39 @@ window.VM_NEWS = {
     ],
     "sports": [
       {
+        "title": "कुश्ती: पोल्याक इमरे, वर्गा जानोस और कोज़्मा इस्तवान मेमोरियल टूर्नामेंट में अमन सहरावत ने जीता स्वर्ण पदक",
+        "summary": "पोल्याक इमरे, वर्गा जानोस और कोज़्मा इस्तवान मेमोरियल 2026 कुश्ती टूर्नामेंट के पहले दिन कल हंगरी के बुडापेस्ट में भारत के अमन सहरावत ने पुरुषों के फ्रीस्टाइल 57 किलोग्राम भार वर्ग में स्वर्ण पदक जीता। पुरुषों के 61 किलोग्राम भार वर्ग में दीपक और 65 किलोग्राम भार वर्ग में विशाल कालीरमना ने कांस्य पदक जीतकर […]",
+        "article": "पोल्याक इमरे, वर्गा जानोस और कोज़्मा इस्तवान मेमोरियल 2026 कुश्ती टूर्नामेंट के पहले दिन कल हंगरी के बुडापेस्ट में भारत के अमन सहरावत ने पुरुषों के फ्रीस्टाइल 57 किलोग्राम भार वर्ग में स्वर्ण पदक जीता। पुरुषों के 61 किलोग्राम भार वर्ग में दीपक और 65 किलोग्राम भार वर्ग में विशाल कालीरमना ने कांस्य पदक जीतकर प्रतियोगिता के पहले दिन भारत के पदकों की संख्या तीन तक पहुंचा दी। भारत का अभियान आज भी जारी रहेगा, जिसमें पुरुषों के फ्रीस्टाइल 79 किलोग्राम, 92 किलोग्राम, 97 किलोग्राम और 125 किलोग्राम भार वर्गों के साथ-साथ महिलाओं की कुश्ती के 50 किलोग्राम और 55 किलोग्राम भार वर्ग शामिल हैं। ये सत्र का चौथा और यूनाइटेड वर्ल्ड रेसलिंग रैंकिंग श्रृंखला का अंतिम टूर्नामेंट है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:01:24+00:00",
+        "link": "https://newsonair.gov.in/hi/wrestling-aman-sehrawat-wins-gold-medal-at-the-polyak-imre-varga-janos-and-kozma-istvan-memorial-tournament/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/202607153865725-1f06db3f-01a0-4c27-a884-ee708c8ed36e.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "क्रिकेट: भारत और इंग्लैंड के बीच तीन एकदिवसीय मैचों की श्रृंखला का दूसरा मैच आज",
+        "summary": "भारत और इंग्लैंड के बीच तीन मैचों की एकदिवसीय अंतरराष्ट्रीय क्रिकेट श्रृंखला का दूसरा मैच आज शाम साढ़े पांच बजे कार्डिफ के सोफिया गार्डन्स में खेला जाएगा। इससे पहले, भारत ने बर्मिंघम के एजबेस्टन में पहले एकदिवसीय मुकाबले में मेजबान इंग्लैंड को 6 विकेट से हराया था। श्रंखला का तीसरा मुकाबला रविवार को लंदन […]",
+        "article": "भारत और इंग्लैंड के बीच तीन मैचों की एकदिवसीय अंतरराष्ट्रीय क्रिकेट श्रृंखला का दूसरा मैच आज शाम साढ़े पांच बजे कार्डिफ के सोफिया गार्डन्स में खेला जाएगा। इससे पहले, भारत ने बर्मिंघम के एजबेस्टन में पहले एकदिवसीय मुकाबले में मेजबान इंग्लैंड को 6 विकेट से हराया था। श्रंखला का तीसरा मुकाबला रविवार को लंदन के लॉडर्स मैदान पर खेला जाएगा।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T01:28:56+00:00",
+        "link": "https://newsonair.gov.in/hi/cricket-second-match-of-the-three-match-odi-series-between-india-and-england-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNNMtF3bkAA0c9s-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "फीफा विश्व कप: सेमीफाइनल में इंग्लैंड को हराकर फाइनल में पहुंचा अर्जेंटीना",
+        "summary": "फीफा विश्व कप फुटबॉल में, मौजूदा चैंपियन अर्जेंटीना ने दूसरे सेमीफाइनल में इंग्लैंड को 2-1 से हरा दिया है। अब फाइनल मुकाबले में रविवार को अर्जेंटीना का सामना स्‍पेन से होगा। सेमीफाइनल में पहला हाफ गोलरहित रहा, 55वें मिनट में इंग्लैंड के लिए एंथनी गॉर्डन ने पहला गोल किया। अर्जेंटीना के एंजो फर्नांडीज ने 85वें […]",
+        "article": "फीफा विश्व कप फुटबॉल में, मौजूदा चैंपियन अर्जेंटीना ने दूसरे सेमीफाइनल में इंग्लैंड को 2-1 से हरा दिया है। अब फाइनल मुकाबले में रविवार को अर्जेंटीना का सामना स्&#x200d;पेन से होगा। सेमीफाइनल में पहला हाफ गोलरहित रहा, 55वें मिनट में इंग्लैंड के लिए एंथनी गॉर्डन ने पहला गोल किया। अर्जेंटीना के एंजो फर्नांडीज ने 85वें मिनट में गोल करके अपनी टीम को बराबरी दिलवा दी। 90वें मिनट में लौटारो मार्टिनेज ने गोल करके अर्जेंटीना को 2-1 से शानदार जीत दिलाई। इससे पहले, अर्जेंटीना ने 2022 में कतर में वर्ल्ड कप का खिताब जीता था।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T00:50:05+00:00",
+        "link": "https://newsonair.gov.in/hi/fifa-world-cup-argentina-reaches-final-after-defeating-england-in-the-semi-final/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/1-9.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत ने पहले एकदिवसीय मैच में इंग्लैंड को छह विकेट से हराया",
         "summary": "क्रिकेट में कल भारत ने इंग्लैंड को पहले एकदिवसीय मैच में छह विकेट से हरा दिया है। बर्मिंघम के एजबेस्टन में खेले गए मुकाबले में इंग्लैंड ने पहले बल्लेबाजी करते हुए 258 रन बनाए। जवाब में भारत ने 45 ओवर और दो गेंदों में चार विकेट खोकर 262 रन बनाकर लक्ष्य हासिल कर लिया। कप्तान […]",
         "article": "क्रिकेट में कल भारत ने इंग्लैंड को पहले एकदिवसीय मैच में छह विकेट से हरा दिया है। बर्मिंघम के एजबेस्टन में खेले गए मुकाबले में इंग्लैंड ने पहले बल्लेबाजी करते हुए 258 रन बनाए। जवाब में भारत ने 45 ओवर और दो गेंदों में चार विकेट खोकर 262 रन बनाकर लक्ष्य हासिल कर लिया। कप्तान शुभमन गिल ने सर्वाधिक 80 रन बनाए, जबकि अक्षर पटेल ने नाबाद 57 और वॉशिंगटन सुंदर ने नाबाद 52 रन की पारी खेली। इससे पहले इंग्लैंड के लिए जो रूट ने 76 और लियाम डॉसन ने 68 रन बनाए। भारत की ओर से अक्षर पटेल ने चार विकेट लिए और उन्हें प्लेयर ऑफ द मैच चुना गया। तीन मैचों की श्रृंखला का दूसरा मुकाबला 16 जुलाई को कार्डिफ में खेला जाएगा।",
@@ -1680,39 +1719,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-13T12:30:25+00:00",
         "link": "https://newsonair.gov.in/hi/the-indian-womens-cricket-team-created-history-at-lords-winning-the-match-by-270-runs/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNG0EhFaIAA1d2h.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी ने 56वें अंतर्राष्ट्रीय भौतिकी ओलंपियाड में स्वर्ण पदक जीतने पर भारतीय दल को बधाई दी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कोलंबिया के बुकारामंगा में आयोजित 56वें ​​अंतर्राष्ट्रीय भौतिकी ओलंपियाड 2026 में स्वर्ण पदक जीतने पर भारतीय दल को बधाई दी है। सोशल मीडिया पोस्ट में, श्री मोदी ने कहा कि उनकी यह उपलब्धि देश की युवा शक्ति की असीमित क्षमता और विज्ञान एवं अनुसंधान के प्रति उनके जुनून का एक और […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कोलंबिया के बुकारामंगा में आयोजित 56वें ​​अंतर्राष्ट्रीय भौतिकी ओलंपियाड 2026 में स्वर्ण पदक जीतने पर भारतीय दल को बधाई दी है। सोशल मीडिया पोस्ट में, श्री मोदी ने कहा कि उनकी यह उपलब्धि देश की युवा शक्ति की असीमित क्षमता और विज्ञान एवं अनुसंधान के प्रति उनके जुनून का एक और उदाहरण है। प्रधानमंत्री ने कहा कि यह भी उतना ही सराहनीय है कि पिछले एक दशक में भारतीय छात्रों ने इस मंच के विभिन्न संस्करणों में असाधारण रूप से अच्छा प्रदर्शन किया है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T07:58:38+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-congratulated-the-indian-team-on-winning-gold-medals-at-the-56th-international-physics-olympiad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNFsLoXaUAA6LSM.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "56वें अंतर्राष्ट्रीय भौतिकी ओलंपियाड में पांच भारतीय विद्यार्थियों ने स्वर्ण पदक जीते",
-        "summary": "कोलंबिया के बुकारामंगा में आयोजित 56वें अंतर्राष्ट्रीय भौतिकी ओलंपियाड 2026 में पांच भारतीय छात्रों ने स्वर्ण पदक जीते हैं। इन युवा भौतिकविदों ने असाधारण प्रदर्शन करते हुए देश को गौरवान्वित किया है। स्वर्ण पदक विजेता पुणे के कनिष्क जैन, इंदौर के रिद्धेश अनंत बेंडले, नई दिल्ली के ऋषित गर्ग, मुंबई के श्रेष्ठ सुरैया और अहमदाबाद […]",
-        "article": "कोलंबिया के बुकारामंगा में आयोजित 56वें अंतर्राष्ट्रीय भौतिकी ओलंपियाड 2026 में पांच भारतीय छात्रों ने स्वर्ण पदक जीते हैं। इन युवा भौतिकविदों ने असाधारण प्रदर्शन करते हुए देश को गौरवान्वित किया है। स्वर्ण पदक विजेता पुणे के कनिष्क जैन, इंदौर के रिद्धेश अनंत बेंडले, नई दिल्ली के ऋषित गर्ग, मुंबई के श्रेष्ठ सुरैया और अहमदाबाद के स्वरित जोशी हैं। भारत ने इस प्रतियोगिता में संयुक्त रूप से पहला स्थान प्राप्त किया है। परमाणु ऊर्जा विभाग के सचिव डॉ. अजीत कुमार मोहंती ने पदक विजेताओं को बधाई दी और कहा कि युवा भौतिकविदों की यह अभूतपूर्व उपलब्धि राष्ट्र के लिए अपार गर्व का विषय है।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T02:34:18+00:00",
-        "link": "https://newsonair.gov.in/hi/five-indian-students-won-gold-medals-at-the-56th-international-physics-olympiad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HM_7vr5bwAAZj-6.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "इटली के यानिक सिनर ने विंबलडन टेनिस टूर्नामेंट में पुरुष सिंगल्स का खिताब जीता",
-        "summary": "इटली के यानिक सिनर ने विंबलडन टेनिस टूर्नामेंट में पुरुष सिंगल्स का खिताब जीत लिया है। शीर्ष वरीयता प्राप्त सिनर ने फाइनल में दूसरे वरीयता प्राप्त जर्मनी के अलेक्जेंडर ज़्वेरेव को 6-7, 7-6, 6-3, 6-4 से हराया। यह सिनर का लगातार दूसरा विंबलडन पुरुष सिंगल्स और पांचवां ग्रैंड स्लैम खिताब है। महिला डबल्स का खिताब […]",
-        "article": "इटली के यानिक सिनर ने विंबलडन टेनिस टूर्नामेंट में पुरुष सिंगल्स का खिताब जीत लिया है। शीर्ष वरीयता प्राप्त सिनर ने फाइनल में दूसरे वरीयता प्राप्त जर्मनी के अलेक्जेंडर ज़्वेरेव को 6-7, 7-6, 6-3, 6-4 से हराया। यह सिनर का लगातार दूसरा विंबलडन पुरुष सिंगल्स और पांचवां ग्रैंड स्लैम खिताब है। महिला डबल्स का खिताब चीन और फ्रासं की जोड़ी गुओ हान्यू और क्रिस्टीना म्लाडेनोविच ने जीता। फाइनल में, 10वीं वरीयता इस जोड़ी ने दूसरे वरीयता प्राप्त कनाडाई-ब्राजील की जोड़ी गैब्रिएला डाब्रोव्स्की और लुइसा स्टेफानी को 6-3, 7-5 से हराया।",
-        "date": "2026-07-13",
-        "pubDate": "2026-07-13T00:44:21+00:00",
-        "link": "https://newsonair.gov.in/hi/italys-jannik-sinner-won-the-mens-singles-title-at-the-wimbledon-tennis-tournament/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNETjzDaAAA8pjS.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
