@@ -1094,13 +1094,16 @@
     .ad-strip .ad-banner-label { align-self: flex-end; }
     .ad-strip .ad-banner-slot  { height: 130px; }
 
-    /* ── Side Ad Rail — floating skyscraper strip, always beside content on desktop ── */
+    /* ── Side Ad Rail — one long skyscraper strip that scrolls with the page,
+       top-aligned (via JS, see alignAdRail()) to wherever the current section's
+       own ad-banner starts, so it never floats independently of the content. ── */
     .side-ad-rail {
-      position: fixed; top: 130px; right: 18px; z-index: 50;
-      display: flex; flex-direction: column; gap: 16px;
+      position: absolute; top: 210px; right: 18px; z-index: 50;
+      display: flex; flex-direction: column;
+      height: 70vh; min-height: 320px;
     }
-    .side-ad-rail .ad-strip { width: 160px; margin: 0; }
-    .side-ad-rail .ad-banner-slot { width: 160px; height: 300px; }
+    .side-ad-rail .ad-strip { width: 160px; height: 100%; margin: 0; display: flex; flex-direction: column; }
+    .side-ad-rail .ad-banner-slot { width: 160px; flex: 1; }
     .side-ad-rail .ad-ph-hi { font-size: 15px; }
     .side-ad-rail .ad-ph-en { font-size: 9px; }
     .side-ad-rail .ad-contact-label { font-size: 8px; }
@@ -2004,19 +2007,6 @@
       </div>
     </div>
   </div>
-  <div class="ad-strip">
-    <span class="ad-banner-label">Advertisement</span>
-    <div class="ad-banner-slot">
-      <div class="ad-placeholder">
-        <div class="ad-ticker-inner">
-          <div class="ad-ph-hi" data-hi="विज्ञापन के लिए उपलब्ध" data-en="This Space is Available for Advertisement">विज्ञापन के लिए उपलब्ध</div>
-          <div class="ad-ph-en" data-hi="यहाँ अपना ब्रांड प्रमोट करें" data-en="Promote Your Brand Here">यहाँ अपना ब्रांड प्रमोट करें</div>
-          <div class="ad-contact-label" data-hi="विज्ञापन हेतु संपर्क करें" data-en="Contact for Advertisement">विज्ञापन हेतु संपर्क करें</div>
-          <a href="mailto:admin@vandematrabhoomi.in">admin@vandematrabhoomi.in</a>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 
 <script>
@@ -2239,6 +2229,7 @@ function loadBreaking() {
   if (!text) return;
   track.textContent = text + '   ●   ' + text;
   bar.style.display = 'flex';
+  alignAdRail();
 }
 
 /* ── Updated bar ────────────────────────────────────── */
@@ -2512,7 +2503,26 @@ function setSection(name) {
     s.classList.toggle('active', s.id === 'section-' + name);
   });
   if (name === 'opinion') renderOpinion();
+  alignAdRail();
 }
+
+/* ── Side ad rail alignment ────────────────────────────
+   Keeps the side ad rail's top edge level with the currently
+   visible section's own ad-banner (the "yellow strip"), instead
+   of a hardcoded guess -- so it stays lined up no matter which
+   tab is open, whether the breaking-news ticker is showing, or
+   which language's text is currently reflowing the masthead. ── */
+function alignAdRail() {
+  var rail = document.querySelector('.side-ad-rail');
+  var activeSection = document.querySelector('.section.active');
+  if (!rail || !activeSection) return;
+  var adBanner = activeSection.querySelector('.ad-banner');
+  if (!adBanner) return;
+  var top = adBanner.getBoundingClientRect().top + window.scrollY;
+  rail.style.top = top + 'px';
+}
+window.addEventListener('resize', alignAdRail);
+window.addEventListener('load', alignAdRail);
 
 /* ── Language toggle ────────────────────────────────── */
 function setLang(l) {
@@ -2536,6 +2546,7 @@ function setLang(l) {
   renderEditorialTeaser();
   renderVmBanner();
   setDate();
+  alignAdRail();
 }
 
 /* ── Opinion section (shows Live Desk stories) ───────── */
@@ -2998,6 +3009,8 @@ setDate();
 loadStories();
 loadFeed('top');
 loadBreaking();
+alignAdRail();
+setTimeout(alignAdRail, 300); // re-check after fonts/images finish reflowing the masthead
 
 if (location.hash === '#opinion') setSection('opinion');
 if (location.hash === '#desk') openDesk();
