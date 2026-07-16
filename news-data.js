@@ -1,8 +1,74 @@
 /* Vande Matrabhoomi — Prasar Bharati Live Feed (auto-generated) */
 window.VM_NEWS = {
-  "generated": "2026-07-16T02:34:47.734091",
+  "generated": "2026-07-16T05:59:47.433392",
   "en": {
     "top": [
+      {
+        "title": "President, Vice President and PM extend greetings on sacred occasion of Jagannath Rath Yatra",
+        "summary": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj […]",
+        "article": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj Sudarshan, Lord Balabhadra and Devi Subhadra, comes out to meet devotees. She wished that the blessings of Mahaprabhu Jagannath bring happiness, peace and prosperity to the country and its people. Vice President C P Radhakrishnan said the Rath Yatra reflects the values of faith, devotion, equality and collective harmony, and celebrates India&#8217;s rich civilisational heritage. Prime Minister Narendra Modi described the Rath Yatra as a symbol of India&#8217;s timeless spiritual and cultural traditions. He said the festival embodies humility, collective participation and selfless service, and prayed for the well-being and prosperity of all. Union Home Minister Amit Shah said the world-famous Jagannath Rath Yatra represents faith, trust and devotion, and preserves India&#8217;s rich cultural heritage. He prayed for the happiness and well-being of everyone.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:18:18+00:00",
+        "link": "https://newsonair.gov.in/president-prime-minister-and-home-minister-greet-people-on-sacred-occasion-of-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Zelenskiy endorses Sergii Koretskyi as Ukraine’s new Prime Minister",
+        "summary": "Ukrainian President Volodymyr Zelenskiy has endorsed the head of the state energy company Naftogaz, Sergii Koretskyi, as Ukraine&#8217;s new Prime Minister. President Zelenskiy pushed out Prime Minister Yulia Svyrydenko this week after she spent just a year in office. Parliament accepted her resignation on Tuesday and is expected to vote on her successor today. Zelenskiy […]",
+        "article": "Ukrainian President Volodymyr Zelenskiy has endorsed the head of the state energy company Naftogaz, Sergii Koretskyi, as Ukraine&#8217;s new Prime Minister. President Zelenskiy pushed out Prime Minister Yulia Svyrydenko this week after she spent just a year in office. Parliament accepted her resignation on Tuesday and is expected to vote on her successor today. Zelenskiy has given little explanation for the move so far, apart from saying that the aim is to refresh the leadership. Speaking to reporters in Kyiv, Zelenskiy said Sergii Koretskyi is the best candidate for Prime Minister, as Ukraine&#8217;s priority is preparing for the upcoming winter.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:20:51+00:00",
+        "link": "https://newsonair.gov.in/zelenskiy-endorses-sergii-koretskyi-as-ukraines-new-prime-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre revises Special Additional Excise Duty on fuel exports",
+        "summary": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has […]",
+        "article": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has been raised to 14.50 rupees per litre. Meanwhile, the export duty on petrol has been reduced to 2.50 rupees per litre. The revised rates, notified by the Finance Ministry, came into effect from today. However, there is no change in the existing excise duty on petrol and diesel meant for domestic consumption. The Special Additional Excise Duty on exports of petrol, diesel and ATF was introduced with effect from 27th March this year to ensure adequate domestic availability of petroleum products by discouraging exports amid the West Asia crisis. The duty rates are reviewed every fortnight, with the previous revision coming into effect on the 1st of this month. The rates are determined based on the average international prices of crude oil, petrol, diesel and ATF prevailing during the period since the last review.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:32+00:00",
+        "link": "https://newsonair.gov.in/centre-revises-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US says it launched new wave of strikes on Iran aimed at protecting vessels in Strait of Hormuz",
+        "summary": "The United States has said it has launched a new wave of strikes on Iran aimed at protecting vessels in the Strait of Hormuz. The US military said it carried out a second wave of strikes on Iran yesterday aimed at degrading Tehran&#8217;s ability to target vessels in the Strait of Hormuz. President Donald Trump […]",
+        "article": "The United States has said it has launched a new wave of strikes on Iran aimed at protecting vessels in the Strait of Hormuz. The US military said it carried out a second wave of strikes on Iran yesterday aimed at degrading Tehran&#8217;s ability to target vessels in the Strait of Hormuz. President Donald Trump is also weighing options to expand the US military operation to loosen Tehran&#8217;s grip on the critical waterway. Air defences were activated in Tehran early this morning, and residents were awakened by a loud explosion. The development came after Iran claimed it had struck US military targets in the region, including in Bahrain and Kuwait. The US military said it had disabled an empty oil tanker sailing towards Kharg Island, an economic lifeline for Iran. It marked the first vessel to be disabled since the US naval blockade went back into effect. An Iranian Foreign Ministry spokesperson said Tehran has no plans for negotiations with the United States. President Donald Trump said on social media that Iran had released an American woman detained since December 2024 and praised Tehran&#8217;s gesture of goodwill.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:57:12+00:00",
+        "link": "https://newsonair.gov.in/us-says-it-launched-new-wave-of-strikes-on-iran-aimed-at-protecting-vessels-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Akashvani-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Heavy to very heavy rainfall likely over Arunachal Pradesh, Odisha and Gangetic West Bengal",
+        "summary": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency […]",
+        "article": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency has predicted isolated to scattered rainfall over Punjab, Haryana, Chandigarh, Delhi, East Rajasthan, West Rajasthan and West Uttar Pradesh during the next two to three days. Heatwave conditions are also expected at isolated places over Andhra Pradesh, Tamil Nadu, Puducherry and Karaikal today. In Delhi, the Meteorological Department has forecast hot and humid conditions with a partly cloudy sky during the day.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:43:35+00:00",
+        "link": "https://newsonair.gov.in/heavy-to-very-heavy-rainfall-likely-over-arunachal-pradesh-odisha-and-gangetic-west-bengal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Prime Minister Narendra Modi to visit Haryana, Chandigarh and Punjab tomorrow",
+        "summary": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in […]",
+        "article": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in Jind. In the afternoon, the Prime Minister will travel to Chandigarh, where he will lay the foundation stone and inaugurate various development projects worth over 6,600 crore rupees in the healthcare, education and road infrastructure sectors. PM Modi will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at the Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar, where he will lay the foundation stone and inaugurate multiple development projects worth over 5,470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. PM Modi will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:39:56+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
         "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
@@ -44,39 +110,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T16:00:45+00:00",
         "link": "https://newsonair.gov.in/state-legislatures-are-the-heartbeat-of-indian-democracy-vice-president-c-p-radhakrishnan/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/VP-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "UP: JPC concludes consultations on One Nation, One Election after interacting with academia",
-        "summary": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. […]",
-        "article": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. It also interacted with Padma awardees, representatives of civil society, and prominent members of the media. The committee said that the suggestions and opinions received during the consultations would be examined in the next stages of its deliberations before finalising its recommendations. Speaking to the media after the meeting, JPC Chairman P. P. Chaudhary said the committee has so far visited 10 states and received several important suggestions from people representing different sectors. He said the committee would place before Parliament only those recommendations that are in the national interest.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:04:00+00:00",
-        "link": "https://newsonair.gov.in/up-jpc-concludes-consultations-on-one-nation-one-election-after-interacting-with-academia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/JPC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Poland decide to strengthen cooperation in MSME sector",
-        "summary": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the […]",
-        "article": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the meeting, Mr. Khera highlighted the significant contribution of India&#8217;s MSME sector to the country&#8217;s economy. He said India has over 86 million registered MSMEs, which contribute nearly 30 per cent to the GDP. He added that the sector supports the livelihoods of around 330 million people. The secretary also outlined the government&#8217;s initiatives to build globally competitive and future-ready MSMEs through digital transformation, innovation, technology adoption, sustainable manufacturing and improved market access. He briefed the delegation on flagship initiatives, including the Udyam Registration Portal, the Credit Guarantee Scheme for Micro and Small Enterprises, Technology Centres and the Zero Defect Zero Effect (ZED) programme. Mr. Khera said Poland is India&#8217;s largest trading and investment partner in Central and Eastern Europe and expressed confidence that the recently concluded India-EU FTA would further boost bilateral trade and investment. Deputy Minister Michał Baranowski appreciated India&#8217;s progress in strengthening its MSME ecosystem. He reaffirmed Poland&#8217;s commitment to expanding institutional cooperation and promoting greater business-to-business engagement between enterprises of both countries. The two sides also discussed strengthening collaboration in enterprise development, technology, innovation, digital transformation, market linkages and institutional partnerships.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:56:22+00:00",
-        "link": "https://newsonair.gov.in/india-and-poland-decide-to-strengthen-cooperation-in-msme-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Poland.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Agriculture Minister calls for CSR support to strengthen Agri-tech",
-        "summary": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to […",
-        "article": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to embrace the Indian ethos of trusteeship and dedicate a part of its earnings towards the welfare of farmers, agricultural research and rural communities. He said that while the nation provides growth opportunities, it is the responsibility of industry to become an active partner in nation-building by investing in agriculture and rural development through CSR. The Minister stressed that CSR investments create tangible impact in areas such as climate-resilient agriculture, soil health, nutrition-secure food systems, agricultural skill development and women farmers&#8217; entrepreneurship. Mr Chouhan described the conclave as a unique platform where corporates, ministers, scientists, government officials and farmers had come together, creating a complete value chain for agriculture. Referring to Mahatma Gandhi&#8217;s philosophy of trusteeship, he said that those who possess wealth are not its owners but its trustees, and that wealth ultimately belongs to society.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:33:32+00:00",
-        "link": "https://newsonair.gov.in/union-agriculture-minister-calls-for-csr-support-to-strengthen-agri-tech/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -101,42 +134,53 @@ window.VM_NEWS = {
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Naval-2.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Protests continue in Pakistan-occupied Jammu and Kashmir for 36th consecutive day",
-        "summary": "Protests in Pakistan-occupied Jammu and Kashmir (PoJK) entered their 36th consecutive day today, with thousands gathering in Rawalakot amid growing unrest. Addressing the rally, Joint Awami Action Committee (JAAC) leader Sardar Amman Khan accused Pakistan of forcibly occupying the region. He said PoJK is an &#8220;occupied territory&#8221; and not a &#8220;disputed territory&#8221;. He vowed that",
-        "article": "Protests in Pakistan-occupied Jammu and Kashmir (PoJK) entered their 36th consecutive day today, with thousands gathering in Rawalakot amid growing unrest. Addressing the rally, Joint Awami Action Committee (JAAC) leader Sardar Amman Khan accused Pakistan of forcibly occupying the region. He said PoJK is an &#8220;occupied territory&#8221; and not a &#8220;disputed territory&#8221;. He vowed that the movement would continue until &#8220;victory&#8221;, even if protesters had to sacrifice their lives. The rally witnessed strong anti-Pakistan slogans, with demonstrators pledging to continue their agitation. Meanwhile, the United Kashmir People&#8217;s National Party (UKPNP) strongly condemned the reported killing of six civilians by Pakistani security forces during clashes in Rawalakot. Reports said the civilians were killed after security personnel opened fire on protesters. The UKPNP has demanded an independent international investigation into the reported killings, excessive use of force, arbitrary arrests, enforced disappearances and restrictions imposed on civilians. It urged Pakistan to stop the use of lethal force, end arbitrary detentions and intimidation, and ensure due legal process for all detainees. The party also called for restoring access to food, medicines, healthcare and humanitarian aid, lifting communication restrictions and ensuring freedom of movement. The UKPNP appealed to the United Nations, the European Union, the United Kingdom, the United States and the wider international community to send an independent fact-finding mission to investigate the reported human rights violations.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:47:32+00:00",
-        "link": "https://newsonair.gov.in/protests-continue-in-pakistan-occupied-jammu-and-kashmir-for-36th-consecutive-day/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/Akashvani-News.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Keralam begins exports under India-UK Comprehensive Economic and Trade Agreement",
-        "summary": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to […]",
-        "article": "The India-UK Comprehensive Economic and Trade Agreement coming into force is expected to bring significant benefits to Keralam as well. Consignments availing the benefits of the agreement has already started from Keralam on the very first day itself. With a large Malayali diaspora residing in the United Kingdom, the new agreement is expected to provide a major boost to food processing industries in Keralam. Since a substantial share of the state&#8217;s food industry comprises MSMEs, the benefits of the agreement are likely to reach a wider section of entrepreneurs. Other key sectors in Keralam that are expected to benefit from the agreement include seafood, textiles, and footwear. On the very first day the agreement came into force, the first seafood consignments to avail of its benefits were dispatched from Thiruvananthapuram and Kochi. These shipments mark the beginning of exports from Keralam under the India-UK trade agreement.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:44:42+00:00",
-        "link": "https://newsonair.gov.in/keralam-begins-exports-under-india-uk-comprehensive-economic-and-trade-agreement/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Palestine welcomes India’s decision to establish three development projects",
-        "summary": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &#160; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in […]",
-        "article": "Palestine has welcomed India&#8217;s decision to establish three major development projects in the war-torn country. The projects include a Specialty Hospital, an Artificial Limb Fitment Centre and a Vocational Training Institute. &nbsp; In a statement, the Embassy of Palestine in New Delhi said the announcement comes at a time when the Palestinian people, particularly in the Gaza Strip, continue to face one of the gravest humanitarian crises of recent times. It said India&#8217;s commitment to establish a Specialty Hospital and an Artificial Limb Fitment Centre will make a meaningful contribution to strengthening healthcare services and supporting the rehabilitation of those most severely affected. &nbsp; It added that the proposed Vocational Training Institute represents an investment in the future of the Palestinian people by equipping young Palestinians with the skills needed to rebuild their communities and economy. &nbsp; Earlier on Monday, External Affairs Minister Dr S Jaishankar announced the initiative during the launch of India&#8217;s campaign for election to the United Nations Security Council for the 2028-29 term, in Brussels. The Embassy also welcomed India&#8217;s reaffirmation of its longstanding support for a negotiated two-State solution, with an independent State of Palestine and Israel living side by side in peace and security. It further welcomed India&#8217;s support for Palestine&#8217;s full membership of the United Nations and its continued humanitarian and development partnership with the Palestinian people.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:41:55+00:00",
-        "link": "https://newsonair.gov.in/palestine-welcomes-indias-decision-to-establish-three-development-projects/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/akasgh-1.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
       }
     ],
     "breaking": [
+      {
+        "title": "President, Vice President and PM extend greetings on sacred occasion of Jagannath Rath Yatra",
+        "summary": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj […]",
+        "article": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj Sudarshan, Lord Balabhadra and Devi Subhadra, comes out to meet devotees. She wished that the blessings of Mahaprabhu Jagannath bring happiness, peace and prosperity to the country and its people. Vice President C P Radhakrishnan said the Rath Yatra reflects the values of faith, devotion, equality and collective harmony, and celebrates India&#8217;s rich civilisational heritage. Prime Minister Narendra Modi described the Rath Yatra as a symbol of India&#8217;s timeless spiritual and cultural traditions. He said the festival embodies humility, collective participation and selfless service, and prayed for the well-being and prosperity of all. Union Home Minister Amit Shah said the world-famous Jagannath Rath Yatra represents faith, trust and devotion, and preserves India&#8217;s rich cultural heritage. He prayed for the happiness and well-being of everyone.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:18:18+00:00",
+        "link": "https://newsonair.gov.in/president-prime-minister-and-home-minister-greet-people-on-sacred-occasion-of-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre revises Special Additional Excise Duty on fuel exports",
+        "summary": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has […]",
+        "article": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has been raised to 14.50 rupees per litre. Meanwhile, the export duty on petrol has been reduced to 2.50 rupees per litre. The revised rates, notified by the Finance Ministry, came into effect from today. However, there is no change in the existing excise duty on petrol and diesel meant for domestic consumption. The Special Additional Excise Duty on exports of petrol, diesel and ATF was introduced with effect from 27th March this year to ensure adequate domestic availability of petroleum products by discouraging exports amid the West Asia crisis. The duty rates are reviewed every fortnight, with the previous revision coming into effect on the 1st of this month. The rates are determined based on the average international prices of crude oil, petrol, diesel and ATF prevailing during the period since the last review.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:32+00:00",
+        "link": "https://newsonair.gov.in/centre-revises-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Heavy to very heavy rainfall likely over Arunachal Pradesh, Odisha and Gangetic West Bengal",
+        "summary": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency […]",
+        "article": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency has predicted isolated to scattered rainfall over Punjab, Haryana, Chandigarh, Delhi, East Rajasthan, West Rajasthan and West Uttar Pradesh during the next two to three days. Heatwave conditions are also expected at isolated places over Andhra Pradesh, Tamil Nadu, Puducherry and Karaikal today. In Delhi, the Meteorological Department has forecast hot and humid conditions with a partly cloudy sky during the day.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:43:35+00:00",
+        "link": "https://newsonair.gov.in/heavy-to-very-heavy-rainfall-likely-over-arunachal-pradesh-odisha-and-gangetic-west-bengal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Prime Minister Narendra Modi to visit Haryana, Chandigarh and Punjab tomorrow",
+        "summary": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in […]",
+        "article": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in Jind. In the afternoon, the Prime Minister will travel to Chandigarh, where he will lay the foundation stone and inaugurate various development projects worth over 6,600 crore rupees in the healthcare, education and road infrastructure sectors. PM Modi will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at the Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar, where he will lay the foundation stone and inaugurate multiple development projects worth over 5,470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. PM Modi will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:39:56+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
         "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
@@ -182,39 +226,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "UP: JPC concludes consultations on One Nation, One Election after interacting with academia",
-        "summary": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. […]",
-        "article": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. It also interacted with Padma awardees, representatives of civil society, and prominent members of the media. The committee said that the suggestions and opinions received during the consultations would be examined in the next stages of its deliberations before finalising its recommendations. Speaking to the media after the meeting, JPC Chairman P. P. Chaudhary said the committee has so far visited 10 states and received several important suggestions from people representing different sectors. He said the committee would place before Parliament only those recommendations that are in the national interest.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:04:00+00:00",
-        "link": "https://newsonair.gov.in/up-jpc-concludes-consultations-on-one-nation-one-election-after-interacting-with-academia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/JPC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Poland decide to strengthen cooperation in MSME sector",
-        "summary": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the […]",
-        "article": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the meeting, Mr. Khera highlighted the significant contribution of India&#8217;s MSME sector to the country&#8217;s economy. He said India has over 86 million registered MSMEs, which contribute nearly 30 per cent to the GDP. He added that the sector supports the livelihoods of around 330 million people. The secretary also outlined the government&#8217;s initiatives to build globally competitive and future-ready MSMEs through digital transformation, innovation, technology adoption, sustainable manufacturing and improved market access. He briefed the delegation on flagship initiatives, including the Udyam Registration Portal, the Credit Guarantee Scheme for Micro and Small Enterprises, Technology Centres and the Zero Defect Zero Effect (ZED) programme. Mr. Khera said Poland is India&#8217;s largest trading and investment partner in Central and Eastern Europe and expressed confidence that the recently concluded India-EU FTA would further boost bilateral trade and investment. Deputy Minister Michał Baranowski appreciated India&#8217;s progress in strengthening its MSME ecosystem. He reaffirmed Poland&#8217;s commitment to expanding institutional cooperation and promoting greater business-to-business engagement between enterprises of both countries. The two sides also discussed strengthening collaboration in enterprise development, technology, innovation, digital transformation, market linkages and institutional partnerships.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:56:22+00:00",
-        "link": "https://newsonair.gov.in/india-and-poland-decide-to-strengthen-cooperation-in-msme-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Poland.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Agriculture Minister calls for CSR support to strengthen Agri-tech",
-        "summary": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to […",
-        "article": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to embrace the Indian ethos of trusteeship and dedicate a part of its earnings towards the welfare of farmers, agricultural research and rural communities. He said that while the nation provides growth opportunities, it is the responsibility of industry to become an active partner in nation-building by investing in agriculture and rural development through CSR. The Minister stressed that CSR investments create tangible impact in areas such as climate-resilient agriculture, soil health, nutrition-secure food systems, agricultural skill development and women farmers&#8217; entrepreneurship. Mr Chouhan described the conclave as a unique platform where corporates, ministers, scientists, government officials and farmers had come together, creating a complete value chain for agriculture. Referring to Mahatma Gandhi&#8217;s philosophy of trusteeship, he said that those who possess wealth are not its owners but its trustees, and that wealth ultimately belongs to society.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:33:32+00:00",
-        "link": "https://newsonair.gov.in/union-agriculture-minister-calls-for-csr-support-to-strengthen-agri-tech/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
         "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
         "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
@@ -234,17 +245,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-16T01:33:58+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-says-india-eu-partnership-gaining-strong-momentum/",
         "post_id": 1740312,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt approves Semicon 2.0 to strengthen semiconductor ecosystem",
-        "summary": "The Union Cabinet has approved the Semicon 2.0 programme with a budgetary outlay of 1 lakh 27 thousand 500 crore rupees for the development of India&#8217;s semiconductor design and manufacturing ecosystem. Addressing media, Information and Broadcasting Minister Ashwini Vaishnaw said that building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s […]",
-        "article": "The Union Cabinet has approved the Semicon 2.0 programme with a budgetary outlay of 1 lakh 27 thousand 500 crore rupees for the development of India&#8217;s semiconductor design and manufacturing ecosystem. Addressing media, Information and Broadcasting Minister Ashwini Vaishnaw said that building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to putting India on the global semiconductor map. He said that the scheme will support economic growth, strengthen supply chain resilience, and establish technological leadership in critical sectors. The minister said that Semicon 2.0 seeks to holistically build the semiconductor ecosystem through six pillars- Design, Machines and materials, Setting up more fabs, Further strengthening the ATMP-OSAT industry and Research and Development. Mr Vaishnaw said that in Semicon 1.0 programme, the focus was on starting and establishing the industry and Under Semicon 2.0, the chips required for all our strategic needs will be designed in India, and by the end of this semiconductor programme, the country will become self-reliant in chip design. Mr Vaishnaw also stated that, given the growing global interest in India&#8217;s semiconductor programme, every major industry leader wants to establish a presence in the country. He added that India has already forged partnerships with the US, Japan, the EU, the Netherlands, Singapore, and Germany. He informed that under Semicon 2.0, investment worth four lakh crore rupees is expected. The Union Cabinet also approved the Mobile Phone Manufacturing Scheme ((MPMS) with a budgetary outlay of 62 thousand 500 crore rupees. Mr Vaishnaw said that the scheme will be implemented for the next 5 years. He said that the scheme will provide incentive support of 2.25 percent to 5 percent on eligible sales for manufacturing mobile phones in the country. The minister said that an additional incentive of up to 1.5 percent is linked to domestic sourcing of key components and sub-assemblies. He said the scheme is expected to generate cumulative mobile phone production of approximately 39 lakh crore rupees during its tenure, while the cumulative exports are expected to increase from approximately 7.5 lakh crore rupees to 15 lakh crore rupees. Mr Vaishnaw informed that the scheme is also expected to create around 60 thousand direct jobs. The Union Cabinet also approved the National Investment Policy for Urea-2026 for Atmanirbhar Bharat (NIPU-2026). Mr Vaishnaw said that the Policy seeks to encourage new investments in urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency. The new policy includes key changes such as separation of fixed and variable costs for greater transparency and the introduction of a Return on Equity (RoE) band with a floor at 12 percent and a ceiling at 16 percent. The changes are estimated to result in savings of over 250 crore rupees per plant established under NIPU-2026 compared to NIP-2012. The Union Cabinet approved two multitracking projects covering four districts across Odisha and Jharkhand, expanding the Indian Railways network by about 145 kms. The Project includes Paradeep-Haridaspur Doubling in Odisha and Rajkharsawan-Dangoaposi 4th Line in Jharkhand. With total estimated cost of approximately 3 thousand 907 crore rupees, the projects are expected to be completed by 2030-31.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:15:37+00:00",
-        "link": "https://newsonair.gov.in/govt-approves-semicon-2-0-to-strengthen-semiconductor-ecosystem/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -252,6 +252,50 @@ window.VM_NEWS = {
     ],
     "national": [
       {
+        "title": "President, Vice President and PM extend greetings on sacred occasion of Jagannath Rath Yatra",
+        "summary": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj […]",
+        "article": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj Sudarshan, Lord Balabhadra and Devi Subhadra, comes out to meet devotees. She wished that the blessings of Mahaprabhu Jagannath bring happiness, peace and prosperity to the country and its people. Vice President C P Radhakrishnan said the Rath Yatra reflects the values of faith, devotion, equality and collective harmony, and celebrates India&#8217;s rich civilisational heritage. Prime Minister Narendra Modi described the Rath Yatra as a symbol of India&#8217;s timeless spiritual and cultural traditions. He said the festival embodies humility, collective participation and selfless service, and prayed for the well-being and prosperity of all. Union Home Minister Amit Shah said the world-famous Jagannath Rath Yatra represents faith, trust and devotion, and preserves India&#8217;s rich cultural heritage. He prayed for the happiness and well-being of everyone.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:18:18+00:00",
+        "link": "https://newsonair.gov.in/president-prime-minister-and-home-minister-greet-people-on-sacred-occasion-of-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre revises Special Additional Excise Duty on fuel exports",
+        "summary": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has […]",
+        "article": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has been raised to 14.50 rupees per litre. Meanwhile, the export duty on petrol has been reduced to 2.50 rupees per litre. The revised rates, notified by the Finance Ministry, came into effect from today. However, there is no change in the existing excise duty on petrol and diesel meant for domestic consumption. The Special Additional Excise Duty on exports of petrol, diesel and ATF was introduced with effect from 27th March this year to ensure adequate domestic availability of petroleum products by discouraging exports amid the West Asia crisis. The duty rates are reviewed every fortnight, with the previous revision coming into effect on the 1st of this month. The rates are determined based on the average international prices of crude oil, petrol, diesel and ATF prevailing during the period since the last review.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:32+00:00",
+        "link": "https://newsonair.gov.in/centre-revises-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Heavy to very heavy rainfall likely over Arunachal Pradesh, Odisha and Gangetic West Bengal",
+        "summary": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency […]",
+        "article": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency has predicted isolated to scattered rainfall over Punjab, Haryana, Chandigarh, Delhi, East Rajasthan, West Rajasthan and West Uttar Pradesh during the next two to three days. Heatwave conditions are also expected at isolated places over Andhra Pradesh, Tamil Nadu, Puducherry and Karaikal today. In Delhi, the Meteorological Department has forecast hot and humid conditions with a partly cloudy sky during the day.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:43:35+00:00",
+        "link": "https://newsonair.gov.in/heavy-to-very-heavy-rainfall-likely-over-arunachal-pradesh-odisha-and-gangetic-west-bengal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Prime Minister Narendra Modi to visit Haryana, Chandigarh and Punjab tomorrow",
+        "summary": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in […]",
+        "article": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in Jind. In the afternoon, the Prime Minister will travel to Chandigarh, where he will lay the foundation stone and inaugurate various development projects worth over 6,600 crore rupees in the healthcare, education and road infrastructure sectors. PM Modi will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at the Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar, where he will lay the foundation stone and inaugurate multiple development projects worth over 5,470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. PM Modi will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:39:56+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
         "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
         "article": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor spanning over 46 kilometres between National Highway-19 and the Varanasi Ring Road in Uttar Pradesh under the Hybrid Annuity Model. The project will be built at a total capital cost of over 14,400 crore rupees. Briefing the media in New Delhi, Information and Broadcasting Minister Ashwini Vaishnaw said the other project involves the development of an around 43-kilometre-long six-lane and four-lane Elevated Corridor along the Varuna River bank in Varanasi at a cost of around 11,000 crore rupees. The Union Cabinet also approved Semicon 2.0 with a budgetary outlay of 1,27,500 crore rupees to strengthen India&#8217;s semiconductor design and manufacturing ecosystem. Mr Vaishnaw said that, building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to placing India on the global semiconductor map. He said investments worth around four lakh crore rupees are expected under Semicon 2.0. The Minister said the Cabinet also approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of 62,500 crore rupees. He said the scheme aims to scale up domestic mobile phone production, deepen local value addition and strengthen India&#8217;s position as a global electronics manufacturing hub. The Cabinet also approved two multitracking railway projects covering four districts in Odisha and Jharkhand, expanding the Indian Railways network by about 145 kilometres. It also approved the National Investment Policy for Urea-2026 under the vision of Atmanirbhar Bharat. The policy seeks to encourage new investments in the urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency.",
@@ -296,39 +340,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "UP: JPC concludes consultations on One Nation, One Election after interacting with academia",
-        "summary": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. […]",
-        "article": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. It also interacted with Padma awardees, representatives of civil society, and prominent members of the media. The committee said that the suggestions and opinions received during the consultations would be examined in the next stages of its deliberations before finalising its recommendations. Speaking to the media after the meeting, JPC Chairman P. P. Chaudhary said the committee has so far visited 10 states and received several important suggestions from people representing different sectors. He said the committee would place before Parliament only those recommendations that are in the national interest.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:04:00+00:00",
-        "link": "https://newsonair.gov.in/up-jpc-concludes-consultations-on-one-nation-one-election-after-interacting-with-academia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/JPC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Poland decide to strengthen cooperation in MSME sector",
-        "summary": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the […]",
-        "article": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the meeting, Mr. Khera highlighted the significant contribution of India&#8217;s MSME sector to the country&#8217;s economy. He said India has over 86 million registered MSMEs, which contribute nearly 30 per cent to the GDP. He added that the sector supports the livelihoods of around 330 million people. The secretary also outlined the government&#8217;s initiatives to build globally competitive and future-ready MSMEs through digital transformation, innovation, technology adoption, sustainable manufacturing and improved market access. He briefed the delegation on flagship initiatives, including the Udyam Registration Portal, the Credit Guarantee Scheme for Micro and Small Enterprises, Technology Centres and the Zero Defect Zero Effect (ZED) programme. Mr. Khera said Poland is India&#8217;s largest trading and investment partner in Central and Eastern Europe and expressed confidence that the recently concluded India-EU FTA would further boost bilateral trade and investment. Deputy Minister Michał Baranowski appreciated India&#8217;s progress in strengthening its MSME ecosystem. He reaffirmed Poland&#8217;s commitment to expanding institutional cooperation and promoting greater business-to-business engagement between enterprises of both countries. The two sides also discussed strengthening collaboration in enterprise development, technology, innovation, digital transformation, market linkages and institutional partnerships.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:56:22+00:00",
-        "link": "https://newsonair.gov.in/india-and-poland-decide-to-strengthen-cooperation-in-msme-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Poland.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Agriculture Minister calls for CSR support to strengthen Agri-tech",
-        "summary": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to […",
-        "article": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to embrace the Indian ethos of trusteeship and dedicate a part of its earnings towards the welfare of farmers, agricultural research and rural communities. He said that while the nation provides growth opportunities, it is the responsibility of industry to become an active partner in nation-building by investing in agriculture and rural development through CSR. The Minister stressed that CSR investments create tangible impact in areas such as climate-resilient agriculture, soil health, nutrition-secure food systems, agricultural skill development and women farmers&#8217; entrepreneurship. Mr Chouhan described the conclave as a unique platform where corporates, ministers, scientists, government officials and farmers had come together, creating a complete value chain for agriculture. Referring to Mahatma Gandhi&#8217;s philosophy of trusteeship, he said that those who possess wealth are not its owners but its trustees, and that wealth ultimately belongs to society.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:33:32+00:00",
-        "link": "https://newsonair.gov.in/union-agriculture-minister-calls-for-csr-support-to-strengthen-agri-tech/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
         "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
         "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
@@ -348,17 +359,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-16T01:33:58+00:00",
         "link": "https://newsonair.gov.in/eam-dr-s-jaishankar-says-india-eu-partnership-gaining-strong-momentum/",
         "post_id": 1740312,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt approves Semicon 2.0 to strengthen semiconductor ecosystem",
-        "summary": "The Union Cabinet has approved the Semicon 2.0 programme with a budgetary outlay of 1 lakh 27 thousand 500 crore rupees for the development of India&#8217;s semiconductor design and manufacturing ecosystem. Addressing media, Information and Broadcasting Minister Ashwini Vaishnaw said that building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s […]",
-        "article": "The Union Cabinet has approved the Semicon 2.0 programme with a budgetary outlay of 1 lakh 27 thousand 500 crore rupees for the development of India&#8217;s semiconductor design and manufacturing ecosystem. Addressing media, Information and Broadcasting Minister Ashwini Vaishnaw said that building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to putting India on the global semiconductor map. He said that the scheme will support economic growth, strengthen supply chain resilience, and establish technological leadership in critical sectors. The minister said that Semicon 2.0 seeks to holistically build the semiconductor ecosystem through six pillars- Design, Machines and materials, Setting up more fabs, Further strengthening the ATMP-OSAT industry and Research and Development. Mr Vaishnaw said that in Semicon 1.0 programme, the focus was on starting and establishing the industry and Under Semicon 2.0, the chips required for all our strategic needs will be designed in India, and by the end of this semiconductor programme, the country will become self-reliant in chip design. Mr Vaishnaw also stated that, given the growing global interest in India&#8217;s semiconductor programme, every major industry leader wants to establish a presence in the country. He added that India has already forged partnerships with the US, Japan, the EU, the Netherlands, Singapore, and Germany. He informed that under Semicon 2.0, investment worth four lakh crore rupees is expected. The Union Cabinet also approved the Mobile Phone Manufacturing Scheme ((MPMS) with a budgetary outlay of 62 thousand 500 crore rupees. Mr Vaishnaw said that the scheme will be implemented for the next 5 years. He said that the scheme will provide incentive support of 2.25 percent to 5 percent on eligible sales for manufacturing mobile phones in the country. The minister said that an additional incentive of up to 1.5 percent is linked to domestic sourcing of key components and sub-assemblies. He said the scheme is expected to generate cumulative mobile phone production of approximately 39 lakh crore rupees during its tenure, while the cumulative exports are expected to increase from approximately 7.5 lakh crore rupees to 15 lakh crore rupees. Mr Vaishnaw informed that the scheme is also expected to create around 60 thousand direct jobs. The Union Cabinet also approved the National Investment Policy for Urea-2026 for Atmanirbhar Bharat (NIPU-2026). Mr Vaishnaw said that the Policy seeks to encourage new investments in urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency. The new policy includes key changes such as separation of fixed and variable costs for greater transparency and the introduction of a Return on Equity (RoE) band with a floor at 12 percent and a ceiling at 16 percent. The changes are estimated to result in savings of over 250 crore rupees per plant established under NIPU-2026 compared to NIP-2012. The Union Cabinet approved two multitracking projects covering four districts across Odisha and Jharkhand, expanding the Indian Railways network by about 145 kms. The Project includes Paradeep-Haridaspur Doubling in Odisha and Rajkharsawan-Dangoaposi 4th Line in Jharkhand. With total estimated cost of approximately 3 thousand 907 crore rupees, the projects are expected to be completed by 2030-31.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:15:37+00:00",
-        "link": "https://newsonair.gov.in/govt-approves-semicon-2-0-to-strengthen-semiconductor-ecosystem/",
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
@@ -366,6 +366,50 @@ window.VM_NEWS = {
     ],
     "politics": [
       {
+        "title": "President, Vice President and PM extend greetings on sacred occasion of Jagannath Rath Yatra",
+        "summary": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj […]",
+        "article": "President Droupadi Murmu, Vice President C P Radhakrishnan, Prime Minister Narendra Modi and Union Home Minister Amit Shah have extended greetings to people in India and abroad on the sacred occasion of Jagannath Rath Yatra. President Murmu said that it is a popular belief that during the grand procession, Mahaprabhu Shri Jagannath, along with Chakraraj Sudarshan, Lord Balabhadra and Devi Subhadra, comes out to meet devotees. She wished that the blessings of Mahaprabhu Jagannath bring happiness, peace and prosperity to the country and its people. Vice President C P Radhakrishnan said the Rath Yatra reflects the values of faith, devotion, equality and collective harmony, and celebrates India&#8217;s rich civilisational heritage. Prime Minister Narendra Modi described the Rath Yatra as a symbol of India&#8217;s timeless spiritual and cultural traditions. He said the festival embodies humility, collective participation and selfless service, and prayed for the well-being and prosperity of all. Union Home Minister Amit Shah said the world-famous Jagannath Rath Yatra represents faith, trust and devotion, and preserves India&#8217;s rich cultural heritage. He prayed for the happiness and well-being of everyone.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:18:18+00:00",
+        "link": "https://newsonair.gov.in/president-prime-minister-and-home-minister-greet-people-on-sacred-occasion-of-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Centre revises Special Additional Excise Duty on fuel exports",
+        "summary": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has […]",
+        "article": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has been raised to 14.50 rupees per litre. Meanwhile, the export duty on petrol has been reduced to 2.50 rupees per litre. The revised rates, notified by the Finance Ministry, came into effect from today. However, there is no change in the existing excise duty on petrol and diesel meant for domestic consumption. The Special Additional Excise Duty on exports of petrol, diesel and ATF was introduced with effect from 27th March this year to ensure adequate domestic availability of petroleum products by discouraging exports amid the West Asia crisis. The duty rates are reviewed every fortnight, with the previous revision coming into effect on the 1st of this month. The rates are determined based on the average international prices of crude oil, petrol, diesel and ATF prevailing during the period since the last review.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:32+00:00",
+        "link": "https://newsonair.gov.in/centre-revises-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Heavy to very heavy rainfall likely over Arunachal Pradesh, Odisha and Gangetic West Bengal",
+        "summary": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency […]",
+        "article": "The India Meteorological Department (IMD) has issued an orange warning for heavy to very heavy rainfall at isolated places over Arunachal Pradesh, Gangetic West Bengal and Odisha today. The IMD has also forecast heavy rainfall over Assam, Meghalaya, Bihar, Chhattisgarh, Jharkhand, Nagaland, Manipur, Mizoram, Tripura, Sub-Himalayan West Bengal, Sikkim and Uttarakhand today. The weather agency has predicted isolated to scattered rainfall over Punjab, Haryana, Chandigarh, Delhi, East Rajasthan, West Rajasthan and West Uttar Pradesh during the next two to three days. Heatwave conditions are also expected at isolated places over Andhra Pradesh, Tamil Nadu, Puducherry and Karaikal today. In Delhi, the Meteorological Department has forecast hot and humid conditions with a partly cloudy sky during the day.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:43:35+00:00",
+        "link": "https://newsonair.gov.in/heavy-to-very-heavy-rainfall-likely-over-arunachal-pradesh-odisha-and-gangetic-west-bengal/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/weather.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "Prime Minister Narendra Modi to visit Haryana, Chandigarh and Punjab tomorrow",
+        "summary": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in […]",
+        "article": "Prime Minister Narendra Modi will visit Haryana, Chandigarh and Punjab tomorrow. The Prime Minister will flag off India&#8217;s first hydrogen train between Jind and Sonipat at Jind Railway Station in Haryana. He will also lay the foundation stone and dedicate to the nation various development projects worth around 14,700 crore rupees at Eklavya Stadium in Jind. In the afternoon, the Prime Minister will travel to Chandigarh, where he will lay the foundation stone and inaugurate various development projects worth over 6,600 crore rupees in the healthcare, education and road infrastructure sectors. PM Modi will inaugurate the Advanced Mother and Child Centre and the Advanced Neurosciences Centre at the Post Graduate Institute of Medical Education and Research (PGIMER), Chandigarh. The Prime Minister will also visit Jalandhar, where he will lay the foundation stone and inaugurate multiple development projects worth over 5,470 crore rupees aimed at strengthening connectivity, improving passenger convenience and accelerating economic development in the region. PM Modi will inaugurate 75 redeveloped railway stations, including Jalandhar Cantt, under the Amrit Bharat Station Scheme.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:39:56+00:00",
+        "link": "https://newsonair.gov.in/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/20260623392f-e1782227130311.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "Cabinet approves highway projects worth over ₹25,000 crore for Varanasi,Uttar Pradesh",
         "summary": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor […]",
         "article": "The Union Cabinet has approved two elevated highway projects worth over 25,000 crore rupees for Varanasi in Uttar Pradesh. The Cabinet Committee on Economic Affairs (CCEA), chaired by Prime Minister Narendra Modi, approved the projects to improve road connectivity and reduce congestion and travel time in Varanasi. The projects include a six-lane Greenfield Elevated Corridor spanning over 46 kilometres between National Highway-19 and the Varanasi Ring Road in Uttar Pradesh under the Hybrid Annuity Model. The project will be built at a total capital cost of over 14,400 crore rupees. Briefing the media in New Delhi, Information and Broadcasting Minister Ashwini Vaishnaw said the other project involves the development of an around 43-kilometre-long six-lane and four-lane Elevated Corridor along the Varuna River bank in Varanasi at a cost of around 11,000 crore rupees. The Union Cabinet also approved Semicon 2.0 with a budgetary outlay of 1,27,500 crore rupees to strengthen India&#8217;s semiconductor design and manufacturing ecosystem. Mr Vaishnaw said that, building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to placing India on the global semiconductor map. He said investments worth around four lakh crore rupees are expected under Semicon 2.0. The Minister said the Cabinet also approved the Mobile Phone Manufacturing Scheme with a budgetary outlay of 62,500 crore rupees. He said the scheme aims to scale up domestic mobile phone production, deepen local value addition and strengthen India&#8217;s position as a global electronics manufacturing hub. The Cabinet also approved two multitracking railway projects covering four districts in Odisha and Jharkhand, expanding the Indian Railways network by about 145 kilometres. It also approved the National Investment Policy for Urea-2026 under the vision of Atmanirbhar Bharat. The policy seeks to encourage new investments in the urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency.",
@@ -410,39 +454,6 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "UP: JPC concludes consultations on One Nation, One Election after interacting with academia",
-        "summary": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. […]",
-        "article": "The Joint Parliamentary Committee (JPC) examining the framework related to the One Nation, One Election proposal concluded its three-day consultation meeting in Lucknow today. On the final day, the committee held discussions with vice-chancellors and directors of various universities and higher educational institutions in Uttar Pradesh, along with experts in law and political science. It also interacted with Padma awardees, representatives of civil society, and prominent members of the media. The committee said that the suggestions and opinions received during the consultations would be examined in the next stages of its deliberations before finalising its recommendations. Speaking to the media after the meeting, JPC Chairman P. P. Chaudhary said the committee has so far visited 10 states and received several important suggestions from people representing different sectors. He said the committee would place before Parliament only those recommendations that are in the national interest.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:04:00+00:00",
-        "link": "https://newsonair.gov.in/up-jpc-concludes-consultations-on-one-nation-one-election-after-interacting-with-academia/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/JPC.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India and Poland decide to strengthen cooperation in MSME sector",
-        "summary": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the […]",
-        "article": "India and Poland today held bilateral talks in New Delhi to strengthen cooperation in the Micro, Small and Medium Enterprises (MSME) sector. The meeting was attended by a high-level Polish delegation led by the deputy minister of Economic Development and Technology, Michał Baranowski. The Indian side was led by MSME Secretary Bharat Khera. During the meeting, Mr. Khera highlighted the significant contribution of India&#8217;s MSME sector to the country&#8217;s economy. He said India has over 86 million registered MSMEs, which contribute nearly 30 per cent to the GDP. He added that the sector supports the livelihoods of around 330 million people. The secretary also outlined the government&#8217;s initiatives to build globally competitive and future-ready MSMEs through digital transformation, innovation, technology adoption, sustainable manufacturing and improved market access. He briefed the delegation on flagship initiatives, including the Udyam Registration Portal, the Credit Guarantee Scheme for Micro and Small Enterprises, Technology Centres and the Zero Defect Zero Effect (ZED) programme. Mr. Khera said Poland is India&#8217;s largest trading and investment partner in Central and Eastern Europe and expressed confidence that the recently concluded India-EU FTA would further boost bilateral trade and investment. Deputy Minister Michał Baranowski appreciated India&#8217;s progress in strengthening its MSME ecosystem. He reaffirmed Poland&#8217;s commitment to expanding institutional cooperation and promoting greater business-to-business engagement between enterprises of both countries. The two sides also discussed strengthening collaboration in enterprise development, technology, innovation, digital transformation, market linkages and institutional partnerships.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:56:22+00:00",
-        "link": "https://newsonair.gov.in/india-and-poland-decide-to-strengthen-cooperation-in-msme-sector/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Poland.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "Union Agriculture Minister calls for CSR support to strengthen Agri-tech",
-        "summary": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to […",
-        "article": "Union Minister of Agriculture and Farmers Welfare Shivraj Singh Chouhan today called for Corporate Social Responsibility Support (CSR) to strengthen agriculture through startups, skill development, Skill Development and Agri-Tech. The Minister said this while addressing the ICAR Technology Portfolio for Corporate Social Responsibility Conclave 2026 in New Delhi. He urged the corporate sector to embrace the Indian ethos of trusteeship and dedicate a part of its earnings towards the welfare of farmers, agricultural research and rural communities. He said that while the nation provides growth opportunities, it is the responsibility of industry to become an active partner in nation-building by investing in agriculture and rural development through CSR. The Minister stressed that CSR investments create tangible impact in areas such as climate-resilient agriculture, soil health, nutrition-secure food systems, agricultural skill development and women farmers&#8217; entrepreneurship. Mr Chouhan described the conclave as a unique platform where corporates, ministers, scientists, government officials and farmers had come together, creating a complete value chain for agriculture. Referring to Mahatma Gandhi&#8217;s philosophy of trusteeship, he said that those who possess wealth are not its owners but its trustees, and that wealth ultimately belongs to society.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T14:33:32+00:00",
-        "link": "https://newsonair.gov.in/union-agriculture-minister-calls-for-csr-support-to-strengthen-agri-tech/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
         "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
         "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
         "article": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relations through a more structured and comprehensive partnership. The inaugural session of the Strategic Dialogue was co-chaired by External Affairs Minister Dr S. Jaishankar and Belgium&#8217;s Deputy Prime Minister and Minister of Foreign Affairs, European Affairs and Development Cooperation, Maxime Prévot. Dr Jaishankar said Belgium occupies a special place in India&#8217;s engagement with Europe. He said that as the bilateral partnership grows in depth and the India-EU relationship acquires greater strategic importance, the Strategic Dialogue will help build on complementarities and deliver tangible outcomes for both countries. Mr Prévot said the Belgian Economic Mission of March last year demonstrated the strength and dynamism of the economic ties between the two countries. He said trade, investment and innovation continue to bring India and Belgium closer together and provide a strong foundation for future cooperation. The Strategic Dialogue will be supported by regular high-level engagements between the two governments to ensure sustained political momentum. Both sides noted that the upcoming high-level visits later this year will provide an important opportunity to advance key initiatives and translate shared ambitions into tangible outcomes for the people of both countries. The launch of the Strategic Dialogue was complemented by the India-EU Business Forum, held the same day at the Federation of Belgian Enterprises (FEB), with the participation of Indian and Belgian businesses, along with businesses from other European countries. The Forum was attended by Dr S. Jaishankar, Commerce and Industry Minister Piyush Goyal and Minister of State for Commerce and Industry Jitin Prasada. The Belgian side was represented by Minister-President of the Government of Flanders, Matthias Diependaele, and Minister-President of Wallonia, Adrien Dolimont. The Forum brought together public and private stakeholders from India, Belgium and the European Union to discuss ways of translating the growing political momentum into concrete economic and trade opportunities, particularly in view of the conclusion of negotiations on the India-EU Free Trade Agreement.",
@@ -465,20 +476,31 @@ window.VM_NEWS = {
         "image_url": "",
         "image_credit": "",
         "source": "Prasar Bharati"
-      },
-      {
-        "title": "Govt approves Semicon 2.0 to strengthen semiconductor ecosystem",
-        "summary": "The Union Cabinet has approved the Semicon 2.0 programme with a budgetary outlay of 1 lakh 27 thousand 500 crore rupees for the development of India&#8217;s semiconductor design and manufacturing ecosystem. Addressing media, Information and Broadcasting Minister Ashwini Vaishnaw said that building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s […]",
-        "article": "The Union Cabinet has approved the Semicon 2.0 programme with a budgetary outlay of 1 lakh 27 thousand 500 crore rupees for the development of India&#8217;s semiconductor design and manufacturing ecosystem. Addressing media, Information and Broadcasting Minister Ashwini Vaishnaw said that building on the momentum of Semicon 1.0, the scheme aims to further the government&#8217;s commitment to putting India on the global semiconductor map. He said that the scheme will support economic growth, strengthen supply chain resilience, and establish technological leadership in critical sectors. The minister said that Semicon 2.0 seeks to holistically build the semiconductor ecosystem through six pillars- Design, Machines and materials, Setting up more fabs, Further strengthening the ATMP-OSAT industry and Research and Development. Mr Vaishnaw said that in Semicon 1.0 programme, the focus was on starting and establishing the industry and Under Semicon 2.0, the chips required for all our strategic needs will be designed in India, and by the end of this semiconductor programme, the country will become self-reliant in chip design. Mr Vaishnaw also stated that, given the growing global interest in India&#8217;s semiconductor programme, every major industry leader wants to establish a presence in the country. He added that India has already forged partnerships with the US, Japan, the EU, the Netherlands, Singapore, and Germany. He informed that under Semicon 2.0, investment worth four lakh crore rupees is expected. The Union Cabinet also approved the Mobile Phone Manufacturing Scheme ((MPMS) with a budgetary outlay of 62 thousand 500 crore rupees. Mr Vaishnaw said that the scheme will be implemented for the next 5 years. He said that the scheme will provide incentive support of 2.25 percent to 5 percent on eligible sales for manufacturing mobile phones in the country. The minister said that an additional incentive of up to 1.5 percent is linked to domestic sourcing of key components and sub-assemblies. He said the scheme is expected to generate cumulative mobile phone production of approximately 39 lakh crore rupees during its tenure, while the cumulative exports are expected to increase from approximately 7.5 lakh crore rupees to 15 lakh crore rupees. Mr Vaishnaw informed that the scheme is also expected to create around 60 thousand direct jobs. The Union Cabinet also approved the National Investment Policy for Urea-2026 for Atmanirbhar Bharat (NIPU-2026). Mr Vaishnaw said that the Policy seeks to encourage new investments in urea sector for setting up gas-based urea manufacturing units in the country, helping achieve the goal of self-sufficiency. The new policy includes key changes such as separation of fixed and variable costs for greater transparency and the introduction of a Return on Equity (RoE) band with a floor at 12 percent and a ceiling at 16 percent. The changes are estimated to result in savings of over 250 crore rupees per plant established under NIPU-2026 compared to NIP-2012. The Union Cabinet approved two multitracking projects covering four districts across Odisha and Jharkhand, expanding the Indian Railways network by about 145 kms. The Project includes Paradeep-Haridaspur Doubling in Odisha and Rajkharsawan-Dangoaposi 4th Line in Jharkhand. With total estimated cost of approximately 3 thousand 907 crore rupees, the projects are expected to be completed by 2030-31.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T15:15:37+00:00",
-        "link": "https://newsonair.gov.in/govt-approves-semicon-2-0-to-strengthen-semiconductor-ecosystem/",
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "Zelenskiy endorses Sergii Koretskyi as Ukraine’s new Prime Minister",
+        "summary": "Ukrainian President Volodymyr Zelenskiy has endorsed the head of the state energy company Naftogaz, Sergii Koretskyi, as Ukraine&#8217;s new Prime Minister. President Zelenskiy pushed out Prime Minister Yulia Svyrydenko this week after she spent just a year in office. Parliament accepted her resignation on Tuesday and is expected to vote on her successor today. Zelenskiy […]",
+        "article": "Ukrainian President Volodymyr Zelenskiy has endorsed the head of the state energy company Naftogaz, Sergii Koretskyi, as Ukraine&#8217;s new Prime Minister. President Zelenskiy pushed out Prime Minister Yulia Svyrydenko this week after she spent just a year in office. Parliament accepted her resignation on Tuesday and is expected to vote on her successor today. Zelenskiy has given little explanation for the move so far, apart from saying that the aim is to refresh the leadership. Speaking to reporters in Kyiv, Zelenskiy said Sergii Koretskyi is the best candidate for Prime Minister, as Ukraine&#8217;s priority is preparing for the upcoming winter.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:20:51+00:00",
+        "link": "https://newsonair.gov.in/zelenskiy-endorses-sergii-koretskyi-as-ukraines-new-prime-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/13-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "US says it launched new wave of strikes on Iran aimed at protecting vessels in Strait of Hormuz",
+        "summary": "The United States has said it has launched a new wave of strikes on Iran aimed at protecting vessels in the Strait of Hormuz. The US military said it carried out a second wave of strikes on Iran yesterday aimed at degrading Tehran&#8217;s ability to target vessels in the Strait of Hormuz. President Donald Trump […]",
+        "article": "The United States has said it has launched a new wave of strikes on Iran aimed at protecting vessels in the Strait of Hormuz. The US military said it carried out a second wave of strikes on Iran yesterday aimed at degrading Tehran&#8217;s ability to target vessels in the Strait of Hormuz. President Donald Trump is also weighing options to expand the US military operation to loosen Tehran&#8217;s grip on the critical waterway. Air defences were activated in Tehran early this morning, and residents were awakened by a loud explosion. The development came after Iran claimed it had struck US military targets in the region, including in Bahrain and Kuwait. The US military said it had disabled an empty oil tanker sailing towards Kharg Island, an economic lifeline for Iran. It marked the first vessel to be disabled since the US naval blockade went back into effect. An Iranian Foreign Ministry spokesperson said Tehran has no plans for negotiations with the United States. President Donald Trump said on social media that Iran had released an American woman detained since December 2024 and praised Tehran&#8217;s gesture of goodwill.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:57:12+00:00",
+        "link": "https://newsonair.gov.in/us-says-it-launched-new-wave-of-strikes-on-iran-aimed-at-protecting-vessels-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Akashvani-5.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "India and Belgium launch Strategic Dialogue to deepen bilateral ties",
         "summary": "India and Belgium have agreed to deepen cooperation in areas including trade and investment, green energy transition, innovation and technology, connectivity, defence, security, regional and global issues, as well as people-to-people exchanges. The first meeting of the India-Belgium Strategic Dialogue was held in Brussels yesterday, marking a significant step towards strengthening bilateral relati",
@@ -564,28 +586,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T08:35:25+00:00",
         "link": "https://newsonair.gov.in/madhya-pradeshs-first-international-flight-service-to-begin-from-indore-today/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2024/12/plane-data-BUSYROUTES1217-f4f84b08d47f4951b11c148cee2c3dea.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "India says confidence in UN declining over lack of Security Council reforms",
-        "summary": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene […]",
-        "article": "India has warned that people&#8217;s confidence in the United Nations is declining due to the failure to reform the UN Security Council and effectively address global conflicts. Speaking at a ministerial roundtable on &#8220;Making Multilateralism Fit for the Future&#8221; at the UN, India&#8217;s Permanent Representative P. Harish said the Security Council has failed to intervene meaningfully in ongoing conflicts, raising questions about its ability to uphold international peace and security. He said the 80-year-old UN architecture is no longer adequate to meet present-day global challenges. Mr. Harish noted that negotiations on Security Council reforms have remained stuck in an endless cycle of statements without tangible progress. He said the Action Points under the Pact for the Future, including ending violence, racism and xenophobia, promoting gender equality, and strengthening peacekeeping, have largely remained on paper. Calling the situation untenable, he stressed that meaningful reforms are urgently needed. Harish said India had significant reservations on some of the Pact&#8217;s action points. However, he added that India supported the Pact in a constructive spirit. He also called for revitalising the UN General Assembly and strengthening the role of the Economic and Social Council in advancing sustainable development. In the Global South, Harish reaffirmed India&#8217;s commitment to mobilising resources and ensuring that no country is left behind. He also urged international financial institutions to become more representative, responsive and development-oriented, while preserving their core mandates. He said adequate, affordable and predictable financing remains essential for achieving the Sustainable Development Goals.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:20:11+00:00",
-        "link": "https://newsonair.gov.in/india-says-confidence-in-un-declining-over-lack-of-security-council-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/UN-P-Harish.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "First export consignments under India-UK CETA flagged off in Ahmedabad",
-        "summary": "India and the United Kingdom have officially commenced the implementation of their landmark Comprehensive Economic and Trade Agreement-CETA. To mark the beginning of this new economic era between the two nations, British Deputy High Commissioner Steve Hickling and the Joint Director of the Directorate General of Foreign Trade, Dr. Rahul Singh today flagged off […]",
-        "article": "India and the United Kingdom have officially commenced the implementation of their landmark Comprehensive Economic and Trade Agreement-CETA. To mark the beginning of this new economic era between the two nations, British Deputy High Commissioner Steve Hickling and the Joint Director of the Directorate General of Foreign Trade, Dr. Rahul Singh today flagged off the first export consignments under the agreement at the Inland Container Depot-ICD in Sanand, Ahmedabad. Valued at over 3.07 crore rupees, this maiden shipment showcases Ahmedabad&#8217;s manufacturing excellence, encompassing industrial equipment, pharmaceuticals, automobiles, polymers, and textiles from seven key regional exporters. Speaking on the occasion, the British Deputy High Commissioner emphasised that the Trade Agreement goes far beyond immediate commercial exchanges, signalling the start of a much stronger and broader economic and political relationship between the two nations. Mr Hickling highlighted that the agreement is projected to increase the annual trade volume, which currently stands at 48 billion pounds, and boost the GDP of both countries by at least 5 billion pounds every year. Joint Director of the DGFT, Dr. Rahul Singh, informed that Key sectors such as textiles, leather, pharmaceuticals, and engineering products will enjoy complete duty-free access, which is expected to heavily drive export growth from major manufacturing hubs, particularly Gujarat.",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:13:56+00:00",
-        "link": "https://newsonair.gov.in/first-export-consignments-under-india-uk-ceta-flagged-off-in-ahmedabad/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -803,14 +803,15 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "Direct Tax collection increased by 16.11% for FY 2026-27",
-        "summary": "The Income Tax Department has collected over 7,73,000 crore as direct tax for the financial year 2026-27 so far. It is 16.11 percent higher growth as compared to financial year 2025-2026 during the same period. The collection includes corporate tax of over three lakh 35 thousand crore rupees and a non-corporate tax of four […]",
-        "article": "The Income Tax Department has collected over 7,73,000 crore as direct tax for the financial year 2026-27 so far. It is 16.11 percent higher growth as compared to financial year 2025-2026 during the same period. The collection includes corporate tax of over three lakh 35 thousand crore rupees and a non-corporate tax of four lakh 11 thousand crore rupees. The department has also issued refunds of over 1,22,000 crore rupees. The net direct tax collection has recorded a significant growth of over 16 per cent amounting to more than 6,51,000 crore rupees.",
-        "date": "2026-07-14",
-        "pubDate": "2026-07-14T13:20:43+00:00",
-        "link": "https://newsonair.gov.in/direct-tax-collection-increased-by-16-11-for-fy-2026-27/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IT.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "Centre revises Special Additional Excise Duty on fuel exports",
+        "summary": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has […]",
+        "article": "The Central Government has revised the Special Additional Excise Duty on exports of petrol, diesel and Aviation Turbine Fuel (ATF) as part of its latest fortnightly review of fuel export taxes. Under the revised rates, the export duty on diesel has been increased to 15.50 rupees per litre, while the duty on ATF exports has been raised to 14.50 rupees per litre. Meanwhile, the export duty on petrol has been reduced to 2.50 rupees per litre. The revised rates, notified by the Finance Ministry, came into effect from today. However, there is no change in the existing excise duty on petrol and diesel meant for domestic consumption. The Special Additional Excise Duty on exports of petrol, diesel and ATF was introduced with effect from 27th March this year to ensure adequate domestic availability of petroleum products by discouraging exports amid the West Asia crisis. The duty rates are reviewed every fortnight, with the previous revision coming into effect on the 1st of this month. The rates are determined based on the average international prices of crude oil, petrol, diesel and ATF prevailing during the period since the last review.",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:32+00:00",
+        "link": "https://newsonair.gov.in/centre-revises-special-additional-excise-duty-on-fuel-exports/",
+        "post_id": 1740572,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
@@ -1031,6 +1032,105 @@ window.VM_NEWS = {
   "hi": {
     "top": [
       {
+        "title": "राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने भगवान जगन्नाथ रथ यात्रा के अवसर पर शुभकामनाएं दीं",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ भक्तों से मिलते हैं। उन्होंने कहा कि भक्तों और भगवान के मिलन का यह भावपूर्ण अवसर अद्वितीय होता है। राष्ट्रपति ने कामना की कि महाप्रभु श्रीजगन्नाथ की कृपा से देश और देशवासियों की सुख-समृद्धि में निरंतर वृद्धि होती रहे। उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा है कि पवित्र रथ यात्रा आस्था, भक्ति, समानता और आपसी सद्भाव के मूल्यों को दर्शाती है और सभी मतभेदों से ऊपर उठकर लोगों को एक साथ लाती है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह हमारी समृद्ध सांस्कृतिक विरासत और स्थायी आध्यात्मिक परंपराओं का एक जीवंत उत्सव है। प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में, श्री मोदी ने रथ यात्रा को भारत की सदियों पुरानी आध्यात्मिक और सांस्कृतिक विरासत की एक शानदार अभिव्यक्ति बताया। उन्होंने कहा कि रथ यात्रा से जुड़ी परंपराओं ने भारत और दुनिया भर में कई पीढ़ियों को प्रेरित किया है और ये परंपराएँ विनम्रता, सामूहिक भागीदारी और निस्वार्थ सेवा का प्रतीक हैं। प्रधानमंत्री ने प्रार्थना की कि महाप्रभु जगन्नाथ सभी को उत्तम स्वास्थ्य, सुख और समृद्धि का आशीर्वाद दें।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:58:02+00:00",
+        "link": "https://newsonair.gov.in/hi/the-president-vice-president-and-prime-minister-extended-their-greetings-on-the-occasion-of-the-lord-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने ईंधन निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया",
+        "summary": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 […]",
+        "article": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 रुपये प्रति लीटर कर दिया गया है। वहीं, पेट्रोल के निर्यात पर कर घटाकर दो रुपये 50 पैसे प्रति लीटर किया गया है। बदली हुई दरें आज से लागू हो गई हैं। हालांकि, घरेलू खपत के लिए इस्तेमाल होने वाले पेट्रोल और डीजल पर मौजूदा निर्यात शुल्&#x200d;क में कोई बदलाव नहीं किया गया है। पेट्रोल, डीजल और एटीएफ के निर्यात पर विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क इस साल 27 मार्च से लागू किया गया था। इसका उद्देश्&#x200d;य पश्चिम एशिया संकट के दौरान निर्यात को कम करके पेट्रोलियम उत्पादों की घरेलू उपलब्धता सुनिश्चित करना था। दरों की समीक्षा हर दो हफ़्ते में की जाती है। ये दरें पिछली समीक्षा के बाद की अवधि में कच्चे तेल, पेट्रोल, डीजल और एटीएफ की औसत अंतरराष्ट्रीय कीमतों के आधार पर तय की जाती हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:24:56+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-revised-the-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी कल करेंगे हरियाणा, चंडीगढ़ और पंजाब का दौरा",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र को समर्पित करेंगे। प्रधानमंत्री चंडीगढ़ में दोपहर में स्वास्थ्य सेवा, शिक्षा और सड़क के बुनियादी ढांचे से जुड़ी 6,600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी चंडीगढ़ के पोस्ट ग्रेजुएट इंस्टीट्यूट ऑफ मेडिकल एजुकेशन एंड रिसर्च में एडवांस्ड मदर एंड चाइल्ड सेंटर और एडवांस्ड न्यूरोसाइंसेस सेंटर का उद्घाटन करेंगे। प्रधानमंत्री जालंधर भी जाएंगे, जहां वे संपर्क तथा यात्रियों की सुविधा बढ़ाने और क्षेत्र में आर्थिक विकास को गति देने के उद्देश्य से 5,470 करोड़ रुपये से अधिक की कई विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी &#8216;अमृत भारत स्टेशन योजना&#8217; के तहत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का उद्घाटन करेंगे।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:20:36+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मौसम विभाग ने देश के विभिन्न हिस्सों में वर्षा का अनुमान व्यक्त किया",
+        "summary": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्‍यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 […]",
+        "article": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्&#x200d;यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 से 3 दिन में पंजाब, हरियाणा, चंडीगढ़, दिल्ली, पूर्वी और पश्चिमी राजस्थान तथा पश्चिमी उत्तर प्रदेश में मध्यम बारिश की संभावना व्&#x200d;यक्&#x200d;त की है। आंध्र प्रदेश, तमिलनाडु, पुद्दुचेरी और कराईक्&#x200d;काल में आज लू चलने का अनुमान है। &nbsp; दिल्ली में दिन के दौरान आंशिक रूप से बादल छाए रहने के साथ गर्म और उमस भरा मौसम रहने का अनुमान है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:08:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-rainfall-in-various-parts-of-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704207F-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूक्रेन: राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने सेरगी कोरेत्स्की को प्रधानमंत्री बनाने का समर्थन किया",
+        "summary": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने सरकारी ऊर्जा कंपनी &#8216;नाफ़्टोगैस&#8217; के प्रमुख सेरगी कोरेत्स्की को यूक्रेन का नया प्रधानमंत्री बनाने का समर्थन किया है। ज़ेलेंस्की ने इस सप्‍ताह प्रधानमंत्री यूलिया स्विरीदेंको को उनके पद से हटा दिया। उनका इस पद पर कार्यकाल सिर्फ़ एक वर्ष रहा। संसद ने मंगलवार को उनका इस्तीफ़ा मंज़ूर कर लिया। […]",
+        "article": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने सरकारी ऊर्जा कंपनी &#8216;नाफ़्टोगैस&#8217; के प्रमुख सेरगी कोरेत्स्की को यूक्रेन का नया प्रधानमंत्री बनाने का समर्थन किया है। ज़ेलेंस्की ने इस सप्&#x200d;ताह प्रधानमंत्री यूलिया स्विरीदेंको को उनके पद से हटा दिया। उनका इस पद पर कार्यकाल सिर्फ़ एक वर्ष रहा। संसद ने मंगलवार को उनका इस्तीफ़ा मंज़ूर कर लिया। उम्मीद है कि आज नए प्रधानमंत्री के लिए वोट डाले जाएंगे। कीव में संवाददाताओं से ज़ेलेंस्की ने कहा कि सेरगी कोरेत्स्की प्रधानमंत्री पद के लिए सबसे उपयुक्&#x200d;त उम्मीदवार हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:04:54+00:00",
+        "link": "https://newsonair.gov.in/hi/ukraine-president-volodymyr-zelenskyy-backed-sergiy-koretskyi-to-become-prime-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/ukraine-president-volodymyr-zenesky-speaks-at-press-conference-march-15-2025.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्रिमंडल ने वाराणसी के लिए ₹25,000 करोड़ से अधिक की दो एलिवेटेड सड़क परियोजनाओं को मंज़ूरी दी",
+        "summary": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन […]",
+        "article": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन परियोजनाओं को मंज़ूरी दी। इन परियोजनाओं में उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच हाइब्रिड एन्युइटी मॉडल पर 46 किलोमीटर से ज़्यादा लंबा 6-लेन का ग्रीनफील्ड एलिवेटेड कॉरिडोर बनाना शामिल है। इसे कुल 14 हज़ार 400 करोड़ रुपये से ज़्यादा की लागत से बनाया जाएगा। सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने नई दिल्ली में बताया कि दूसरी परियोजना वाराणसी शहर में वरुण नदी के किनारे लगभग 43 किलोमीटर लंबे, 6-लेन और 4-लेन के एलिवेटेड कॉरिडोर के विकास से जुड़ा है, जिसकी लागत लगभग 11 हज़ार करोड़ रुपये होगी। केंद्रीय मंत्रिमंडल ने देश में सेमीकंडक्टर डिज़ाइन और निर्माण को बढ़ावा देने के लिए 1 लाख 27 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ &#8216;सेमीकॉन 2.0&#8217; को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद भारत को ग्लोबल सेमीकंडक्टर मैप पर लाने की सरकार की प्रतिबद्धता को और बढ़ावा देना है। उन्होंने बताया कि &#8216;सेमीकॉन 2.0&#8217; के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। श्री वैष्णव ने कहा कि कैबिनेट ने 62 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ मोबाइल फ़ोन उत्&#x200d;पादन योजना को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद घरेलू मोबाइल फ़ोन उत्पादन को बढ़ाना, स्&#x200d;थानीय मूल्&#x200d;य संर्वधन और वैश्विक इलेक्ट्रॉनिक्स उत्&#x200d;पादन केन्&#x200d;द्र के तौर पर देश की स्थिति को मज़बूत करना है। मंत्रिमंडल ने ओडिशा और झारखंड के चार ज़िलों में दो मल्टी-ट्रैकिंग परियोजनाओं को भी मंज़ूरी दी, जिससे देश में रेल नेटवर्क लगभग 145 किलोमीटर बढ़ जाएगा। मंत्रिमंडल ने &#8216;आत्मनिर्भर भारत&#8217; के लिए यूरिया-2026 की राष्ट्रीय निवेश नीति को भी मंज़ूरी दी। इस नीति का उद्देश्&#x200d;य देश में गैस-आधारित यूरिया बनाने वाली इकाइयाँ लगाने के लिए यूरिया क्षेत्र में नए निवेश को बढ़ावा देना है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:56:16+00:00",
+        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-two-elevated-road-projects-worth-over-%e2%82%b925000-crore-for-varanasi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेल मंत्रालय ने टिकट बुकिंग में आसानी के लिए आईआरसीटीसी की नई वेबसाइट शुरू की",
+        "summary": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री […]",
+        "article": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री सभी क्लास में सीट की उपलब्धता देख सकते हैं। तीसरा, इसमें टिकट बुक करने के लिए ज़रूरी स्टेप्स की संख्या कम है और वेबसाइट अब यात्रियों की जानकारी सेव कर लेगी, जिससे दोबारा बुकिंग करना आसान हो जाएगा। मौजूदा वेबसाइट के होमपेज पर भी इस नए बीटा वर्जन का लिंक उपलब्&#x200d;ध है। मंत्रालय ने उपयोगकर्ताओं से इसके आसान फ़ीचर्स पर फ़ीडबैक देने का अनुरोध किया है। आईआरसीटीसी वेबसाइट पहली बार 2002 में शुरू की गई थी और अभी यह हर दिन औसतन लगभग 14.5 लाख टिकट बुकिंग संभालती है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:46:59+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-railways-launched-a-new-irctc-website-to-make-ticket-booking-easier/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-15.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ओडिशा के पुरी में भगवान जगन्नाथ की विश्व प्रसिद्ध रथ यात्रा आज से शुरू",
+        "summary": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्‍व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। […]",
+        "article": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्&#x200d;व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। लगभग 3 किलोमीटर की इस यात्रा का समापन श्री गुंडिचा मंदिर में होगा। भगवान जगन्&#x200d;नाथ, भगवान बलभद्र और देवी सुभद्रा नौ दिनों तक गुंडिचा मंदिर में ठहरते हैं। यात्रा पूरी करने के बाद उन्हीं रथों पर श्री मंदिर लौटते हैं, जिसे &#8216;बहुदा यात्रा&#8217; या वापसी रथ यात्रा कहा जाता है। इस रथ यात्रा में बड़ी संख्या में भक्&#x200d;त शामिल होते हैं। यात्रा के सुचारू संचालन को सुनिश्चित करने के लिए बहुस्तरीय सुरक्षा व्यवस्था की गई है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:38:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-famous-rath-yatra-of-lord-jagannath-in-puri-odisha-begins-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका ने होर्मुज़ जलडमरूमध्य में जहाज़ों की सुरक्षित आवाजाही के लिए ईरान पर फिर हमले किए",
+        "summary": "अमरीका ने दावा किया है कि उसने होर्मुज़ जलडमरूमध्य में जहाजों की सुरक्षित आवाजाही के लिए ईरान पर हमलों का एक नया दौर शुरू किया है। अमरीकी सेना ने कहा कि उसने कल ईरान पर दूसरा बड़ा हमला किया, जिसका मकसद होर्मुज़ जलडमरूमध्य में जहाजों को निशाना बनाने की ईरान की क्षमता को खत्‍म करना […]",
+        "article": "अमरीका ने दावा किया है कि उसने होर्मुज़ जलडमरूमध्य में जहाजों की सुरक्षित आवाजाही के लिए ईरान पर हमलों का एक नया दौर शुरू किया है। अमरीकी सेना ने कहा कि उसने कल ईरान पर दूसरा बड़ा हमला किया, जिसका मकसद होर्मुज़ जलडमरूमध्य में जहाजों को निशाना बनाने की ईरान की क्षमता को खत्&#x200d;म करना था। राष्ट्रपति डॉनल्&#x200d;ड ट्रंप इस महत्&#x200d;वपूर्ण जलमार्ग पर ईरान की पकड़ को कमजोर करने के लिए अमरीकी सैन्य अभियान को बढ़ाने के विकल्पों पर भी विचार कर रहे हैं। आज सुबह एक जोरदार धमाके के बाद तेहरान में एयर डिफेंस सिस्टम एक्टिवेट कर दिए गए। ईरान ने दावा किया कि उसने बहरीन और कुवैत समेत इस इलाके में अमरीकी सैन्य ठिकानों पर हमले किए हैं। अमरीकी सेना ने कहा कि उसने ईरान के लिए आर्थिक रूप से बेहद अहम खार्ग द्वीप की ओर जा रहे एक खाली तेल टैंकर को रोक दिया है। अमरीका द्वारा नौसैनिक नाकेबंदी फिर से लागू किए जाने के बाद यह पहला जहाज है जिसे रोका गया है। ईरानी विदेश मंत्रालय के प्रवक्ता ने कहा कि उनकी अमरीका के साथ बातचीत करने की कोई योजना नहीं है। राष्ट्रपति ने सोशल मीडिया पोस्&#x200d;ट में कहा कि ईरान ने दिसंबर 2024 से हिरासत में रखी गई एक अमरीकी महिला को रिहा कर दिया है और उन्होंने तेहरान के इस सद्भावनापूर्ण कदम की प्रशंसा की।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:35:04+00:00",
+        "link": "https://newsonair.gov.in/hi/us-says-it-launched-new-wave-of-strikes-on-iran-aimed-at-protecting-vessels-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/hormuz-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
         "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
         "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
@@ -1038,105 +1138,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-16T02:28:57+00:00",
         "link": "https://newsonair.gov.in/hi/home-minister-amit-shah-extended-his-best-wishes-to-the-people-of-the-country-on-the-occasion-of-the-jagannath-rath-yatra/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-16-075831.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
-        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
-        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
-        "date": "2026-07-16",
-        "pubDate": "2026-07-16T01:00:55+00:00",
-        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:59:07+00:00",
-        "link": "https://newsonair.gov.in/hi/exercising-the-right-to-vote-reaffirms-peoples-faith-in-democracy-vice-president/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-Vice-President-Of-India.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने बीआरसीपी के तीसरे चरण का शुभारंभ किया",
-        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ […]",
-        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ रुपये और वेलकम ट्रस्ट के 500 करोड़ रुपये शामिल हैं। डॉ. सिंह ने कहा कि बीआरसीपी का तीसरा चरण वैश्विक स्तर पर प्रतिस्पर्धी जैव चिकित्सा अनुसंधान कार्यबल विकसित करने के लिए फेलोशिप और अनुसंधान अनुदान के लिए निरंतर सहायता प्रदान करेगा। उन्होंने बताया कि देश की जैव-अर्थव्यवस्था 2014 में 10 अरब डॉलर से बढ़कर 2025 में 195 अरब डॉलर से अधिक हो गई है। 2030 तक इसके 300 अरब डॉलर तक पहुंचने की उम्मीद है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:53:27+00:00",
-        "link": "https://newsonair.gov.in/hi/science-and-technology-minister-jitendra-singh-launched-the-third-phase-of-brcp/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNRSkoebAAAc722.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में एसआईआर की समय सीमा बढ़ायी",
-        "summary": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता […]",
-        "article": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता सूची 19 अक्टूबर को प्रकाशित की जाएगी। तेलंगाना में, मसौदा मतदाता सूची 10 अगस्त को, जबकि अंतिम मतदाता सूची 12 अक्टूबर को प्रकाशित की जाएगी। राज्य में बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 3 अगस्त तक चलेगा। कर्नाटक में, बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 29 जुलाई के बजाय 8 अगस्त तक चलेगा। राज्य में मसौदा मतदाता सूची 17 अगस्त को प्रकाशित की जाएगी, जबकि अंतिम मतदाता सूची का प्रकाशन 19 अक्टूबर को होगा। आयोग ने कल हरियाणा और आंध्र प्रदेश के लिए एसआईआर की समय सीमा बढ़ाई थी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:51:36+00:00",
-        "link": "https://newsonair.gov.in/hi/the-election-commission-extended-the-sir-deadline-for-punjab-karnataka-telangana-and-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/SIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत ने ब्रिटेन को किया 14 करोड़ डॉलर का निर्यात",
-        "summary": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्‍ट्र बनाने के विजन के […]",
-        "article": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्&#x200d;ट्र बनाने के विजन के अनुरूप है। उन्होंने कहा कि यह सबसे महत्वाकांक्षी और बड़े व्यापार समझौतों में से एक है। इससे दोनों पक्षों के लिए बाजार पहुंच के नए अवसर उपलब्&#x200d;ध होंगे। श्री अग्रवाल ने कहा कि इससे न केवल देश के व्यापार को बढ़ावा मिलेगा, बल्कि आने वाले दिनों में सेवाओं को भी गति मिलेगी। भारत में ब्रिटेन की उच्चायुक्त लिंडी कैमरून ने आकाशवाणी समाचार से विशेष बातचीत में कहा कि यह समझौता दोनों पक्षों के लिए बहुत फायदेमंद है। परिधान निर्यात संवर्धन परिषद के अध्यक्ष ए. शक्तिवेल ने आकाशवाणी समाचार को बताया कि इस समझौते के कारण डेढ़ साल में निर्यात दोगुना हो जाएगा। कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण के अधिकारी तरुण बजाज ने बताया कि यह समझौता कृषि और प्रसंस्करण क्षेत्र के लिए लाभकारी होगा। रत्न और आभूषण निर्यात संवर्धन परिषद के कार्यकारी निदेशक सब्यसाची राय ने कहा कि इस समझौते से रत्न और आभूषण क्षेत्र को बहुत लाभ होगा। भारतीय कृषि और खाद्य परिषद के कार्यकारी निदेशक संजय सेठी ने बताया कि यह समझौता कृषि क्षेत्र को बढ़ावा देगा। भारतीय वस्त्र उद्योग परिसंघ की महासचिव चंद्रिमा चटर्जी ने आकाशवाणी समाचार से बातचीत में कहा कि समझौते से वस्त्र क्षेत्र को बहुत आशाएं हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:48:23+00:00",
-        "link": "https://newsonair.gov.in/hi/on-the-first-day-of-the-india-uk-comprehensive-economic-and-trade-agreement-coming-into-effect-india-exported-goods-worth-140-million-to-the-uk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘एक देश, एक चुनाव’ के प्रस्ताव पर जेपीसी की लखनऊ में परामर्श बैठक पूरी",
-        "summary": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्‍न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों […]",
-        "article": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्&#x200d;न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों के साथ चर्चा की। समिति ने पद्म पुरस्कार से सम्मानित नागरिक समाज के प्रतिनिधियों और मीडिया के प्रमुख सदस्यों से भी बातचीत की। समिति ने कहा कि बातचीत के दौरान मिले सुझावों और विचारों पर अनुशंसाओं को अंतिम रूप देने से पहले और चर्चाओं पर विचार किया जाएगा। बैठक के बाद संवाददाताओं से बातचीत में जेपीसी के अध्यक्ष पी. पी. चौधरी ने कहा कि समिति अब तक 10 राज्यों का दौरा कर चुकी है। समिति को विभिन्&#x200d;न क्षेत्रों के लोगों से कई महत्वपूर्ण सुझाव प्राप्त हुए हैं। उन्होंने कहा कि समिति केवल राष्ट्रीय हित वाली अनुशंसाएं ही संसद में रखेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:32:00+00:00",
-        "link": "https://newsonair.gov.in/hi/jpc-concludes-consultation-meeting-on-one-nation-one-election-proposal-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने कृषि को मजबूत करने के लिए सीएसआर के समर्थन का आह्वान किया",
-        "summary": "कृषि और किसान कल्‍याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक […]",
-        "article": "कृषि और किसान कल्&#x200d;याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक हिस्सा किसानों, कृषि अनुसंधान और ग्रामीण समुदायों के कल्याण के लिए समर्पित करने का आग्रह किया। उन्होंने कहा कि उद्योग जगत की यह जिम्मेदारी है कि वह सीएसआर के माध्यम से कृषि और ग्रामीण विकास में निवेश करके राष्ट्र निर्माण में भागीदार बने। कृषि मंत्री ने कहा कि सीएसआर निवेश जलवायु परिवर्तन के अनुकूल कृषि, मृदा स्वास्थ्य, पोषण-सुरक्षित खाद्य प्रणाली, कृषि कौशल विकास और महिला किसानों की उद्यमिता जैसे क्षेत्रों में महत्&#x200d;वपूर्ण बदलाव करते हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:28:26+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-shivraj-singh-chouhan-called-for-csr-support-to-strengthen-agriculture/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी भारत की पहली हाइड्रोजन रेलगाड़ी को दिखाएंगे हरी झंडी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्‍यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्&#x200d;यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, शिक्षा और सड़क अवसंरचना सहित 6 हजार 600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं का लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी चंडीगढ़ के स्&#x200d;नातकोत्&#x200d;तर चिकित्&#x200d;सा शिक्षा और अनुसंधान संस्&#x200d;थान में आधुनिक मातृ और शिशु केंद्र तथा एडवांस्ड न्यूरोसाइंसेज सेंटर का भी लोकार्पण करेंगे। प्रधानमंत्री जालंधर में यात्रियों की सुविधा में सुधार करने और क्षेत्र में आर्थिक विकास को गति देने के लिए 5 हजार 470 करोड़ रुपये से अधिक की विकास परियोजनाओं की लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी अमृत भारत स्टेशन योजना के अंतर्गत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का लोकार्पण भी करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:23:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-flag-off-indias-first-hydrogen-train/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच आज से लागू हुआ व्यापक, आर्थिक और व्यापार समझौता",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया कि दोनों देशों के बीच यह समझौता भारत की आर्थिक कूटनीति का नया चरण है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:19:29+00:00",
-        "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       },
@@ -1165,6 +1166,83 @@ window.VM_NEWS = {
     ],
     "breaking": [
       {
+        "title": "राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने भगवान जगन्नाथ रथ यात्रा के अवसर पर शुभकामनाएं दीं",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ भक्तों से मिलते हैं। उन्होंने कहा कि भक्तों और भगवान के मिलन का यह भावपूर्ण अवसर अद्वितीय होता है। राष्ट्रपति ने कामना की कि महाप्रभु श्रीजगन्नाथ की कृपा से देश और देशवासियों की सुख-समृद्धि में निरंतर वृद्धि होती रहे। उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा है कि पवित्र रथ यात्रा आस्था, भक्ति, समानता और आपसी सद्भाव के मूल्यों को दर्शाती है और सभी मतभेदों से ऊपर उठकर लोगों को एक साथ लाती है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह हमारी समृद्ध सांस्कृतिक विरासत और स्थायी आध्यात्मिक परंपराओं का एक जीवंत उत्सव है। प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में, श्री मोदी ने रथ यात्रा को भारत की सदियों पुरानी आध्यात्मिक और सांस्कृतिक विरासत की एक शानदार अभिव्यक्ति बताया। उन्होंने कहा कि रथ यात्रा से जुड़ी परंपराओं ने भारत और दुनिया भर में कई पीढ़ियों को प्रेरित किया है और ये परंपराएँ विनम्रता, सामूहिक भागीदारी और निस्वार्थ सेवा का प्रतीक हैं। प्रधानमंत्री ने प्रार्थना की कि महाप्रभु जगन्नाथ सभी को उत्तम स्वास्थ्य, सुख और समृद्धि का आशीर्वाद दें।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:58:02+00:00",
+        "link": "https://newsonair.gov.in/hi/the-president-vice-president-and-prime-minister-extended-their-greetings-on-the-occasion-of-the-lord-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने ईंधन निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया",
+        "summary": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 […]",
+        "article": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 रुपये प्रति लीटर कर दिया गया है। वहीं, पेट्रोल के निर्यात पर कर घटाकर दो रुपये 50 पैसे प्रति लीटर किया गया है। बदली हुई दरें आज से लागू हो गई हैं। हालांकि, घरेलू खपत के लिए इस्तेमाल होने वाले पेट्रोल और डीजल पर मौजूदा निर्यात शुल्&#x200d;क में कोई बदलाव नहीं किया गया है। पेट्रोल, डीजल और एटीएफ के निर्यात पर विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क इस साल 27 मार्च से लागू किया गया था। इसका उद्देश्&#x200d;य पश्चिम एशिया संकट के दौरान निर्यात को कम करके पेट्रोलियम उत्पादों की घरेलू उपलब्धता सुनिश्चित करना था। दरों की समीक्षा हर दो हफ़्ते में की जाती है। ये दरें पिछली समीक्षा के बाद की अवधि में कच्चे तेल, पेट्रोल, डीजल और एटीएफ की औसत अंतरराष्ट्रीय कीमतों के आधार पर तय की जाती हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:24:56+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-revised-the-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी कल करेंगे हरियाणा, चंडीगढ़ और पंजाब का दौरा",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र को समर्पित करेंगे। प्रधानमंत्री चंडीगढ़ में दोपहर में स्वास्थ्य सेवा, शिक्षा और सड़क के बुनियादी ढांचे से जुड़ी 6,600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी चंडीगढ़ के पोस्ट ग्रेजुएट इंस्टीट्यूट ऑफ मेडिकल एजुकेशन एंड रिसर्च में एडवांस्ड मदर एंड चाइल्ड सेंटर और एडवांस्ड न्यूरोसाइंसेस सेंटर का उद्घाटन करेंगे। प्रधानमंत्री जालंधर भी जाएंगे, जहां वे संपर्क तथा यात्रियों की सुविधा बढ़ाने और क्षेत्र में आर्थिक विकास को गति देने के उद्देश्य से 5,470 करोड़ रुपये से अधिक की कई विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी &#8216;अमृत भारत स्टेशन योजना&#8217; के तहत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का उद्घाटन करेंगे।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:20:36+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मौसम विभाग ने देश के विभिन्न हिस्सों में वर्षा का अनुमान व्यक्त किया",
+        "summary": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्‍यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 […]",
+        "article": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्&#x200d;यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 से 3 दिन में पंजाब, हरियाणा, चंडीगढ़, दिल्ली, पूर्वी और पश्चिमी राजस्थान तथा पश्चिमी उत्तर प्रदेश में मध्यम बारिश की संभावना व्&#x200d;यक्&#x200d;त की है। आंध्र प्रदेश, तमिलनाडु, पुद्दुचेरी और कराईक्&#x200d;काल में आज लू चलने का अनुमान है। &nbsp; दिल्ली में दिन के दौरान आंशिक रूप से बादल छाए रहने के साथ गर्म और उमस भरा मौसम रहने का अनुमान है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:08:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-rainfall-in-various-parts-of-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704207F-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्रिमंडल ने वाराणसी के लिए ₹25,000 करोड़ से अधिक की दो एलिवेटेड सड़क परियोजनाओं को मंज़ूरी दी",
+        "summary": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन […]",
+        "article": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन परियोजनाओं को मंज़ूरी दी। इन परियोजनाओं में उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच हाइब्रिड एन्युइटी मॉडल पर 46 किलोमीटर से ज़्यादा लंबा 6-लेन का ग्रीनफील्ड एलिवेटेड कॉरिडोर बनाना शामिल है। इसे कुल 14 हज़ार 400 करोड़ रुपये से ज़्यादा की लागत से बनाया जाएगा। सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने नई दिल्ली में बताया कि दूसरी परियोजना वाराणसी शहर में वरुण नदी के किनारे लगभग 43 किलोमीटर लंबे, 6-लेन और 4-लेन के एलिवेटेड कॉरिडोर के विकास से जुड़ा है, जिसकी लागत लगभग 11 हज़ार करोड़ रुपये होगी। केंद्रीय मंत्रिमंडल ने देश में सेमीकंडक्टर डिज़ाइन और निर्माण को बढ़ावा देने के लिए 1 लाख 27 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ &#8216;सेमीकॉन 2.0&#8217; को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद भारत को ग्लोबल सेमीकंडक्टर मैप पर लाने की सरकार की प्रतिबद्धता को और बढ़ावा देना है। उन्होंने बताया कि &#8216;सेमीकॉन 2.0&#8217; के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। श्री वैष्णव ने कहा कि कैबिनेट ने 62 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ मोबाइल फ़ोन उत्&#x200d;पादन योजना को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद घरेलू मोबाइल फ़ोन उत्पादन को बढ़ाना, स्&#x200d;थानीय मूल्&#x200d;य संर्वधन और वैश्विक इलेक्ट्रॉनिक्स उत्&#x200d;पादन केन्&#x200d;द्र के तौर पर देश की स्थिति को मज़बूत करना है। मंत्रिमंडल ने ओडिशा और झारखंड के चार ज़िलों में दो मल्टी-ट्रैकिंग परियोजनाओं को भी मंज़ूरी दी, जिससे देश में रेल नेटवर्क लगभग 145 किलोमीटर बढ़ जाएगा। मंत्रिमंडल ने &#8216;आत्मनिर्भर भारत&#8217; के लिए यूरिया-2026 की राष्ट्रीय निवेश नीति को भी मंज़ूरी दी। इस नीति का उद्देश्&#x200d;य देश में गैस-आधारित यूरिया बनाने वाली इकाइयाँ लगाने के लिए यूरिया क्षेत्र में नए निवेश को बढ़ावा देना है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:56:16+00:00",
+        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-two-elevated-road-projects-worth-over-%e2%82%b925000-crore-for-varanasi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेल मंत्रालय ने टिकट बुकिंग में आसानी के लिए आईआरसीटीसी की नई वेबसाइट शुरू की",
+        "summary": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री […]",
+        "article": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री सभी क्लास में सीट की उपलब्धता देख सकते हैं। तीसरा, इसमें टिकट बुक करने के लिए ज़रूरी स्टेप्स की संख्या कम है और वेबसाइट अब यात्रियों की जानकारी सेव कर लेगी, जिससे दोबारा बुकिंग करना आसान हो जाएगा। मौजूदा वेबसाइट के होमपेज पर भी इस नए बीटा वर्जन का लिंक उपलब्&#x200d;ध है। मंत्रालय ने उपयोगकर्ताओं से इसके आसान फ़ीचर्स पर फ़ीडबैक देने का अनुरोध किया है। आईआरसीटीसी वेबसाइट पहली बार 2002 में शुरू की गई थी और अभी यह हर दिन औसतन लगभग 14.5 लाख टिकट बुकिंग संभालती है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:46:59+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-railways-launched-a-new-irctc-website-to-make-ticket-booking-easier/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-15.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ओडिशा के पुरी में भगवान जगन्नाथ की विश्व प्रसिद्ध रथ यात्रा आज से शुरू",
+        "summary": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्‍व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। […]",
+        "article": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्&#x200d;व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। लगभग 3 किलोमीटर की इस यात्रा का समापन श्री गुंडिचा मंदिर में होगा। भगवान जगन्&#x200d;नाथ, भगवान बलभद्र और देवी सुभद्रा नौ दिनों तक गुंडिचा मंदिर में ठहरते हैं। यात्रा पूरी करने के बाद उन्हीं रथों पर श्री मंदिर लौटते हैं, जिसे &#8216;बहुदा यात्रा&#8217; या वापसी रथ यात्रा कहा जाता है। इस रथ यात्रा में बड़ी संख्या में भक्&#x200d;त शामिल होते हैं। यात्रा के सुचारू संचालन को सुनिश्चित करने के लिए बहुस्तरीय सुरक्षा व्यवस्था की गई है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:38:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-famous-rath-yatra-of-lord-jagannath-in-puri-odisha-begins-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
         "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
         "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
@@ -1176,107 +1254,109 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
-        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
-        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "title": "मजबूती से आगे बढ़ रही है भारत-यूरोपीय संघ साझेदारी: विदेश मंत्री डॉ. एस. जयशंकर",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद की बैठक के बाद संवाददाताओं से यह बात कही। उन्होंने कहा कि भारत और यूरोपीय संघ के बीच स्वाभाविक जुड़ाव है। डॉ. जयशंकर ने कहा कि भारत और यूरोपीय संघ ने एक-दूसरे के साथ इस विश्वास को विकसित किया है और अब इसे व्यापार और प्रौद्योगिकी क्षेत्र में आगे बढ़ाने का प्रयास कर रहे हैं। डॉ. जयशंकर ने कहा कि भारत-यूरोपीय संघ होराइजन यूरोप कार्यक्रम पर बातचीत शुरू करेंगे। उन्होंने बताया कि बैठक के दौरान वे इलेक्ट्रिक वाहन चार्जिंग अवसंरचना मानकों पर पहला नवाचार केंद्र स्थापित करने पर सहमत हुए हैं। वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते को निष्पक्ष, न्यायसंगत और संतुलित बताया, जो दोनों देशों के हर क्षेत्र के लिए लाभकारी समझौता है। उन्होंने कहा कि दोनों देशों का दृष्टिकोण नवाचार-आधारित, भरोसेमंद और भविष्य के लिए तैयार विकास साझेदारी की ओर है। उन्होंने कहा कि यह बैठक इस सहयोग का एक महत्वपूर्ण स्तंभ बन गई है। श्री गोयल ने कहा कि इस बैठक से भारत-यूरोपीय संघ को चर्चाओं से बढ़कर क्रियान्वयन की दिशा में बढ़ने में मदद मिली है। उन्होंने कहा कि यूरोपीय संघ और भारत कुछ महत्वपूर्ण क्षेत्रों पर निर्भरता कम करने और विश्वसनीय एवं विविध आपूर्ति श्रृंखलाओं के निर्माण के लिए प्रतिबद्ध हैं।",
         "date": "2026-07-16",
-        "pubDate": "2026-07-16T01:00:55+00:00",
-        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-16T03:38:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-eu-partnership-moving-beyond-the-entry-stage-external-affairs-minister-dr-s-jaishankar/",
+        "post_id": 1740627,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:59:07+00:00",
-        "link": "https://newsonair.gov.in/hi/exercising-the-right-to-vote-reaffirms-peoples-faith-in-democracy-vice-president/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-Vice-President-Of-India.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने बीआरसीपी के तीसरे चरण का शुभारंभ किया",
-        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ […]",
-        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ रुपये और वेलकम ट्रस्ट के 500 करोड़ रुपये शामिल हैं। डॉ. सिंह ने कहा कि बीआरसीपी का तीसरा चरण वैश्विक स्तर पर प्रतिस्पर्धी जैव चिकित्सा अनुसंधान कार्यबल विकसित करने के लिए फेलोशिप और अनुसंधान अनुदान के लिए निरंतर सहायता प्रदान करेगा। उन्होंने बताया कि देश की जैव-अर्थव्यवस्था 2014 में 10 अरब डॉलर से बढ़कर 2025 में 195 अरब डॉलर से अधिक हो गई है। 2030 तक इसके 300 अरब डॉलर तक पहुंचने की उम्मीद है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:53:27+00:00",
-        "link": "https://newsonair.gov.in/hi/science-and-technology-minister-jitendra-singh-launched-the-third-phase-of-brcp/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNRSkoebAAAc722.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में एसआईआर की समय सीमा बढ़ायी",
-        "summary": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता […]",
-        "article": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता सूची 19 अक्टूबर को प्रकाशित की जाएगी। तेलंगाना में, मसौदा मतदाता सूची 10 अगस्त को, जबकि अंतिम मतदाता सूची 12 अक्टूबर को प्रकाशित की जाएगी। राज्य में बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 3 अगस्त तक चलेगा। कर्नाटक में, बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 29 जुलाई के बजाय 8 अगस्त तक चलेगा। राज्य में मसौदा मतदाता सूची 17 अगस्त को प्रकाशित की जाएगी, जबकि अंतिम मतदाता सूची का प्रकाशन 19 अक्टूबर को होगा। आयोग ने कल हरियाणा और आंध्र प्रदेश के लिए एसआईआर की समय सीमा बढ़ाई थी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:51:36+00:00",
-        "link": "https://newsonair.gov.in/hi/the-election-commission-extended-the-sir-deadline-for-punjab-karnataka-telangana-and-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/SIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत ने ब्रिटेन को किया 14 करोड़ डॉलर का निर्यात",
-        "summary": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्‍ट्र बनाने के विजन के […]",
-        "article": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्&#x200d;ट्र बनाने के विजन के अनुरूप है। उन्होंने कहा कि यह सबसे महत्वाकांक्षी और बड़े व्यापार समझौतों में से एक है। इससे दोनों पक्षों के लिए बाजार पहुंच के नए अवसर उपलब्&#x200d;ध होंगे। श्री अग्रवाल ने कहा कि इससे न केवल देश के व्यापार को बढ़ावा मिलेगा, बल्कि आने वाले दिनों में सेवाओं को भी गति मिलेगी। भारत में ब्रिटेन की उच्चायुक्त लिंडी कैमरून ने आकाशवाणी समाचार से विशेष बातचीत में कहा कि यह समझौता दोनों पक्षों के लिए बहुत फायदेमंद है। परिधान निर्यात संवर्धन परिषद के अध्यक्ष ए. शक्तिवेल ने आकाशवाणी समाचार को बताया कि इस समझौते के कारण डेढ़ साल में निर्यात दोगुना हो जाएगा। कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण के अधिकारी तरुण बजाज ने बताया कि यह समझौता कृषि और प्रसंस्करण क्षेत्र के लिए लाभकारी होगा। रत्न और आभूषण निर्यात संवर्धन परिषद के कार्यकारी निदेशक सब्यसाची राय ने कहा कि इस समझौते से रत्न और आभूषण क्षेत्र को बहुत लाभ होगा। भारतीय कृषि और खाद्य परिषद के कार्यकारी निदेशक संजय सेठी ने बताया कि यह समझौता कृषि क्षेत्र को बढ़ावा देगा। भारतीय वस्त्र उद्योग परिसंघ की महासचिव चंद्रिमा चटर्जी ने आकाशवाणी समाचार से बातचीत में कहा कि समझौते से वस्त्र क्षेत्र को बहुत आशाएं हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:48:23+00:00",
-        "link": "https://newsonair.gov.in/hi/on-the-first-day-of-the-india-uk-comprehensive-economic-and-trade-agreement-coming-into-effect-india-exported-goods-worth-140-million-to-the-uk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘एक देश, एक चुनाव’ के प्रस्ताव पर जेपीसी की लखनऊ में परामर्श बैठक पूरी",
-        "summary": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्‍न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों […]",
-        "article": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्&#x200d;न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों के साथ चर्चा की। समिति ने पद्म पुरस्कार से सम्मानित नागरिक समाज के प्रतिनिधियों और मीडिया के प्रमुख सदस्यों से भी बातचीत की। समिति ने कहा कि बातचीत के दौरान मिले सुझावों और विचारों पर अनुशंसाओं को अंतिम रूप देने से पहले और चर्चाओं पर विचार किया जाएगा। बैठक के बाद संवाददाताओं से बातचीत में जेपीसी के अध्यक्ष पी. पी. चौधरी ने कहा कि समिति अब तक 10 राज्यों का दौरा कर चुकी है। समिति को विभिन्&#x200d;न क्षेत्रों के लोगों से कई महत्वपूर्ण सुझाव प्राप्त हुए हैं। उन्होंने कहा कि समिति केवल राष्ट्रीय हित वाली अनुशंसाएं ही संसद में रखेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:32:00+00:00",
-        "link": "https://newsonair.gov.in/hi/jpc-concludes-consultation-meeting-on-one-nation-one-election-proposal-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने कृषि को मजबूत करने के लिए सीएसआर के समर्थन का आह्वान किया",
-        "summary": "कृषि और किसान कल्‍याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक […]",
-        "article": "कृषि और किसान कल्&#x200d;याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक हिस्सा किसानों, कृषि अनुसंधान और ग्रामीण समुदायों के कल्याण के लिए समर्पित करने का आग्रह किया। उन्होंने कहा कि उद्योग जगत की यह जिम्मेदारी है कि वह सीएसआर के माध्यम से कृषि और ग्रामीण विकास में निवेश करके राष्ट्र निर्माण में भागीदार बने। कृषि मंत्री ने कहा कि सीएसआर निवेश जलवायु परिवर्तन के अनुकूल कृषि, मृदा स्वास्थ्य, पोषण-सुरक्षित खाद्य प्रणाली, कृषि कौशल विकास और महिला किसानों की उद्यमिता जैसे क्षेत्रों में महत्&#x200d;वपूर्ण बदलाव करते हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:28:26+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-shivraj-singh-chouhan-called-for-csr-support-to-strengthen-agriculture/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी भारत की पहली हाइड्रोजन रेलगाड़ी को दिखाएंगे हरी झंडी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्‍यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्&#x200d;यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, शिक्षा और सड़क अवसंरचना सहित 6 हजार 600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं का लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी चंडीगढ़ के स्&#x200d;नातकोत्&#x200d;तर चिकित्&#x200d;सा शिक्षा और अनुसंधान संस्&#x200d;थान में आधुनिक मातृ और शिशु केंद्र तथा एडवांस्ड न्यूरोसाइंसेज सेंटर का भी लोकार्पण करेंगे। प्रधानमंत्री जालंधर में यात्रियों की सुविधा में सुधार करने और क्षेत्र में आर्थिक विकास को गति देने के लिए 5 हजार 470 करोड़ रुपये से अधिक की विकास परियोजनाओं की लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी अमृत भारत स्टेशन योजना के अंतर्गत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का लोकार्पण भी करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:23:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-flag-off-indias-first-hydrogen-train/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच आज से लागू हुआ व्यापक, आर्थिक और व्यापार समझौता",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया कि दोनों देशों के बीच यह समझौता भारत की आर्थिक कूटनीति का नया चरण है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:19:29+00:00",
-        "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत और बेल्जियम विभिन्न क्षेत्रों में सहयोग बढ़ाने पर सहमत हुए",
+        "summary": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों […]",
+        "article": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों को मजबूत करने पर चर्चा हुई। रणनीतिक संवाद के उद्घाटन सत्र की सह-अध्यक्षता विदेश मंत्री डॉ. एस. जयशंकर और बेल्जियम के उप प्रधानमंत्री और विदेश मामलों, यूरोपीय मामलों और विकास सहयोग मंत्री मैक्सिम प्रीवोट ने की। डॉ. जयशंकर ने कहा कि यूरोप के साथ भारत के जुड़ाव में बेल्जियम का एक विशेष स्थान है। उन्होंने कहा कि जैसे-जैसे द्विपक्षीय साझेदारी बढ़ रही है, भारत-यूरोपीय संघ के संबंध प्रगाढ़ होते जा रहे हैं। श्री प्रीवोट ने कहा कि पिछले वर्ष मार्च में बेल्जियम के आर्थिक मिशन ने दोनों देशों के बीच आर्थिक संबंधों की मजबूती और गतिशीलता को बढ़ाया। उन्होंने कहा कि व्यापार, निवेश और नवाचार दोनों देशों को और करीब ला रहा है और भविष्य के सहयोग के लिए ठोस आधार दे रहा है। इस मंच में डॉ. जयशंकर, वाणिज्य और उद्योग मंत्री पीयूष गोयल और वाणिज्य और उद्योग राज्य मंत्री जितिन प्रसाद उपस्थित थे। बेल्जियम की ओर से फ्लैंडर्स सरकार के मंत्री-अध्यक्ष मैथियास डाइपेन्डेल और वालोनिया के मंत्री-अध्यक्ष एड्रियन डोलिमोंट उपस्थित थे। यह मंच दोनों देशों के साथ-साथ यूरोपीय संघ के सार्वजनिक और निजी हितधारकों को एक साथ लाया ताकि दोनों देशों के बीच बढ़ते संपर्क को ठोस आर्थिक और व्यापारिक अवसरों में बदलने के तरीकों पर चर्चा की जा सके।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:38+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-belgium-agreed-to-enhance-cooperation-in-various-sectors/",
+        "post_id": 1740577,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "national": [
       {
+        "title": "राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने भगवान जगन्नाथ रथ यात्रा के अवसर पर शुभकामनाएं दीं",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ भक्तों से मिलते हैं। उन्होंने कहा कि भक्तों और भगवान के मिलन का यह भावपूर्ण अवसर अद्वितीय होता है। राष्ट्रपति ने कामना की कि महाप्रभु श्रीजगन्नाथ की कृपा से देश और देशवासियों की सुख-समृद्धि में निरंतर वृद्धि होती रहे। उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा है कि पवित्र रथ यात्रा आस्था, भक्ति, समानता और आपसी सद्भाव के मूल्यों को दर्शाती है और सभी मतभेदों से ऊपर उठकर लोगों को एक साथ लाती है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह हमारी समृद्ध सांस्कृतिक विरासत और स्थायी आध्यात्मिक परंपराओं का एक जीवंत उत्सव है। प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में, श्री मोदी ने रथ यात्रा को भारत की सदियों पुरानी आध्यात्मिक और सांस्कृतिक विरासत की एक शानदार अभिव्यक्ति बताया। उन्होंने कहा कि रथ यात्रा से जुड़ी परंपराओं ने भारत और दुनिया भर में कई पीढ़ियों को प्रेरित किया है और ये परंपराएँ विनम्रता, सामूहिक भागीदारी और निस्वार्थ सेवा का प्रतीक हैं। प्रधानमंत्री ने प्रार्थना की कि महाप्रभु जगन्नाथ सभी को उत्तम स्वास्थ्य, सुख और समृद्धि का आशीर्वाद दें।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:58:02+00:00",
+        "link": "https://newsonair.gov.in/hi/the-president-vice-president-and-prime-minister-extended-their-greetings-on-the-occasion-of-the-lord-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने ईंधन निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया",
+        "summary": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 […]",
+        "article": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 रुपये प्रति लीटर कर दिया गया है। वहीं, पेट्रोल के निर्यात पर कर घटाकर दो रुपये 50 पैसे प्रति लीटर किया गया है। बदली हुई दरें आज से लागू हो गई हैं। हालांकि, घरेलू खपत के लिए इस्तेमाल होने वाले पेट्रोल और डीजल पर मौजूदा निर्यात शुल्&#x200d;क में कोई बदलाव नहीं किया गया है। पेट्रोल, डीजल और एटीएफ के निर्यात पर विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क इस साल 27 मार्च से लागू किया गया था। इसका उद्देश्&#x200d;य पश्चिम एशिया संकट के दौरान निर्यात को कम करके पेट्रोलियम उत्पादों की घरेलू उपलब्धता सुनिश्चित करना था। दरों की समीक्षा हर दो हफ़्ते में की जाती है। ये दरें पिछली समीक्षा के बाद की अवधि में कच्चे तेल, पेट्रोल, डीजल और एटीएफ की औसत अंतरराष्ट्रीय कीमतों के आधार पर तय की जाती हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:24:56+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-revised-the-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी कल करेंगे हरियाणा, चंडीगढ़ और पंजाब का दौरा",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र को समर्पित करेंगे। प्रधानमंत्री चंडीगढ़ में दोपहर में स्वास्थ्य सेवा, शिक्षा और सड़क के बुनियादी ढांचे से जुड़ी 6,600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी चंडीगढ़ के पोस्ट ग्रेजुएट इंस्टीट्यूट ऑफ मेडिकल एजुकेशन एंड रिसर्च में एडवांस्ड मदर एंड चाइल्ड सेंटर और एडवांस्ड न्यूरोसाइंसेस सेंटर का उद्घाटन करेंगे। प्रधानमंत्री जालंधर भी जाएंगे, जहां वे संपर्क तथा यात्रियों की सुविधा बढ़ाने और क्षेत्र में आर्थिक विकास को गति देने के उद्देश्य से 5,470 करोड़ रुपये से अधिक की कई विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी &#8216;अमृत भारत स्टेशन योजना&#8217; के तहत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का उद्घाटन करेंगे।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:20:36+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मौसम विभाग ने देश के विभिन्न हिस्सों में वर्षा का अनुमान व्यक्त किया",
+        "summary": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्‍यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 […]",
+        "article": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्&#x200d;यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 से 3 दिन में पंजाब, हरियाणा, चंडीगढ़, दिल्ली, पूर्वी और पश्चिमी राजस्थान तथा पश्चिमी उत्तर प्रदेश में मध्यम बारिश की संभावना व्&#x200d;यक्&#x200d;त की है। आंध्र प्रदेश, तमिलनाडु, पुद्दुचेरी और कराईक्&#x200d;काल में आज लू चलने का अनुमान है। &nbsp; दिल्ली में दिन के दौरान आंशिक रूप से बादल छाए रहने के साथ गर्म और उमस भरा मौसम रहने का अनुमान है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:08:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-rainfall-in-various-parts-of-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704207F-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्रिमंडल ने वाराणसी के लिए ₹25,000 करोड़ से अधिक की दो एलिवेटेड सड़क परियोजनाओं को मंज़ूरी दी",
+        "summary": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन […]",
+        "article": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन परियोजनाओं को मंज़ूरी दी। इन परियोजनाओं में उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच हाइब्रिड एन्युइटी मॉडल पर 46 किलोमीटर से ज़्यादा लंबा 6-लेन का ग्रीनफील्ड एलिवेटेड कॉरिडोर बनाना शामिल है। इसे कुल 14 हज़ार 400 करोड़ रुपये से ज़्यादा की लागत से बनाया जाएगा। सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने नई दिल्ली में बताया कि दूसरी परियोजना वाराणसी शहर में वरुण नदी के किनारे लगभग 43 किलोमीटर लंबे, 6-लेन और 4-लेन के एलिवेटेड कॉरिडोर के विकास से जुड़ा है, जिसकी लागत लगभग 11 हज़ार करोड़ रुपये होगी। केंद्रीय मंत्रिमंडल ने देश में सेमीकंडक्टर डिज़ाइन और निर्माण को बढ़ावा देने के लिए 1 लाख 27 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ &#8216;सेमीकॉन 2.0&#8217; को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद भारत को ग्लोबल सेमीकंडक्टर मैप पर लाने की सरकार की प्रतिबद्धता को और बढ़ावा देना है। उन्होंने बताया कि &#8216;सेमीकॉन 2.0&#8217; के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। श्री वैष्णव ने कहा कि कैबिनेट ने 62 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ मोबाइल फ़ोन उत्&#x200d;पादन योजना को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद घरेलू मोबाइल फ़ोन उत्पादन को बढ़ाना, स्&#x200d;थानीय मूल्&#x200d;य संर्वधन और वैश्विक इलेक्ट्रॉनिक्स उत्&#x200d;पादन केन्&#x200d;द्र के तौर पर देश की स्थिति को मज़बूत करना है। मंत्रिमंडल ने ओडिशा और झारखंड के चार ज़िलों में दो मल्टी-ट्रैकिंग परियोजनाओं को भी मंज़ूरी दी, जिससे देश में रेल नेटवर्क लगभग 145 किलोमीटर बढ़ जाएगा। मंत्रिमंडल ने &#8216;आत्मनिर्भर भारत&#8217; के लिए यूरिया-2026 की राष्ट्रीय निवेश नीति को भी मंज़ूरी दी। इस नीति का उद्देश्&#x200d;य देश में गैस-आधारित यूरिया बनाने वाली इकाइयाँ लगाने के लिए यूरिया क्षेत्र में नए निवेश को बढ़ावा देना है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:56:16+00:00",
+        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-two-elevated-road-projects-worth-over-%e2%82%b925000-crore-for-varanasi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेल मंत्रालय ने टिकट बुकिंग में आसानी के लिए आईआरसीटीसी की नई वेबसाइट शुरू की",
+        "summary": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री […]",
+        "article": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री सभी क्लास में सीट की उपलब्धता देख सकते हैं। तीसरा, इसमें टिकट बुक करने के लिए ज़रूरी स्टेप्स की संख्या कम है और वेबसाइट अब यात्रियों की जानकारी सेव कर लेगी, जिससे दोबारा बुकिंग करना आसान हो जाएगा। मौजूदा वेबसाइट के होमपेज पर भी इस नए बीटा वर्जन का लिंक उपलब्&#x200d;ध है। मंत्रालय ने उपयोगकर्ताओं से इसके आसान फ़ीचर्स पर फ़ीडबैक देने का अनुरोध किया है। आईआरसीटीसी वेबसाइट पहली बार 2002 में शुरू की गई थी और अभी यह हर दिन औसतन लगभग 14.5 लाख टिकट बुकिंग संभालती है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:46:59+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-railways-launched-a-new-irctc-website-to-make-ticket-booking-easier/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-15.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ओडिशा के पुरी में भगवान जगन्नाथ की विश्व प्रसिद्ध रथ यात्रा आज से शुरू",
+        "summary": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्‍व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। […]",
+        "article": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्&#x200d;व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। लगभग 3 किलोमीटर की इस यात्रा का समापन श्री गुंडिचा मंदिर में होगा। भगवान जगन्&#x200d;नाथ, भगवान बलभद्र और देवी सुभद्रा नौ दिनों तक गुंडिचा मंदिर में ठहरते हैं। यात्रा पूरी करने के बाद उन्हीं रथों पर श्री मंदिर लौटते हैं, जिसे &#8216;बहुदा यात्रा&#8217; या वापसी रथ यात्रा कहा जाता है। इस रथ यात्रा में बड़ी संख्या में भक्&#x200d;त शामिल होते हैं। यात्रा के सुचारू संचालन को सुनिश्चित करने के लिए बहुस्तरीय सुरक्षा व्यवस्था की गई है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:38:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-famous-rath-yatra-of-lord-jagannath-in-puri-odisha-begins-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
         "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
         "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
@@ -1288,107 +1368,109 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
-        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
-        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "title": "मजबूती से आगे बढ़ रही है भारत-यूरोपीय संघ साझेदारी: विदेश मंत्री डॉ. एस. जयशंकर",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद की बैठक के बाद संवाददाताओं से यह बात कही। उन्होंने कहा कि भारत और यूरोपीय संघ के बीच स्वाभाविक जुड़ाव है। डॉ. जयशंकर ने कहा कि भारत और यूरोपीय संघ ने एक-दूसरे के साथ इस विश्वास को विकसित किया है और अब इसे व्यापार और प्रौद्योगिकी क्षेत्र में आगे बढ़ाने का प्रयास कर रहे हैं। डॉ. जयशंकर ने कहा कि भारत-यूरोपीय संघ होराइजन यूरोप कार्यक्रम पर बातचीत शुरू करेंगे। उन्होंने बताया कि बैठक के दौरान वे इलेक्ट्रिक वाहन चार्जिंग अवसंरचना मानकों पर पहला नवाचार केंद्र स्थापित करने पर सहमत हुए हैं। वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते को निष्पक्ष, न्यायसंगत और संतुलित बताया, जो दोनों देशों के हर क्षेत्र के लिए लाभकारी समझौता है। उन्होंने कहा कि दोनों देशों का दृष्टिकोण नवाचार-आधारित, भरोसेमंद और भविष्य के लिए तैयार विकास साझेदारी की ओर है। उन्होंने कहा कि यह बैठक इस सहयोग का एक महत्वपूर्ण स्तंभ बन गई है। श्री गोयल ने कहा कि इस बैठक से भारत-यूरोपीय संघ को चर्चाओं से बढ़कर क्रियान्वयन की दिशा में बढ़ने में मदद मिली है। उन्होंने कहा कि यूरोपीय संघ और भारत कुछ महत्वपूर्ण क्षेत्रों पर निर्भरता कम करने और विश्वसनीय एवं विविध आपूर्ति श्रृंखलाओं के निर्माण के लिए प्रतिबद्ध हैं।",
         "date": "2026-07-16",
-        "pubDate": "2026-07-16T01:00:55+00:00",
-        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-16T03:38:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-eu-partnership-moving-beyond-the-entry-stage-external-affairs-minister-dr-s-jaishankar/",
+        "post_id": 1740627,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:59:07+00:00",
-        "link": "https://newsonair.gov.in/hi/exercising-the-right-to-vote-reaffirms-peoples-faith-in-democracy-vice-president/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-Vice-President-Of-India.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने बीआरसीपी के तीसरे चरण का शुभारंभ किया",
-        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ […]",
-        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ रुपये और वेलकम ट्रस्ट के 500 करोड़ रुपये शामिल हैं। डॉ. सिंह ने कहा कि बीआरसीपी का तीसरा चरण वैश्विक स्तर पर प्रतिस्पर्धी जैव चिकित्सा अनुसंधान कार्यबल विकसित करने के लिए फेलोशिप और अनुसंधान अनुदान के लिए निरंतर सहायता प्रदान करेगा। उन्होंने बताया कि देश की जैव-अर्थव्यवस्था 2014 में 10 अरब डॉलर से बढ़कर 2025 में 195 अरब डॉलर से अधिक हो गई है। 2030 तक इसके 300 अरब डॉलर तक पहुंचने की उम्मीद है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:53:27+00:00",
-        "link": "https://newsonair.gov.in/hi/science-and-technology-minister-jitendra-singh-launched-the-third-phase-of-brcp/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNRSkoebAAAc722.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में एसआईआर की समय सीमा बढ़ायी",
-        "summary": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता […]",
-        "article": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता सूची 19 अक्टूबर को प्रकाशित की जाएगी। तेलंगाना में, मसौदा मतदाता सूची 10 अगस्त को, जबकि अंतिम मतदाता सूची 12 अक्टूबर को प्रकाशित की जाएगी। राज्य में बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 3 अगस्त तक चलेगा। कर्नाटक में, बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 29 जुलाई के बजाय 8 अगस्त तक चलेगा। राज्य में मसौदा मतदाता सूची 17 अगस्त को प्रकाशित की जाएगी, जबकि अंतिम मतदाता सूची का प्रकाशन 19 अक्टूबर को होगा। आयोग ने कल हरियाणा और आंध्र प्रदेश के लिए एसआईआर की समय सीमा बढ़ाई थी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:51:36+00:00",
-        "link": "https://newsonair.gov.in/hi/the-election-commission-extended-the-sir-deadline-for-punjab-karnataka-telangana-and-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/SIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत ने ब्रिटेन को किया 14 करोड़ डॉलर का निर्यात",
-        "summary": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्‍ट्र बनाने के विजन के […]",
-        "article": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्&#x200d;ट्र बनाने के विजन के अनुरूप है। उन्होंने कहा कि यह सबसे महत्वाकांक्षी और बड़े व्यापार समझौतों में से एक है। इससे दोनों पक्षों के लिए बाजार पहुंच के नए अवसर उपलब्&#x200d;ध होंगे। श्री अग्रवाल ने कहा कि इससे न केवल देश के व्यापार को बढ़ावा मिलेगा, बल्कि आने वाले दिनों में सेवाओं को भी गति मिलेगी। भारत में ब्रिटेन की उच्चायुक्त लिंडी कैमरून ने आकाशवाणी समाचार से विशेष बातचीत में कहा कि यह समझौता दोनों पक्षों के लिए बहुत फायदेमंद है। परिधान निर्यात संवर्धन परिषद के अध्यक्ष ए. शक्तिवेल ने आकाशवाणी समाचार को बताया कि इस समझौते के कारण डेढ़ साल में निर्यात दोगुना हो जाएगा। कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण के अधिकारी तरुण बजाज ने बताया कि यह समझौता कृषि और प्रसंस्करण क्षेत्र के लिए लाभकारी होगा। रत्न और आभूषण निर्यात संवर्धन परिषद के कार्यकारी निदेशक सब्यसाची राय ने कहा कि इस समझौते से रत्न और आभूषण क्षेत्र को बहुत लाभ होगा। भारतीय कृषि और खाद्य परिषद के कार्यकारी निदेशक संजय सेठी ने बताया कि यह समझौता कृषि क्षेत्र को बढ़ावा देगा। भारतीय वस्त्र उद्योग परिसंघ की महासचिव चंद्रिमा चटर्जी ने आकाशवाणी समाचार से बातचीत में कहा कि समझौते से वस्त्र क्षेत्र को बहुत आशाएं हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:48:23+00:00",
-        "link": "https://newsonair.gov.in/hi/on-the-first-day-of-the-india-uk-comprehensive-economic-and-trade-agreement-coming-into-effect-india-exported-goods-worth-140-million-to-the-uk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘एक देश, एक चुनाव’ के प्रस्ताव पर जेपीसी की लखनऊ में परामर्श बैठक पूरी",
-        "summary": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्‍न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों […]",
-        "article": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्&#x200d;न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों के साथ चर्चा की। समिति ने पद्म पुरस्कार से सम्मानित नागरिक समाज के प्रतिनिधियों और मीडिया के प्रमुख सदस्यों से भी बातचीत की। समिति ने कहा कि बातचीत के दौरान मिले सुझावों और विचारों पर अनुशंसाओं को अंतिम रूप देने से पहले और चर्चाओं पर विचार किया जाएगा। बैठक के बाद संवाददाताओं से बातचीत में जेपीसी के अध्यक्ष पी. पी. चौधरी ने कहा कि समिति अब तक 10 राज्यों का दौरा कर चुकी है। समिति को विभिन्&#x200d;न क्षेत्रों के लोगों से कई महत्वपूर्ण सुझाव प्राप्त हुए हैं। उन्होंने कहा कि समिति केवल राष्ट्रीय हित वाली अनुशंसाएं ही संसद में रखेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:32:00+00:00",
-        "link": "https://newsonair.gov.in/hi/jpc-concludes-consultation-meeting-on-one-nation-one-election-proposal-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने कृषि को मजबूत करने के लिए सीएसआर के समर्थन का आह्वान किया",
-        "summary": "कृषि और किसान कल्‍याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक […]",
-        "article": "कृषि और किसान कल्&#x200d;याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक हिस्सा किसानों, कृषि अनुसंधान और ग्रामीण समुदायों के कल्याण के लिए समर्पित करने का आग्रह किया। उन्होंने कहा कि उद्योग जगत की यह जिम्मेदारी है कि वह सीएसआर के माध्यम से कृषि और ग्रामीण विकास में निवेश करके राष्ट्र निर्माण में भागीदार बने। कृषि मंत्री ने कहा कि सीएसआर निवेश जलवायु परिवर्तन के अनुकूल कृषि, मृदा स्वास्थ्य, पोषण-सुरक्षित खाद्य प्रणाली, कृषि कौशल विकास और महिला किसानों की उद्यमिता जैसे क्षेत्रों में महत्&#x200d;वपूर्ण बदलाव करते हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:28:26+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-shivraj-singh-chouhan-called-for-csr-support-to-strengthen-agriculture/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी भारत की पहली हाइड्रोजन रेलगाड़ी को दिखाएंगे हरी झंडी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्‍यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्&#x200d;यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, शिक्षा और सड़क अवसंरचना सहित 6 हजार 600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं का लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी चंडीगढ़ के स्&#x200d;नातकोत्&#x200d;तर चिकित्&#x200d;सा शिक्षा और अनुसंधान संस्&#x200d;थान में आधुनिक मातृ और शिशु केंद्र तथा एडवांस्ड न्यूरोसाइंसेज सेंटर का भी लोकार्पण करेंगे। प्रधानमंत्री जालंधर में यात्रियों की सुविधा में सुधार करने और क्षेत्र में आर्थिक विकास को गति देने के लिए 5 हजार 470 करोड़ रुपये से अधिक की विकास परियोजनाओं की लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी अमृत भारत स्टेशन योजना के अंतर्गत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का लोकार्पण भी करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:23:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-flag-off-indias-first-hydrogen-train/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच आज से लागू हुआ व्यापक, आर्थिक और व्यापार समझौता",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया कि दोनों देशों के बीच यह समझौता भारत की आर्थिक कूटनीति का नया चरण है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:19:29+00:00",
-        "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत और बेल्जियम विभिन्न क्षेत्रों में सहयोग बढ़ाने पर सहमत हुए",
+        "summary": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों […]",
+        "article": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों को मजबूत करने पर चर्चा हुई। रणनीतिक संवाद के उद्घाटन सत्र की सह-अध्यक्षता विदेश मंत्री डॉ. एस. जयशंकर और बेल्जियम के उप प्रधानमंत्री और विदेश मामलों, यूरोपीय मामलों और विकास सहयोग मंत्री मैक्सिम प्रीवोट ने की। डॉ. जयशंकर ने कहा कि यूरोप के साथ भारत के जुड़ाव में बेल्जियम का एक विशेष स्थान है। उन्होंने कहा कि जैसे-जैसे द्विपक्षीय साझेदारी बढ़ रही है, भारत-यूरोपीय संघ के संबंध प्रगाढ़ होते जा रहे हैं। श्री प्रीवोट ने कहा कि पिछले वर्ष मार्च में बेल्जियम के आर्थिक मिशन ने दोनों देशों के बीच आर्थिक संबंधों की मजबूती और गतिशीलता को बढ़ाया। उन्होंने कहा कि व्यापार, निवेश और नवाचार दोनों देशों को और करीब ला रहा है और भविष्य के सहयोग के लिए ठोस आधार दे रहा है। इस मंच में डॉ. जयशंकर, वाणिज्य और उद्योग मंत्री पीयूष गोयल और वाणिज्य और उद्योग राज्य मंत्री जितिन प्रसाद उपस्थित थे। बेल्जियम की ओर से फ्लैंडर्स सरकार के मंत्री-अध्यक्ष मैथियास डाइपेन्डेल और वालोनिया के मंत्री-अध्यक्ष एड्रियन डोलिमोंट उपस्थित थे। यह मंच दोनों देशों के साथ-साथ यूरोपीय संघ के सार्वजनिक और निजी हितधारकों को एक साथ लाया ताकि दोनों देशों के बीच बढ़ते संपर्क को ठोस आर्थिक और व्यापारिक अवसरों में बदलने के तरीकों पर चर्चा की जा सके।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:38+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-belgium-agreed-to-enhance-cooperation-in-various-sectors/",
+        "post_id": 1740577,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "politics": [
       {
+        "title": "राष्ट्रपति, उपराष्ट्रपति और प्रधानमंत्री ने भगवान जगन्नाथ रथ यात्रा के अवसर पर शुभकामनाएं दीं",
+        "summary": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ […]",
+        "article": "राष्ट्रपति द्रौपदी मुर्मु, उपराष्ट्रपति सी. पी. राधाकृष्णन और प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर देश-विदेश के लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पोस्ट में राष्ट्रपति ने कहा कि लोकमान्यता है कि इस पवित्र यात्रा की महान परंपरा के दौरान चक्रराज सुदर्शन, बड़े भाई बलभद्र तथा बहन सुभद्रा सहित महाप्रभु श्रीजगन्नाथ भक्तों से मिलते हैं। उन्होंने कहा कि भक्तों और भगवान के मिलन का यह भावपूर्ण अवसर अद्वितीय होता है। राष्ट्रपति ने कामना की कि महाप्रभु श्रीजगन्नाथ की कृपा से देश और देशवासियों की सुख-समृद्धि में निरंतर वृद्धि होती रहे। उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा है कि पवित्र रथ यात्रा आस्था, भक्ति, समानता और आपसी सद्भाव के मूल्यों को दर्शाती है और सभी मतभेदों से ऊपर उठकर लोगों को एक साथ लाती है। सोशल मीडिया पोस्ट में उन्होंने कहा कि यह हमारी समृद्ध सांस्कृतिक विरासत और स्थायी आध्यात्मिक परंपराओं का एक जीवंत उत्सव है। प्रधानमंत्री नरेंद्र मोदी ने जगन्नाथ रथ यात्रा के अवसर पर लोगों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में, श्री मोदी ने रथ यात्रा को भारत की सदियों पुरानी आध्यात्मिक और सांस्कृतिक विरासत की एक शानदार अभिव्यक्ति बताया। उन्होंने कहा कि रथ यात्रा से जुड़ी परंपराओं ने भारत और दुनिया भर में कई पीढ़ियों को प्रेरित किया है और ये परंपराएँ विनम्रता, सामूहिक भागीदारी और निस्वार्थ सेवा का प्रतीक हैं। प्रधानमंत्री ने प्रार्थना की कि महाप्रभु जगन्नाथ सभी को उत्तम स्वास्थ्य, सुख और समृद्धि का आशीर्वाद दें।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:58:02+00:00",
+        "link": "https://newsonair.gov.in/hi/the-president-vice-president-and-prime-minister-extended-their-greetings-on-the-occasion-of-the-lord-jagannath-rath-yatra/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/11-6.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "सरकार ने ईंधन निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया",
+        "summary": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्‍त सीमा शुल्‍क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 […]",
+        "article": "सरकार ने ईंधन निर्यात की पाक्षिक समीक्षा में पेट्रोल, डीजल और एविएशन टर्बाइन फ्यूल (एटीएफ) के निर्यात पर लगने वाले विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क में बदलाव किया है। बदली हुई दरों के तहत, डीजल के निर्यात पर कर बढ़ाकर 15.50 रुपये प्रति लीटर कर दिया गया है जबकि एटीएफ के निर्यात पर कर बढ़ाकर 14.50 रुपये प्रति लीटर कर दिया गया है। वहीं, पेट्रोल के निर्यात पर कर घटाकर दो रुपये 50 पैसे प्रति लीटर किया गया है। बदली हुई दरें आज से लागू हो गई हैं। हालांकि, घरेलू खपत के लिए इस्तेमाल होने वाले पेट्रोल और डीजल पर मौजूदा निर्यात शुल्&#x200d;क में कोई बदलाव नहीं किया गया है। पेट्रोल, डीजल और एटीएफ के निर्यात पर विशेष अतिरिक्&#x200d;त सीमा शुल्&#x200d;क इस साल 27 मार्च से लागू किया गया था। इसका उद्देश्&#x200d;य पश्चिम एशिया संकट के दौरान निर्यात को कम करके पेट्रोलियम उत्पादों की घरेलू उपलब्धता सुनिश्चित करना था। दरों की समीक्षा हर दो हफ़्ते में की जाती है। ये दरें पिछली समीक्षा के बाद की अवधि में कच्चे तेल, पेट्रोल, डीजल और एटीएफ की औसत अंतरराष्ट्रीय कीमतों के आधार पर तय की जाती हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T04:24:56+00:00",
+        "link": "https://newsonair.gov.in/hi/the-government-has-revised-the-special-additional-excise-duty-on-fuel-exports/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/12-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "प्रधानमंत्री नरेंद्र मोदी कल करेंगे हरियाणा, चंडीगढ़ और पंजाब का दौरा",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी कल हरियाणा, चंडीगढ़ और पंजाब का दौरा करेंगे। प्रधानमंत्री हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच भारत की पहली हाइड्रोजन रेलगाड़ी को हरी झंडी दिखाएंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14,700 करोड़ रुपये की लागत वाली कई विकास परियोजनाओं की आधारशिला रखेंगे और उन्हें राष्ट्र को समर्पित करेंगे। प्रधानमंत्री चंडीगढ़ में दोपहर में स्वास्थ्य सेवा, शिक्षा और सड़क के बुनियादी ढांचे से जुड़ी 6,600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी चंडीगढ़ के पोस्ट ग्रेजुएट इंस्टीट्यूट ऑफ मेडिकल एजुकेशन एंड रिसर्च में एडवांस्ड मदर एंड चाइल्ड सेंटर और एडवांस्ड न्यूरोसाइंसेस सेंटर का उद्घाटन करेंगे। प्रधानमंत्री जालंधर भी जाएंगे, जहां वे संपर्क तथा यात्रियों की सुविधा बढ़ाने और क्षेत्र में आर्थिक विकास को गति देने के उद्देश्य से 5,470 करोड़ रुपये से अधिक की कई विकास परियोजनाओं की आधारशिला रखेंगे और उनका उद्घाटन करेंगे। श्री मोदी &#8216;अमृत भारत स्टेशन योजना&#8217; के तहत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का उद्घाटन करेंगे।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:20:36+00:00",
+        "link": "https://newsonair.gov.in/hi/prime-minister-narendra-modi-to-visit-haryana-chandigarh-and-punjab-tomorrow/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/modi-ji.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "मौसम विभाग ने देश के विभिन्न हिस्सों में वर्षा का अनुमान व्यक्त किया",
+        "summary": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्‍यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 […]",
+        "article": "मौसम विभाग ने आज अरुणाचल प्रदेश, पश्चिम बंगाल के गांगेय क्षेत्र और ओडिशा के कुछ स्थानों पर अत्&#x200d;यधिक वर्षा की चेतावनी जारी की है। वहीं, असम, मेघालय, बिहार, छत्तीसगढ़, झारखंड, नागालैंड, मणिपुर, मिजोरम, त्रिपुरा, पश्चिम बंगाल के तराई वाले क्षेत्र, सिक्किम और उत्तराखंड में भी आज भारी बारिश की संभावना है। विभाग ने अगले 2 से 3 दिन में पंजाब, हरियाणा, चंडीगढ़, दिल्ली, पूर्वी और पश्चिमी राजस्थान तथा पश्चिमी उत्तर प्रदेश में मध्यम बारिश की संभावना व्&#x200d;यक्&#x200d;त की है। आंध्र प्रदेश, तमिलनाडु, पुद्दुचेरी और कराईक्&#x200d;काल में आज लू चलने का अनुमान है। &nbsp; दिल्ली में दिन के दौरान आंशिक रूप से बादल छाए रहने के साथ गर्म और उमस भरा मौसम रहने का अनुमान है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:08:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-meteorological-department-has-forecast-rainfall-in-various-parts-of-the-country/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/20260704207F-scaled.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "केंद्रीय मंत्रिमंडल ने वाराणसी के लिए ₹25,000 करोड़ से अधिक की दो एलिवेटेड सड़क परियोजनाओं को मंज़ूरी दी",
+        "summary": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन […]",
+        "article": "केंद्रीय मंत्रिमंडल ने उत्तर प्रदेश के वाराणसी के लिए 25 हजार करोड़ रुपये से ज़्यादा की दो एलिवेटेड राजमार्ग परियोजनाओं को मंज़ूरी दी है। प्रधानमंत्री नरेंद्र मोदी की अध्यक्षता वाली आर्थिक मामलों की कैबिनेट समिति ने वाराणसी में सड़क संपर्क को बेहतर बनाने और भीड़-भाड़ व यात्रा के समय को कम करने के लिए इन परियोजनाओं को मंज़ूरी दी। इन परियोजनाओं में उत्तर प्रदेश में राष्&#x200d;ट्रीय राजमार्ग-19 और वाराणसी रिंग रोड के बीच हाइब्रिड एन्युइटी मॉडल पर 46 किलोमीटर से ज़्यादा लंबा 6-लेन का ग्रीनफील्ड एलिवेटेड कॉरिडोर बनाना शामिल है। इसे कुल 14 हज़ार 400 करोड़ रुपये से ज़्यादा की लागत से बनाया जाएगा। सूचना और प्रसारण मंत्री अश्विनी वैष्णव ने नई दिल्ली में बताया कि दूसरी परियोजना वाराणसी शहर में वरुण नदी के किनारे लगभग 43 किलोमीटर लंबे, 6-लेन और 4-लेन के एलिवेटेड कॉरिडोर के विकास से जुड़ा है, जिसकी लागत लगभग 11 हज़ार करोड़ रुपये होगी। केंद्रीय मंत्रिमंडल ने देश में सेमीकंडक्टर डिज़ाइन और निर्माण को बढ़ावा देने के लिए 1 लाख 27 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ &#8216;सेमीकॉन 2.0&#8217; को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद भारत को ग्लोबल सेमीकंडक्टर मैप पर लाने की सरकार की प्रतिबद्धता को और बढ़ावा देना है। उन्होंने बताया कि &#8216;सेमीकॉन 2.0&#8217; के तहत चार लाख करोड़ रुपये के निवेश की उम्मीद है। श्री वैष्णव ने कहा कि कैबिनेट ने 62 हज़ार 500 करोड़ रुपये के बजट आवंटन के साथ मोबाइल फ़ोन उत्&#x200d;पादन योजना को भी मंज़ूरी दी। श्री वैष्णव ने कहा कि इस योजना का मकसद घरेलू मोबाइल फ़ोन उत्पादन को बढ़ाना, स्&#x200d;थानीय मूल्&#x200d;य संर्वधन और वैश्विक इलेक्ट्रॉनिक्स उत्&#x200d;पादन केन्&#x200d;द्र के तौर पर देश की स्थिति को मज़बूत करना है। मंत्रिमंडल ने ओडिशा और झारखंड के चार ज़िलों में दो मल्टी-ट्रैकिंग परियोजनाओं को भी मंज़ूरी दी, जिससे देश में रेल नेटवर्क लगभग 145 किलोमीटर बढ़ जाएगा। मंत्रिमंडल ने &#8216;आत्मनिर्भर भारत&#8217; के लिए यूरिया-2026 की राष्ट्रीय निवेश नीति को भी मंज़ूरी दी। इस नीति का उद्देश्&#x200d;य देश में गैस-आधारित यूरिया बनाने वाली इकाइयाँ लगाने के लिए यूरिया क्षेत्र में नए निवेश को बढ़ावा देना है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:56:16+00:00",
+        "link": "https://newsonair.gov.in/hi/the-union-cabinet-approved-two-elevated-road-projects-worth-over-%e2%82%b925000-crore-for-varanasi/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-1-4.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "रेल मंत्रालय ने टिकट बुकिंग में आसानी के लिए आईआरसीटीसी की नई वेबसाइट शुरू की",
+        "summary": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री […]",
+        "article": "रेल मंत्रालय ने रेल टिकट बुकिंग को आसान और अधिक सुविधाजनक बनाने के लिए भारतीय रेलवे कैटरिंग एंड टूरिज्म कॉरपोरेशन (आईआरसीटीसी) की वेबसाइट का एक नया वर्जन जारी किया है। आईआरसीटीसी ने इस वर्जन में चार बड़े सुधार किए हैं। पहला इसमें फालतू कैप्चा, पॉप-अप या ध्यान भटकाने वाली दूसरी चीज़ें नहीं हैं। दूसरा, यात्री सभी क्लास में सीट की उपलब्धता देख सकते हैं। तीसरा, इसमें टिकट बुक करने के लिए ज़रूरी स्टेप्स की संख्या कम है और वेबसाइट अब यात्रियों की जानकारी सेव कर लेगी, जिससे दोबारा बुकिंग करना आसान हो जाएगा। मौजूदा वेबसाइट के होमपेज पर भी इस नए बीटा वर्जन का लिंक उपलब्&#x200d;ध है। मंत्रालय ने उपयोगकर्ताओं से इसके आसान फ़ीचर्स पर फ़ीडबैक देने का अनुरोध किया है। आईआरसीटीसी वेबसाइट पहली बार 2002 में शुरू की गई थी और अभी यह हर दिन औसतन लगभग 14.5 लाख टिकट बुकिंग संभालती है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:46:59+00:00",
+        "link": "https://newsonair.gov.in/hi/the-ministry-of-railways-launched-a-new-irctc-website-to-make-ticket-booking-easier/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Untitled-design-15.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "ओडिशा के पुरी में भगवान जगन्नाथ की विश्व प्रसिद्ध रथ यात्रा आज से शुरू",
+        "summary": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्‍व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। […]",
+        "article": "भगवान जगन्नाथ, भगवान बलभद्र और देवी सुभद्रा की रथ यात्रा आज ओडिशा के पुरी में शुरू हो रही है। विश्&#x200d;व प्रसिद्ध रथ यात्रा के दौरान भगवान जगन्नाथ और उनके भाई-बहन रथों में विराजमान होकर श्रद्धालुओं को दर्शन देते हुए श्री गुंडिचा मंदिर जाते हैं, जिसे भगवान जगन्नाथ के मामा का निवास स्थान माना जाता है। लगभग 3 किलोमीटर की इस यात्रा का समापन श्री गुंडिचा मंदिर में होगा। भगवान जगन्&#x200d;नाथ, भगवान बलभद्र और देवी सुभद्रा नौ दिनों तक गुंडिचा मंदिर में ठहरते हैं। यात्रा पूरी करने के बाद उन्हीं रथों पर श्री मंदिर लौटते हैं, जिसे &#8216;बहुदा यात्रा&#8217; या वापसी रथ यात्रा कहा जाता है। इस रथ यात्रा में बड़ी संख्या में भक्&#x200d;त शामिल होते हैं। यात्रा के सुचारू संचालन को सुनिश्चित करने के लिए बहुस्तरीय सुरक्षा व्यवस्था की गई है।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:38:31+00:00",
+        "link": "https://newsonair.gov.in/hi/the-world-famous-rath-yatra-of-lord-jagannath-in-puri-odisha-begins-today/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/5-2.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दीं",
         "summary": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के […]",
         "article": "गृह मंत्री अमित शाह ने जगन्नाथ रथ यात्रा के अवसर पर देशवासियों को शुभकामनाएँ दी हैं। सोशल मीडिया पर पोस्ट में श्री शाह ने कहा कि विश्व प्रसिद्ध यह रथ यात्रा अटूट आस्था, विश्वास और भक्ति का प्रतीक है। उन्होंने कहा कि यह भारत की समृद्ध सांस्कृतिक विरासत को संरक्षित करती है और भगवान के प्रति अटूट श्रद्धा को दर्शाती है। उन्होंने भगवान से सभी के लिए सुख, शांति, समृद्धि और कल्याण की कामना की।",
@@ -1400,106 +1482,75 @@ window.VM_NEWS = {
         "source": "Prasar Bharati"
       },
       {
-        "title": "स्वतंत्रता दिवस समारोह से पहले आम जनता के लिए बंद किया गया लाल किला परिसर",
-        "summary": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे […]",
-        "article": "80वें स्वतंत्रता दिवस समारोह के लिए दिल्ली का लाल किला परिसर 15 अगस्त तक आम जनता के लिए बंद रहेगा। लालकिला परिसर में स्वतंत्रता दिवस समारोह की तैयारियों के मद्देनजर भारतीय पुरातत्व सर्वेक्षण विभाग ने यह आदेश जारी किया है। विभाग के एक वरिष्ठ अधिकारी ने बताया कि स्वतंत्रता दिवस से पहले हर साल ऐसे आदेश जारी किए जाते हैं। 15 अगस्त को केवल सरकार द्वारा जारी पास धारकों को ही लाल किला परिसर में प्रवेश करने और समारोह में शामिल होने की अनुमति होगी।",
+        "title": "मजबूती से आगे बढ़ रही है भारत-यूरोपीय संघ साझेदारी: विदेश मंत्री डॉ. एस. जयशंकर",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद की बैठक के बाद संवाददाताओं से यह बात कही। उन्होंने कहा कि भारत और यूरोपीय संघ के बीच स्वाभाविक जुड़ाव है। डॉ. जयशंकर ने कहा कि भारत और यूरोपीय संघ ने एक-दूसरे के साथ इस विश्वास को विकसित किया है और अब इसे व्यापार और प्रौद्योगिकी क्षेत्र में आगे बढ़ाने का प्रयास कर रहे हैं। डॉ. जयशंकर ने कहा कि भारत-यूरोपीय संघ होराइजन यूरोप कार्यक्रम पर बातचीत शुरू करेंगे। उन्होंने बताया कि बैठक के दौरान वे इलेक्ट्रिक वाहन चार्जिंग अवसंरचना मानकों पर पहला नवाचार केंद्र स्थापित करने पर सहमत हुए हैं। वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते को निष्पक्ष, न्यायसंगत और संतुलित बताया, जो दोनों देशों के हर क्षेत्र के लिए लाभकारी समझौता है। उन्होंने कहा कि दोनों देशों का दृष्टिकोण नवाचार-आधारित, भरोसेमंद और भविष्य के लिए तैयार विकास साझेदारी की ओर है। उन्होंने कहा कि यह बैठक इस सहयोग का एक महत्वपूर्ण स्तंभ बन गई है। श्री गोयल ने कहा कि इस बैठक से भारत-यूरोपीय संघ को चर्चाओं से बढ़कर क्रियान्वयन की दिशा में बढ़ने में मदद मिली है। उन्होंने कहा कि यूरोपीय संघ और भारत कुछ महत्वपूर्ण क्षेत्रों पर निर्भरता कम करने और विश्वसनीय एवं विविध आपूर्ति श्रृंखलाओं के निर्माण के लिए प्रतिबद्ध हैं।",
         "date": "2026-07-16",
-        "pubDate": "2026-07-16T01:00:55+00:00",
-        "link": "https://newsonair.gov.in/hi/red-fort-complex-closed-to-the-public-ahead-of-independence-day-celebrations/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/2-3.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "pubDate": "2026-07-16T03:38:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-eu-partnership-moving-beyond-the-entry-stage-external-affairs-minister-dr-s-jaishankar/",
+        "post_id": 1740627,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
-        "title": "मताधिकार का प्रयोग करना, लोकतंत्र में लोगों की आस्था की पुष्टि: उपराष्ट्रपति",
-        "summary": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन […]",
-        "article": "उपराष्ट्रपति सी. पी. राधाकृष्णन ने कहा कि मताधिकार का प्रयोग करके लोग लोकतंत्र में अपनी आस्था की पुष्टि करते हैं। उन्होंने निर्वाचित प्रतिनिधियों से ईमानदारी, निष्ठा और समर्पण के साथ सेवा करके इस विश्वास को कायम रखने का आह्वान किया। राजस्थान विधानसभा की 75वीं वर्षगांठ के अवसर पर जयपुर में एक सम्मेलन में श्री राधाकृष्णन ने कहा कि राज्य विधानसभाएं भारतीय लोकतंत्र की धड़कन हैं। उन्&#x200d;होंने कहा कि जहां संसद राष्ट्र की आकांक्षाओं को प्रतिबिंबित करती हैं, वहीं विधानसभाएं गांवों, कस्बों और परिवारों की आशाओं, सपनों और चिंताओं को आवाज देती हैं। उन्होंने कहा कि यही विधायी संस्थाओं की सच्ची भावना और गरिमा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:59:07+00:00",
-        "link": "https://newsonair.gov.in/hi/exercising-the-right-to-vote-reaffirms-peoples-faith-in-democracy-vice-president/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/03/CP-Radhakrishnan-Vice-President-Of-India.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने बीआरसीपी के तीसरे चरण का शुभारंभ किया",
-        "summary": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ […]",
-        "article": "विज्ञान और प्रौद्योगिकी मंत्री जितेंद्र सिंह ने आज जैव चिकित्सा अनुसंधान करियर कार्यक्रम (बीआरसीपी) के तीसरे चरण का शुभारंभ किया। यह जैव प्रौद्योगिकी विभाग और ब्रिटेन के वेलकम ट्रस्ट की संयुक्त पहल है। इस कार्यक्रम के लिए कुल 1500 करोड़ रुपये का बजट आवंटित किया गया है। इसमें जैव प्रौद्योगिकी विभाग का एक हजार करोड़ रुपये और वेलकम ट्रस्ट के 500 करोड़ रुपये शामिल हैं। डॉ. सिंह ने कहा कि बीआरसीपी का तीसरा चरण वैश्विक स्तर पर प्रतिस्पर्धी जैव चिकित्सा अनुसंधान कार्यबल विकसित करने के लिए फेलोशिप और अनुसंधान अनुदान के लिए निरंतर सहायता प्रदान करेगा। उन्होंने बताया कि देश की जैव-अर्थव्यवस्था 2014 में 10 अरब डॉलर से बढ़कर 2025 में 195 अरब डॉलर से अधिक हो गई है। 2030 तक इसके 300 अरब डॉलर तक पहुंचने की उम्मीद है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:53:27+00:00",
-        "link": "https://newsonair.gov.in/hi/science-and-technology-minister-jitendra-singh-launched-the-third-phase-of-brcp/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNRSkoebAAAc722.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में एसआईआर की समय सीमा बढ़ायी",
-        "summary": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता […]",
-        "article": "निर्वाचन आयोग ने पंजाब, कर्नाटक, तेलंगाना और दिल्ली में मतदाता सूची के विशेष गहन पुनरीक्षण (एसआईआर) की समय सीमा बढ़ा दी है। दिल्ली में मसौदा मतदाता सूची का प्रकाशन अब 5 अगस्त के बजाय 17 अगस्त को किया जाएगा। घर-घर जाकर 29 जुलाई तक जानकारी लेने का काम अब 8 अगस्त तक चलेगा। अंतिम मतदाता सूची 19 अक्टूबर को प्रकाशित की जाएगी। तेलंगाना में, मसौदा मतदाता सूची 10 अगस्त को, जबकि अंतिम मतदाता सूची 12 अक्टूबर को प्रकाशित की जाएगी। राज्य में बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 3 अगस्त तक चलेगा। कर्नाटक में, बूथ स्तर के अधिकारी का घर-घर जाकर जानकारी लेने का काम 29 जुलाई के बजाय 8 अगस्त तक चलेगा। राज्य में मसौदा मतदाता सूची 17 अगस्त को प्रकाशित की जाएगी, जबकि अंतिम मतदाता सूची का प्रकाशन 19 अक्टूबर को होगा। आयोग ने कल हरियाणा और आंध्र प्रदेश के लिए एसआईआर की समय सीमा बढ़ाई थी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:51:36+00:00",
-        "link": "https://newsonair.gov.in/hi/the-election-commission-extended-the-sir-deadline-for-punjab-karnataka-telangana-and-delhi/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/SIR.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत ने ब्रिटेन को किया 14 करोड़ डॉलर का निर्यात",
-        "summary": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्‍ट्र बनाने के विजन के […]",
-        "article": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू होने के पहले दिन भारत से ब्रिटेन को 14 करोड़ डॉलर का सामान निर्यात किया जा रहा है। नई दिल्ली में वाणिज्य और उद्योग मंत्रालय के सचिव राजेश अग्रवाल ने कहा कि यह समझौता प्रधानमंत्री नरेंद्र मोदी के भारत को 2047 तक विकसित राष्&#x200d;ट्र बनाने के विजन के अनुरूप है। उन्होंने कहा कि यह सबसे महत्वाकांक्षी और बड़े व्यापार समझौतों में से एक है। इससे दोनों पक्षों के लिए बाजार पहुंच के नए अवसर उपलब्&#x200d;ध होंगे। श्री अग्रवाल ने कहा कि इससे न केवल देश के व्यापार को बढ़ावा मिलेगा, बल्कि आने वाले दिनों में सेवाओं को भी गति मिलेगी। भारत में ब्रिटेन की उच्चायुक्त लिंडी कैमरून ने आकाशवाणी समाचार से विशेष बातचीत में कहा कि यह समझौता दोनों पक्षों के लिए बहुत फायदेमंद है। परिधान निर्यात संवर्धन परिषद के अध्यक्ष ए. शक्तिवेल ने आकाशवाणी समाचार को बताया कि इस समझौते के कारण डेढ़ साल में निर्यात दोगुना हो जाएगा। कृषि और प्रसंस्कृत खाद्य उत्पाद निर्यात विकास प्राधिकरण के अधिकारी तरुण बजाज ने बताया कि यह समझौता कृषि और प्रसंस्करण क्षेत्र के लिए लाभकारी होगा। रत्न और आभूषण निर्यात संवर्धन परिषद के कार्यकारी निदेशक सब्यसाची राय ने कहा कि इस समझौते से रत्न और आभूषण क्षेत्र को बहुत लाभ होगा। भारतीय कृषि और खाद्य परिषद के कार्यकारी निदेशक संजय सेठी ने बताया कि यह समझौता कृषि क्षेत्र को बढ़ावा देगा। भारतीय वस्त्र उद्योग परिसंघ की महासचिव चंद्रिमा चटर्जी ने आकाशवाणी समाचार से बातचीत में कहा कि समझौते से वस्त्र क्षेत्र को बहुत आशाएं हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:48:23+00:00",
-        "link": "https://newsonair.gov.in/hi/on-the-first-day-of-the-india-uk-comprehensive-economic-and-trade-agreement-coming-into-effect-india-exported-goods-worth-140-million-to-the-uk/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-2.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "‘एक देश, एक चुनाव’ के प्रस्ताव पर जेपीसी की लखनऊ में परामर्श बैठक पूरी",
-        "summary": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्‍न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों […]",
-        "article": "&#8216;एक देश, एक चुनाव&#8217; के प्रस्ताव से जुड़े ढांचे की जांच कर रही संयुक्त संसदीय समिति (जेपीसी) ने आज लखनऊ में तीन दिन की बातचीत और परामर्श बैठक पूरी की। समिति ने अंतिम दिन उत्तर प्रदेश के विभिन्&#x200d;न विश्वविद्यालयों और उच्च शिक्षण संस्थानों के कुलपतियों और निदेशकों के साथ-साथ कानून और राजनीति विज्ञान के विशेषज्ञों के साथ चर्चा की। समिति ने पद्म पुरस्कार से सम्मानित नागरिक समाज के प्रतिनिधियों और मीडिया के प्रमुख सदस्यों से भी बातचीत की। समिति ने कहा कि बातचीत के दौरान मिले सुझावों और विचारों पर अनुशंसाओं को अंतिम रूप देने से पहले और चर्चाओं पर विचार किया जाएगा। बैठक के बाद संवाददाताओं से बातचीत में जेपीसी के अध्यक्ष पी. पी. चौधरी ने कहा कि समिति अब तक 10 राज्यों का दौरा कर चुकी है। समिति को विभिन्&#x200d;न क्षेत्रों के लोगों से कई महत्वपूर्ण सुझाव प्राप्त हुए हैं। उन्होंने कहा कि समिति केवल राष्ट्रीय हित वाली अनुशंसाएं ही संसद में रखेगी।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:32:00+00:00",
-        "link": "https://newsonair.gov.in/hi/jpc-concludes-consultation-meeting-on-one-nation-one-election-proposal-in-lucknow/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/image-Photoroom-1-1.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "केंद्रीय मंत्री शिवराज सिंह चौहान ने कृषि को मजबूत करने के लिए सीएसआर के समर्थन का आह्वान किया",
-        "summary": "कृषि और किसान कल्‍याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक […]",
-        "article": "कृषि और किसान कल्&#x200d;याण मंत्री शिवराज सिंह चौहान ने आज स्टार्टअप, कौशल विकास और कृषि प्रौद्योगिकी के माध्यम से कृषि को मजबूत करने के लिए कॉर्पोरेट सामाजिक उत्तरदायित्व (सीएसआर) के समर्थन का आह्वान किया। नई दिल्ली में एक कार्यक्रम में उन्होंने उद्योग जगत से भारतीय सदाचार की भावना को अपनाते हुए अपनी आय का एक हिस्सा किसानों, कृषि अनुसंधान और ग्रामीण समुदायों के कल्याण के लिए समर्पित करने का आग्रह किया। उन्होंने कहा कि उद्योग जगत की यह जिम्मेदारी है कि वह सीएसआर के माध्यम से कृषि और ग्रामीण विकास में निवेश करके राष्ट्र निर्माण में भागीदार बने। कृषि मंत्री ने कहा कि सीएसआर निवेश जलवायु परिवर्तन के अनुकूल कृषि, मृदा स्वास्थ्य, पोषण-सुरक्षित खाद्य प्रणाली, कृषि कौशल विकास और महिला किसानों की उद्यमिता जैसे क्षेत्रों में महत्&#x200d;वपूर्ण बदलाव करते हैं।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:28:26+00:00",
-        "link": "https://newsonair.gov.in/hi/union-minister-shivraj-singh-chouhan-called-for-csr-support-to-strengthen-agriculture/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Shivraj-2.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "प्रधानमंत्री मोदी भारत की पहली हाइड्रोजन रेलगाड़ी को दिखाएंगे हरी झंडी",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्‍यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को हरियाणा के जींद रेलवे स्टेशन पर जींद और सोनीपत के बीच चलने वाली भारत की पहली हाइड्रोजन रेलगाड़ी को रवाना करेंगे। श्री मोदी जींद के एकलव्य स्टेडियम में लगभग 14 हजार 700 करोड़ रुपये की विभिन्न विकास परियोजनाओं का शिलान्&#x200d;यास और लोकार्पण करेंगे। प्रधानमंत्री दोपहर को चंडीगढ़ में स्वास्थ्य सेवा, शिक्षा और सड़क अवसंरचना सहित 6 हजार 600 करोड़ रुपये से अधिक की विभिन्न विकास परियोजनाओं का लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी चंडीगढ़ के स्&#x200d;नातकोत्&#x200d;तर चिकित्&#x200d;सा शिक्षा और अनुसंधान संस्&#x200d;थान में आधुनिक मातृ और शिशु केंद्र तथा एडवांस्ड न्यूरोसाइंसेज सेंटर का भी लोकार्पण करेंगे। प्रधानमंत्री जालंधर में यात्रियों की सुविधा में सुधार करने और क्षेत्र में आर्थिक विकास को गति देने के लिए 5 हजार 470 करोड़ रुपये से अधिक की विकास परियोजनाओं की लोकार्पण और शिलान्&#x200d;यास करेंगे। श्री मोदी अमृत भारत स्टेशन योजना के अंतर्गत जालंधर कैंट सहित 75 पुनर्विकसित रेलवे स्टेशनों का लोकार्पण भी करेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:23:03+00:00",
-        "link": "https://newsonair.gov.in/hi/prime-minister-modi-will-flag-off-indias-first-hydrogen-train/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/06/modi-odi.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन के बीच आज से लागू हुआ व्यापक, आर्थिक और व्यापार समझौता",
-        "summary": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। […]",
-        "article": "भारत और ब्रिटेन के बीच व्यापक, आर्थिक और व्यापार समझौता आज से लागू हो गया। इस ऐतिहासिक समझौते से भारतीय निर्यात की 99 प्रतिशत वस्तुओं को ब्रिटेन के बाजार तक शुल्क मुक्त पहुंच मिलेगी। यह समझौता लागू होना वैश्विक रूप से एकीकृत, लचीली और प्रतिस्पर्धी अर्थव्यवस्था बनने की भारत की यात्रा में महत्वपूर्ण कदम है। हमारे संवाददाता ने बताया कि दोनों देशों के बीच यह समझौता भारत की आर्थिक कूटनीति का नया चरण है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T16:19:29+00:00",
-        "link": "https://newsonair.gov.in/hi/comprehensive-economic-and-trade-agreement-between-india-and-the-uk-comes-into-effect-today/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/Screenshot-2026-07-15-214902.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
+        "title": "भारत और बेल्जियम विभिन्न क्षेत्रों में सहयोग बढ़ाने पर सहमत हुए",
+        "summary": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों […]",
+        "article": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों को मजबूत करने पर चर्चा हुई। रणनीतिक संवाद के उद्घाटन सत्र की सह-अध्यक्षता विदेश मंत्री डॉ. एस. जयशंकर और बेल्जियम के उप प्रधानमंत्री और विदेश मामलों, यूरोपीय मामलों और विकास सहयोग मंत्री मैक्सिम प्रीवोट ने की। डॉ. जयशंकर ने कहा कि यूरोप के साथ भारत के जुड़ाव में बेल्जियम का एक विशेष स्थान है। उन्होंने कहा कि जैसे-जैसे द्विपक्षीय साझेदारी बढ़ रही है, भारत-यूरोपीय संघ के संबंध प्रगाढ़ होते जा रहे हैं। श्री प्रीवोट ने कहा कि पिछले वर्ष मार्च में बेल्जियम के आर्थिक मिशन ने दोनों देशों के बीच आर्थिक संबंधों की मजबूती और गतिशीलता को बढ़ाया। उन्होंने कहा कि व्यापार, निवेश और नवाचार दोनों देशों को और करीब ला रहा है और भविष्य के सहयोग के लिए ठोस आधार दे रहा है। इस मंच में डॉ. जयशंकर, वाणिज्य और उद्योग मंत्री पीयूष गोयल और वाणिज्य और उद्योग राज्य मंत्री जितिन प्रसाद उपस्थित थे। बेल्जियम की ओर से फ्लैंडर्स सरकार के मंत्री-अध्यक्ष मैथियास डाइपेन्डेल और वालोनिया के मंत्री-अध्यक्ष एड्रियन डोलिमोंट उपस्थित थे। यह मंच दोनों देशों के साथ-साथ यूरोपीय संघ के सार्वजनिक और निजी हितधारकों को एक साथ लाया ताकि दोनों देशों के बीच बढ़ते संपर्क को ठोस आर्थिक और व्यापारिक अवसरों में बदलने के तरीकों पर चर्चा की जा सके।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:38+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-belgium-agreed-to-enhance-cooperation-in-various-sectors/",
+        "post_id": 1740577,
+        "image_url": "",
+        "image_credit": "",
         "source": "Prasar Bharati"
       }
     ],
     "world": [
+      {
+        "title": "मजबूती से आगे बढ़ रही है भारत-यूरोपीय संघ साझेदारी: विदेश मंत्री डॉ. एस. जयशंकर",
+        "summary": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार […]",
+        "article": "विदेश मंत्री डॉ. एस. जयशंकर ने विश्वास व्यक्त किया कि भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद (टीटीसी) की बैठक भारत-यूरोपीय संघ साझेदारी को मजबूती से आगे बढ़ाएगी, जिसे प्रस्तावित भारत-यूरोपीय संघ मुक्त व्यापार समझौते (एफटीए), सुरक्षा एवं रक्षा साझेदारी और मोबिलिटी फ्रेमवर्क से बल मिल रहा है। उन्होंने ब्रसेल्स में तीसरी भारत-यूरोपीय संघ व्यापार एवं प्रौद्योगिकी परिषद की बैठक के बाद संवाददाताओं से यह बात कही। उन्होंने कहा कि भारत और यूरोपीय संघ के बीच स्वाभाविक जुड़ाव है। डॉ. जयशंकर ने कहा कि भारत और यूरोपीय संघ ने एक-दूसरे के साथ इस विश्वास को विकसित किया है और अब इसे व्यापार और प्रौद्योगिकी क्षेत्र में आगे बढ़ाने का प्रयास कर रहे हैं। डॉ. जयशंकर ने कहा कि भारत-यूरोपीय संघ होराइजन यूरोप कार्यक्रम पर बातचीत शुरू करेंगे। उन्होंने बताया कि बैठक के दौरान वे इलेक्ट्रिक वाहन चार्जिंग अवसंरचना मानकों पर पहला नवाचार केंद्र स्थापित करने पर सहमत हुए हैं। वाणिज्य एवं उद्योग मंत्री पीयूष गोयल ने भारत-यूरोपीय संघ मुक्त व्यापार समझौते को निष्पक्ष, न्यायसंगत और संतुलित बताया, जो दोनों देशों के हर क्षेत्र के लिए लाभकारी समझौता है। उन्होंने कहा कि दोनों देशों का दृष्टिकोण नवाचार-आधारित, भरोसेमंद और भविष्य के लिए तैयार विकास साझेदारी की ओर है। उन्होंने कहा कि यह बैठक इस सहयोग का एक महत्वपूर्ण स्तंभ बन गई है। श्री गोयल ने कहा कि इस बैठक से भारत-यूरोपीय संघ को चर्चाओं से बढ़कर क्रियान्वयन की दिशा में बढ़ने में मदद मिली है। उन्होंने कहा कि यूरोपीय संघ और भारत कुछ महत्वपूर्ण क्षेत्रों पर निर्भरता कम करने और विश्वसनीय एवं विविध आपूर्ति श्रृंखलाओं के निर्माण के लिए प्रतिबद्ध हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:38:45+00:00",
+        "link": "https://newsonair.gov.in/hi/india-eu-partnership-moving-beyond-the-entry-stage-external-affairs-minister-dr-s-jaishankar/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/ieu.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "भारत और बेल्जियम विभिन्न क्षेत्रों में सहयोग बढ़ाने पर सहमत हुए",
+        "summary": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों […]",
+        "article": "भारत और बेल्जियम व्यापार और निवेश, हरित ऊर्जा परिवर्तन, नवाचार और प्रौद्योगिकी, संपर्क, रक्षा, सुरक्षा, क्षेत्रीय और वैश्विक मुद्दों के साथ-साथ लोगों में परस्पर आदान-प्रदान जैसे क्षेत्रों में सहयोग को और बढ़ाने पर सहमत हुए हैं। भारत-बेल्जियम रणनीतिक संवाद की ब्रुसेल्स में आयोजित पहली बैठक में संरचित और व्यापक साझेदारी के माध्यम से द्विपक्षीय संबंधों को मजबूत करने पर चर्चा हुई। रणनीतिक संवाद के उद्घाटन सत्र की सह-अध्यक्षता विदेश मंत्री डॉ. एस. जयशंकर और बेल्जियम के उप प्रधानमंत्री और विदेश मामलों, यूरोपीय मामलों और विकास सहयोग मंत्री मैक्सिम प्रीवोट ने की। डॉ. जयशंकर ने कहा कि यूरोप के साथ भारत के जुड़ाव में बेल्जियम का एक विशेष स्थान है। उन्होंने कहा कि जैसे-जैसे द्विपक्षीय साझेदारी बढ़ रही है, भारत-यूरोपीय संघ के संबंध प्रगाढ़ होते जा रहे हैं। श्री प्रीवोट ने कहा कि पिछले वर्ष मार्च में बेल्जियम के आर्थिक मिशन ने दोनों देशों के बीच आर्थिक संबंधों की मजबूती और गतिशीलता को बढ़ाया। उन्होंने कहा कि व्यापार, निवेश और नवाचार दोनों देशों को और करीब ला रहा है और भविष्य के सहयोग के लिए ठोस आधार दे रहा है। इस मंच में डॉ. जयशंकर, वाणिज्य और उद्योग मंत्री पीयूष गोयल और वाणिज्य और उद्योग राज्य मंत्री जितिन प्रसाद उपस्थित थे। बेल्जियम की ओर से फ्लैंडर्स सरकार के मंत्री-अध्यक्ष मैथियास डाइपेन्डेल और वालोनिया के मंत्री-अध्यक्ष एड्रियन डोलिमोंट उपस्थित थे। यह मंच दोनों देशों के साथ-साथ यूरोपीय संघ के सार्वजनिक और निजी हितधारकों को एक साथ लाया ताकि दोनों देशों के बीच बढ़ते संपर्क को ठोस आर्थिक और व्यापारिक अवसरों में बदलने के तरीकों पर चर्चा की जा सके।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:13:38+00:00",
+        "link": "https://newsonair.gov.in/hi/india-and-belgium-agreed-to-enhance-cooperation-in-various-sectors/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/8-5.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "यूक्रेन: राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने सेरगी कोरेत्स्की को प्रधानमंत्री बनाने का समर्थन किया",
+        "summary": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने सरकारी ऊर्जा कंपनी &#8216;नाफ़्टोगैस&#8217; के प्रमुख सेरगी कोरेत्स्की को यूक्रेन का नया प्रधानमंत्री बनाने का समर्थन किया है। ज़ेलेंस्की ने इस सप्‍ताह प्रधानमंत्री यूलिया स्विरीदेंको को उनके पद से हटा दिया। उनका इस पद पर कार्यकाल सिर्फ़ एक वर्ष रहा। संसद ने मंगलवार को उनका इस्तीफ़ा मंज़ूर कर लिया। […]",
+        "article": "यूक्रेन के राष्ट्रपति वोलोदिमीर ज़ेलेंस्की ने सरकारी ऊर्जा कंपनी &#8216;नाफ़्टोगैस&#8217; के प्रमुख सेरगी कोरेत्स्की को यूक्रेन का नया प्रधानमंत्री बनाने का समर्थन किया है। ज़ेलेंस्की ने इस सप्&#x200d;ताह प्रधानमंत्री यूलिया स्विरीदेंको को उनके पद से हटा दिया। उनका इस पद पर कार्यकाल सिर्फ़ एक वर्ष रहा। संसद ने मंगलवार को उनका इस्तीफ़ा मंज़ूर कर लिया। उम्मीद है कि आज नए प्रधानमंत्री के लिए वोट डाले जाएंगे। कीव में संवाददाताओं से ज़ेलेंस्की ने कहा कि सेरगी कोरेत्स्की प्रधानमंत्री पद के लिए सबसे उपयुक्&#x200d;त उम्मीदवार हैं।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T03:04:54+00:00",
+        "link": "https://newsonair.gov.in/hi/ukraine-president-volodymyr-zelenskyy-backed-sergiy-koretskyi-to-become-prime-minister/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/12/ukraine-president-volodymyr-zenesky-speaks-at-press-conference-march-15-2025.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "अमरीका ने होर्मुज़ जलडमरूमध्य में जहाज़ों की सुरक्षित आवाजाही के लिए ईरान पर फिर हमले किए",
+        "summary": "अमरीका ने दावा किया है कि उसने होर्मुज़ जलडमरूमध्य में जहाजों की सुरक्षित आवाजाही के लिए ईरान पर हमलों का एक नया दौर शुरू किया है। अमरीकी सेना ने कहा कि उसने कल ईरान पर दूसरा बड़ा हमला किया, जिसका मकसद होर्मुज़ जलडमरूमध्य में जहाजों को निशाना बनाने की ईरान की क्षमता को खत्‍म करना […]",
+        "article": "अमरीका ने दावा किया है कि उसने होर्मुज़ जलडमरूमध्य में जहाजों की सुरक्षित आवाजाही के लिए ईरान पर हमलों का एक नया दौर शुरू किया है। अमरीकी सेना ने कहा कि उसने कल ईरान पर दूसरा बड़ा हमला किया, जिसका मकसद होर्मुज़ जलडमरूमध्य में जहाजों को निशाना बनाने की ईरान की क्षमता को खत्&#x200d;म करना था। राष्ट्रपति डॉनल्&#x200d;ड ट्रंप इस महत्&#x200d;वपूर्ण जलमार्ग पर ईरान की पकड़ को कमजोर करने के लिए अमरीकी सैन्य अभियान को बढ़ाने के विकल्पों पर भी विचार कर रहे हैं। आज सुबह एक जोरदार धमाके के बाद तेहरान में एयर डिफेंस सिस्टम एक्टिवेट कर दिए गए। ईरान ने दावा किया कि उसने बहरीन और कुवैत समेत इस इलाके में अमरीकी सैन्य ठिकानों पर हमले किए हैं। अमरीकी सेना ने कहा कि उसने ईरान के लिए आर्थिक रूप से बेहद अहम खार्ग द्वीप की ओर जा रहे एक खाली तेल टैंकर को रोक दिया है। अमरीका द्वारा नौसैनिक नाकेबंदी फिर से लागू किए जाने के बाद यह पहला जहाज है जिसे रोका गया है। ईरानी विदेश मंत्रालय के प्रवक्ता ने कहा कि उनकी अमरीका के साथ बातचीत करने की कोई योजना नहीं है। राष्ट्रपति ने सोशल मीडिया पोस्&#x200d;ट में कहा कि ईरान ने दिसंबर 2024 से हिरासत में रखी गई एक अमरीकी महिला को रिहा कर दिया है और उन्होंने तेहरान के इस सद्भावनापूर्ण कदम की प्रशंसा की।",
+        "date": "2026-07-16",
+        "pubDate": "2026-07-16T02:35:04+00:00",
+        "link": "https://newsonair.gov.in/hi/us-says-it-launched-new-wave-of-strikes-on-iran-aimed-at-protecting-vessels-in-strait-of-hormuz/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/04/hormuz-1.webp",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
       {
         "title": "केंद्र शासित प्रदेश चंडीगढ़ में एस.आई. आर. का गणना चरण सफलतापूर्वक संपन्न",
         "summary": "केंद्र शासित प्रदेश चंडीगढ़ में विशेष गहन पुनरीक्षण (एस आई आर) का गणना चरण सफलतापूर्वक संपन्न हो गया है। प्रारूप निर्वाचक नामावली 21 जुलाई 2026 को प्रकाशित की जाएगी। मुख्य निर्वाचन अधिकारी प्रेरणा पुरी ने आज चंडीगढ़ में पत्रकार वार्ता में कहा कि गणना चरण 15 जून से 14 जुलाई तक संचालित किया गया। इस […]",
@@ -1563,50 +1614,6 @@ window.VM_NEWS = {
         "pubDate": "2026-07-15T10:10:50+00:00",
         "link": "https://newsonair.gov.in/hi/palestine-welcomed-indias-decision-regarding-three-development-projects/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/IMG-20251030-WA0050.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
-        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
-        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:57:25+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:52:20+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत ने संयुक्त राष्ट्र में घटते लोगों के विश्वास पर चिंता जताई",
-        "summary": "भारत ने आगाह किया है कि संयुक्‍त राष्‍ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्‍त राष्‍ट्र में विश्‍वास घट रहा है। संयुक्‍त राष्‍ट्र में भविष्‍य के लिए बहुपक्षवाद को उपयुक्‍त बनाने संबंधी विषय पर मंत्रिस्‍तरीय गोलमेज सम्‍मेलन में भारत के स्‍थायी प्रतिनिधि पी. […]",
-        "article": "भारत ने आगाह किया है कि संयुक्&#x200d;त राष्&#x200d;ट्र सुरक्षा परिषद में सुधार न होने और वैश्विक संघर्षों का प्रभावी समाधान न निकाल पाने से लोगों का संयुक्&#x200d;त राष्&#x200d;ट्र में विश्&#x200d;वास घट रहा है। संयुक्&#x200d;त राष्&#x200d;ट्र में भविष्&#x200d;य के लिए बहुपक्षवाद को उपयुक्&#x200d;त बनाने संबंधी विषय पर मंत्रिस्&#x200d;तरीय गोलमेज सम्&#x200d;मेलन में भारत के स्&#x200d;थायी प्रतिनिधि पी. हरीश ने कहा कि सुरक्षा परिषद चल रहे संघर्षों में सार्थक हस्&#x200d;तक्षेप करने में विफल रही है। इससे अंतर्राष्&#x200d;ट्रीय शांति और सुरक्षा बनाए रखने में उसकी क्षमता पर सवाल उठ रहे हैं। श्री हरीश ने कहा कि 80 वर्ष पुरानी संयुक्&#x200d;त राष्&#x200d;ट्र संरचना मौजूदा वैश्विक चुनौतियों से निपटने में अब उपयुक्&#x200d;त नहीं रह गई है। उन्&#x200d;होंने कहा कि भविष्&#x200d;य के लिए समझौते के अंतर्गत कार्य सूत्र सिर्फ कागजों में बन कर रह गए है। इस समझौते में हिंसा, नस्&#x200d;लवाद और विदेशियों से नफरत समाप्&#x200d;त करना, समानता को बढ़ावा देना और शांति स्&#x200d;थापना को मजबूत करना शामिल है। उन्&#x200d;होंने कहा कि सार्थक सुधारों की अत्&#x200d;यंत आवश्&#x200d;यकता है। श्री हरीश ने कहा कि समझौते के कुछ कार्य बिंदुओं पर भारत की कुछ महत्&#x200d;वपूर्ण आपत्तियां हैं। लेकिन भारत ने समझौते का सकारात्&#x200d;मक रूप से समर्थन किया है। उन्&#x200d;होंने संयुक्&#x200d;त राष्&#x200d;ट्र आम सभा को पुन: सशक्&#x200d;त करना और सतत विकास में प्रगति के लिए आर्थिक तथा सामाजिक परिषद की भूमिका को सुदृढ़ करने का आह्वान किया। अल्&#x200d;प विकसित और विकासशील देशों पर श्री हरीश ने कहा कि भारत इन देशों में संसाधनों की आवाजाही के लिए प्रतिबद्ध है और ये सुनिश्चित करता है कि कोई भी देश पीछे न रहे। उन्&#x200d;होंने अंतर्राष्&#x200d;ट्रीय वित्&#x200d;तीय संसाधनों से अधिक प्रतिनिधित्&#x200d;व, जवाबदेह और विकासोन्&#x200d;मुख बनने का आह्वान किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:48:37+00:00",
-        "link": "https://newsonair.gov.in/hi/un-reforms/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/06/UNSC-Harish-P.png",
-        "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "12वें ब्रिक्स श्रम और रोजगार मंत्रियों की बैठक हैदराबाद में शुरू",
-        "summary": "भारत की 2026 की अध्यक्षता में हैदराबाद में 12वें ब्रिक्स श्रम और रोजगार मंत्रियों की बैठक शुरू हो गई है। केंद्रीय मंत्री डॉ. मनसुख मांडविया और राज्य मंत्री शोभा करंदलाजे की अध्यक्षता में हो रही इस उच्च स्तरीय चर्चा में सामाजिक सुरक्षा को बढ़ावा देना, कार्यबल में महिलाओं की भागीदारी बढ़ाना, वैश्विक कौशल का आकलन […]",
-        "article": "भारत की 2026 की अध्यक्षता में हैदराबाद में 12वें ब्रिक्स श्रम और रोजगार मंत्रियों की बैठक शुरू हो गई है। केंद्रीय मंत्री डॉ. मनसुख मांडविया और राज्य मंत्री शोभा करंदलाजे की अध्यक्षता में हो रही इस उच्च स्तरीय चर्चा में सामाजिक सुरक्षा को बढ़ावा देना, कार्यबल में महिलाओं की भागीदारी बढ़ाना, वैश्विक कौशल का आकलन करना और गिग और प्लेटफॉर्म श्रमिकों के लिए डिजिटल प्रौद्योगिकियों का लाभ उठाना जैसे विषयों पर ध्यान केंद्रित किया जा रहा है।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T07:46:15+00:00",
-        "link": "https://newsonair.gov.in/hi/brics-labour-meet/",
-        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/HNQH30gXwAABUDZ.jpg",
         "image_credit": "Prasar Bharati / Akashvani News",
         "source": "Prasar Bharati"
       }
@@ -1725,6 +1732,28 @@ window.VM_NEWS = {
     ],
     "business": [
       {
+        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
+        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
+        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:57:25+00:00",
+        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/india-uk.png",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
+        "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
+        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
+        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
+        "date": "2026-07-15",
+        "pubDate": "2026-07-15T08:52:20+00:00",
+        "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
+        "image_url": "https://newsonair.gov.in/wp-content/uploads/2026/07/PM-Modi-becomes-first-Indian-Prime-Minister-to-address-Indonesian-Parliament.jpg",
+        "image_credit": "Prasar Bharati / Akashvani News",
+        "source": "Prasar Bharati"
+      },
+      {
         "title": "भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता लागू, नेताओं और उद्योग जगत ने बताया ऐतिहासिक मील का पत्थर",
         "summary": "रक्षा मंत्री राजनाथ सिंह ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता आज से लागू हो गया है। ये समझौता भारत की आर्थिक वृद्धि और वैश्विक साझेदारियों को मजबूत करने की दिशा में एक महत्वपूर्ण कदम है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि यह समझौता निर्यात को बढ़ावा देगा, सूक्षम, लघु […]",
         "article": "रक्षा मंत्री राजनाथ सिंह ने कहा कि भारत-ब्रिटेन व्यापक आर्थिक और व्यापार समझौता आज से लागू हो गया है। ये समझौता भारत की आर्थिक वृद्धि और वैश्विक साझेदारियों को मजबूत करने की दिशा में एक महत्वपूर्ण कदम है। सोशल मीडिया पोस्ट में श्री सिंह ने कहा कि यह समझौता निर्यात को बढ़ावा देगा, सूक्षम, लघु और मध्यम उद्यमों के लिए नए अवसर पैदा करेगा, भारतीय उद्योगों को समर्थन देगा और ब्रिटेन में कार्यरत पेशेवरों को लाभ पहुंचाएगा। इससे रोजगार और निवेश के नए द्वार खुलेंगे। श्री सिंह ने कहा कि प्रधानमंत्री नरेंद्र मोदी के नेतृत्व में भारत लगातार ऐसे समझौते कर रहा है जो देश की अर्थव्यवस्था को मजबूत करते हैं, वैश्विक अवसरों का विस्तार करते हैं और एक विकसित भारत के दृष्टिकोण में योगदान देते हैं। केंद्रीय उपभोक्ता मामलों के मंत्री प्रल्हाद जोशी ने कहा कि यह समझौता एक ऐतिहासिक कदम है जो देश के आर्थिक हितों को मजबूत और किसानों तथा कृषि क्षेत्र को सुदृढ बनाता है। उन्होंने कहा कि भारत और ब्रिटेन के बीच आर्थिक संबंधों को मजबूत करने की दिशा में यह समझौता एक परिवर्तनकारी कदम है। उद्योग जगत ने भारत-ब्रिटेन मुक्त व्यापार समझौते को ऐतिहासिक मील का पत्थर बताया है। फिक्&#x200d;की के महासचिव अनंत स्वरूप ने कहा कि यह समझौता वैश्विक मूल्&#x200d;य श्रृंखलाओं में भारत की भागीदारी बढ़ाने और नवाचार आधारित विकास को प्रोत्&#x200d;साहित करने में महत्&#x200d;वपूर्ण भूमिका निभाएगा। श्री स्वरूप ने भारत-ब्रिटेन मुक्त व्यापार समझौते को लागू होने पर प्रधानमंत्री नरेंद्र मोदी को बधाई दी है। उन्होंने कहा कि यह समझौता नवाचार, प्रौद्योगिकी और बेहतर सहयोग को बढ़ावा देकर, भारतीय उद्योग जगत की प्रतिस्पर्धात्मक क्षमता को भी मजबूत करेगा। एसओचैम के अध्&#x200d;यक्ष निर्मल कुमार मिंडा ने कहा कि यह समझौता भारत की मुक्त व्यापार समझौते यात्रा में एक ऐतिहासिक उपलब्धि है, जो दुनिया के दो सबसे पुराने लोकतंत्रों को एक व्यापक मुक्&#x200d;त व्&#x200d;यापार समझौते के माध्&#x200d;यम से जोडता है। उन्होंने कहा कि इस समझौते के अंतर्गत भारत के 99 प्रतिशत निर्यात को ब्रिटेन के बाजार में कोई ड्यूटी नहीं लगेगी। श्री मिंडा ने कहा कि इस समझौते से भारत के कपड़ा, चमडा, समुद्री उत्पाद, रत्न और आभूषण, इंजीनियरिंग सामान और केमिकल जैसे भारतीय क्षेत्रों को लाभ होने की उम्मीद है। ट्रेड प्रमोशन काउंसिल ऑफ़ इंडिया के चेयरमैन, मोहित सिंगला ने कहा कि भारत-ब्रिटेन व्&#x200d;यापार समझौते का क्रियान्&#x200d;वयन भारत की सबसे महत्वपूर्ण आर्थिक साझेदारी में से एक है। उन्होंने कहा कि यह यह समझौता भारतीय निर्याताकों के लिए अवसर का एक नया अध्&#x200d;याय खोलता है। इसके माध्&#x200d;यम से ब्रिटेन के बाजार में बेहतर पहुंच और समान अवसरों का लाभ मिलेगा।",
@@ -1777,30 +1806,6 @@ window.VM_NEWS = {
         "link": "https://newsonair.gov.in/hi/epfo-officially-announces-8-25-interest-rate-on-epf-deposits-for-the-financial-year-2025-26/",
         "image_url": "https://newsonair.gov.in/wp-content/uploads/2025/10/dgrmc13c_epfo_625x300_09_April_25.webp",
         "image_credit": "Prasar Bharati / Akashvani News",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "भारत-ब्रिटेन सीईटीए लागू, पहली निर्यात खेप चेन्नई, अहमदाबाद और मुंबई से रवाना",
-        "summary": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्‍वपूर्ण उपलब्धियों के रूप में चेन्‍नई स्थित ब्रिटेन उप उच्‍चायोग में उप-उच्‍चायुक्‍त डॉ. सुतापा चौधरी ने आज विदेश व्‍यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्‍यापक आर्थिक और व्‍यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को […]",
-        "article": "भारत और ब्रिटेन के बीच द्विपक्षीय आर्थिक संबंधों में महत्&#x200d;वपूर्ण उपलब्धियों के रूप में चेन्&#x200d;नई स्थित ब्रिटेन उप उच्&#x200d;चायोग में उप-उच्&#x200d;चायुक्&#x200d;त डॉ. सुतापा चौधरी ने आज विदेश व्&#x200d;यापार महानिदेशालय के अधिकारियों के साथ भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौते के तहत पहली निर्यात खेप को रवाना किया। इस समझौते से दोनों देशों के नागरिकों को ठोस आर्थिक लाभ पहुंचने की उम्&#x200d;मीद है। चेन्&#x200d;नई में आयोजित इस समारोह में डॉ. चौधरी ने कहा कि भारत-ब्रिटेन व्&#x200d;यापक आर्थिक और व्&#x200d;यापार समझौता नए बाजार अवसर खोलने और घरेलू अर्थव्&#x200d;यवस्&#x200d;था के संवेदनशील क्षेत्रों की सुरक्षा के बीच संतुलन स्&#x200d;थापित करता है। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त स्टीव हिकलिंग और विदेश व्&#x200d;यापार महानिदेशालय संयुक्&#x200d;त निदेशक डॉ. राहुल सिंह ने आज अहमदाबाद के साणंद में स्थित इनलैंड कंटेनर डिपो से समझौते के तहत पहली निर्यात खेप को रवाना किया। तीन करोड़ सात लाख रुपये से अधिक मूल्य की इस पहली खेप में अहमदाबाद की विनिर्माण क्षमता की झलक मिलती है। इसमें औद्योगिक उपकरण, दवाइंया, ऑटोमोबाइल, पॉलिमर और वस्&#x200d;त्र सहित सात प्रमुख क्षेत्रीय निर्यातकों के उत्&#x200d;पाद शामिल हैं। ब्रिटेन के उप-उच्&#x200d;चायुक्&#x200d;त ने कहा कि यह व्यापार समझौता केवल तात्&#x200d;कालिक आदान-प्रदान समिति नहीं है, बल्कि दोनों देशों के बीच अधिक मजबूत और व्&#x200d;यापक, आथिक तथा राजनीतिक संबंधों की शुरुआत का संकेत है। इस अवसर पर डॉ. राहुल सिंह ने बताया कि वस्&#x200d;त्र, चमड़ा, फार्मास्यूटिकल्स और इंजीनियरिंग उत्पादों जैसे प्रमुख क्षेत्रों को पूर्ण शुल्&#x200d;क मुक्&#x200d;त बाजार पहुंच मिलेगी। महाराष्&#x200d;ट्र में मुंबई के न्&#x200d;हावा शेवा और सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक निर्यात प्रोसेसिंग क्षेत्र-विशेष आर्थिक क्षेत्र से भी खेपों को रवाना किया गया। न्&#x200d;हावा शेवा से विदेश व्&#x200d;यापार महानिदेशालय, ने सात निर्यातकों की खेप को रवाना किया। इसमें रसायन, फॉर्मास्&#x200d;युटिकल, प्&#x200d;लास्टिक, खाद्य उत्&#x200d;पाद, मसाले शामिल थे। भारत के पहले विशेष आर्थिक क्षेत्र- सान्&#x200d;ताक्रूज इलैक्&#x200d;ट्रॉनिक नियात प्रोसेसिंग क्षेत्र-एसईजेड और आभूषणों और रत्&#x200d;नों के प्रमुख निर्यात केंद्र से विकास आयुक्&#x200d;त द्यानेश्&#x200d;वर बी. पाटिल ने ब्रिटेन के लिए निर्यात खेपों को रवाना किया।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:57:25+00:00",
-        "link": "https://newsonair.gov.in/hi/india-uk-ceta-export/",
-        "post_id": 1739351,
-        "image_url": "",
-        "image_credit": "",
-        "source": "Prasar Bharati"
-      },
-      {
-        "title": "पीएम मोदी ने भारत-ब्रिटेन व्यापार समझौते को किसानों और एमएसएमई के लिए बड़ा अवसर बताया",
-        "summary": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के […]",
-        "article": "प्रधानमंत्री नरेंद्र मोदी ने कहा कि आज से लागू हुआ व्यापक आर्थिक और व्यापार समझौता तथा सामाजिक सुरक्षा समझौता भारत-ब्रिटेन की साझेदारी में एक महत्वपूर्ण क्षण है। श्री मोदी ने केंद्रीय वाणिज्य और उद्योग मंत्री पीयूष गोयल की सोशल मीडिया पोस्ट साझा करते हुए यह बात कही। प्रधानमंत्री ने कहा कि ये समझौता भारत के किसानों, उद्यमियों और सूक्ष्&#x200d;म, लघु और मध्यम उद्यमों को नई गति प्रदान करेगा, साथ ही कई महत्&#x200d;वपूर्ण क्षेत्रों को ब्रिटेन के बाजार तक मजबूत पहुंच प्राप्त करने में मदद करेगा। प्रधानमंत्री ने कहा कि इससे प्रौद्योगिकी, पेशेवर सेवाओं और नवाचार के क्षेत्र में सहयोग भी मजबूत होगा। इससे कुशल भारतीय प्रतिभाओं की आवाजाही को भी बढ़ावा मिलेगा। श्री मोदी ने कहा कि सामाजिक सुरक्षा समझौता ब्रिटेन में अस्थायी रूप से काम कर रहे भारतीय पेशेवरों को अमूल्य सहायता प्रदान करेगा और भारतीय उद्यमों की प्रतिस्पर्धात्मकता को मजबूत करेगा। उन्होंने कहा कि यह क्षण भारत-ब्रिटेन के बीच विश्वास तथा व्यापार, प्रौद्योगिकी, निवेश और नवाचार द्वारा संचालित एक प्रगतिशील साझेदारी बनाने के उनके संकल्प को दर्शाता है। प्रधानमंत्री ने कहा कि भारत और ब्रिटेन साझा समृद्धि के लिए मिलकर काम करना जारी रखेंगे।",
-        "date": "2026-07-15",
-        "pubDate": "2026-07-15T08:52:20+00:00",
-        "link": "https://newsonair.gov.in/hi/pm-india-uk-ceta/",
-        "post_id": 1739196,
-        "image_url": "",
-        "image_credit": "",
         "source": "Prasar Bharati"
       },
       {
