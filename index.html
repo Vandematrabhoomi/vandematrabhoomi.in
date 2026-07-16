@@ -2,7 +2,13 @@
 <html lang="hi">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Fixed desktop-width viewport: phones render the full desktop layout
+       scaled to fit their screen (pinch-zoom to read), instead of a separate
+       cramped mobile arrangement. This is what makes the site look identical
+       on mobile and desktop -- the mobile media queries below no longer
+       trigger on phones (the viewport reports 1280px), and only apply if a
+       desktop window is dragged very narrow. -->
+  <meta name="viewport" content="width=1280">
   <title>वंदे मातृभूमि — Vande Matrabhoomi</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
