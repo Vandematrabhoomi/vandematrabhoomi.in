@@ -1095,8 +1095,11 @@
     .ad-strip .ad-banner-slot  { height: 130px; }
 
     /* ── Side Ad Rail — one long skyscraper strip that scrolls with the page,
-       top-aligned (via JS, see alignAdRail()) to wherever the current section's
-       own ad-banner starts, so it never floats independently of the content. ── */
+       top-aligned to wherever the current section's own ad-banner starts and
+       stretched all the way down to the bottom of the page (both set via JS,
+       see alignAdRail()) so it's never independently floating above the
+       content, and never runs out of height and leaves the lower part of the
+       page without an ad strip beside it. ── */
     .side-ad-rail {
       position: absolute; top: 210px; right: 18px; z-index: 50;
       display: flex; flex-direction: column;
@@ -2511,7 +2514,11 @@ function setSection(name) {
    visible section's own ad-banner (the "yellow strip"), instead
    of a hardcoded guess -- so it stays lined up no matter which
    tab is open, whether the breaking-news ticker is showing, or
-   which language's text is currently reflowing the masthead. ── */
+   which language's text is currently reflowing the masthead.
+   Also stretches the rail all the way down to the bottom of the
+   page, so the ad strip runs the full length of the page instead
+   of ending partway down and leaving bare space beside the rest
+   of the content as the page scrolls. ── */
 function alignAdRail() {
   var rail = document.querySelector('.side-ad-rail');
   var activeSection = document.querySelector('.section.active');
@@ -2519,7 +2526,9 @@ function alignAdRail() {
   var adBanner = activeSection.querySelector('.ad-banner');
   if (!adBanner) return;
   var top = adBanner.getBoundingClientRect().top + window.scrollY;
+  var pageBottom = document.documentElement.scrollHeight;
   rail.style.top = top + 'px';
+  rail.style.height = Math.max(pageBottom - top - 24, 320) + 'px';
 }
 window.addEventListener('resize', alignAdRail);
 window.addEventListener('load', alignAdRail);
@@ -2920,8 +2929,9 @@ function loadStories() {
       renderEditorialTeaser();
       renderVmBanner();
       if (currentFeed === 'vmdesk') renderVmDesk();
+      alignAdRail();
     })
-    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); });
+    .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); alignAdRail(); });
 }
 
 function renderEditorialTeaser() {
