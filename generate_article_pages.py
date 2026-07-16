@@ -159,7 +159,7 @@ def build_html(story):
     desc = re.sub(r"\s+", " ", (story.get("sum") or story.get("body") or "")).strip()[:200]
     body_paragraphs = [p.strip() for p in re.split(r"\n\n+", story.get("body") or "") if p.strip()]
     body_html = "\n".join(f"<p>{esc(p)}</p>" for p in body_paragraphs)
-    back_label = "← वंदे मातृभूमि पर और पढ़ें" if lang == "hi" else "← Read more on Vande Matrabhoomi"
+    back_label = "← वंदे मातृभूमि™ पर और पढ़ें" if lang == "hi" else "← Read more on Vande Matrabhoomi™"
     headline = story.get("hl") or ""
     category = story.get("cat") or ""
 
@@ -168,14 +168,14 @@ def build_html(story):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{esc(headline)} — Vande Matrabhoomi</title>
+<title>{esc(headline)} — Vande Matrabhoomi™</title>
 <meta name="description" content="{esc(desc)}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{esc(headline)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:image" content="{esc(image)}">
 <meta property="og:url" content="{esc(url)}">
-<meta property="og:site_name" content="Vande Matrabhoomi">
+<meta property="og:site_name" content="Vande Matrabhoomi™">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="{SITE_URL}/assets/vande-logo.png">
 <style>
@@ -191,7 +191,7 @@ p{{margin:0 0 16px;font-size:17px;}}
 </style>
 </head>
 <body>
-<div class="masthead"><img src="{SITE_URL}/assets/vande-logo.png" alt=""><span>वंदे मातृभूमि — Vande Matrabhoomi</span></div>
+<div class="masthead"><img src="{SITE_URL}/assets/vande-logo.png" alt=""><span>वंदे मातृभूमि™ — Vande Matrabhoomi™</span></div>
 <div class="cat">{esc(category)}</div>
 <h1>{esc(headline)}</h1>
 {f'<img class="hero" src="{esc(image)}" alt="">' if story.get("mediaUrl") else ''}
