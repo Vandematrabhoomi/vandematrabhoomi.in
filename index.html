@@ -1148,12 +1148,13 @@
     }
 
     /* ── Participate CTA box ──────────────────────────
-       Pinned to the viewport (position: fixed) at the top of the side
-       gutter, so it stays put in the exact same spot while the page --
-       and the ad rail beneath it -- scrolls, on every tab. z-index one
-       above the rail so the rail slides under it cleanly. ── */
+       Anchored at fixed page coordinates (position: absolute) at the top
+       of the side gutter -- the same spot on every tab, and it never
+       moves: it scrolls away with the page like normal content instead
+       of following the reader down. z-index one above the rail so the
+       rail slides under it cleanly. ── */
     .cta-box {
-      position: fixed; top: 120px; right: 18px; width: 160px; z-index: 51;
+      position: absolute; top: 120px; right: 18px; width: 160px; z-index: 51;
       background: linear-gradient(155deg, var(--red) 0%, var(--red-dark) 100%);
       border-radius: 6px;
       padding: 14px 12px 12px;
@@ -2657,8 +2658,8 @@ function setSection(name) {
    measuring the document meant an over-tall rail defined its own
    "page bottom" and could never shrink back, leaving the ad
    running long past the content with white space beside it.
-   (The participate CTA box is position:fixed via CSS and needs
-   no JS positioning.) ── */
+   (The participate CTA box is position:absolute at constant page
+   coordinates via CSS and needs no JS positioning.) ── */
 function alignAdRail() {
   var rail = document.querySelector('.side-ad-rail');
   var main = document.querySelector('.main');
