@@ -562,6 +562,9 @@
       font-size: 15px; font-weight: 600;
       color: rgba(255,255,255,.82); line-height: 1.4; margin-bottom: 4px;
     }
+    /* Older editorials in the sidebar link to their own article page */
+    .soi-link { display: block; text-decoration: none; color: inherit; }
+    .soi-link:hover .soi-title { color: #fff; text-decoration: underline; }
     .soi-author {
       font-family: 'Archivo', sans-serif;
       font-size: 11px; color: rgba(255,255,255,.38);
@@ -726,7 +729,9 @@
       font-family: 'Noto Serif Devanagari', serif;
       font-size: 17px; font-weight: 600;
       color: var(--text-primary); line-height: 1.4; margin-bottom: 6px;
+      display: block; text-decoration: none; /* it's a link to the story's own article page */
     }
+    a.story-hl:hover { color: var(--red); text-decoration: underline; }
     .story-sum { font-family: 'Noto Serif Devanagari', serif; font-size: 14px; color: var(--text-muted); line-height: 1.6; }
     .empty-state {
       border: 2px dashed #ccc; border-radius: 6px;
@@ -1793,7 +1798,11 @@
             <div class="author-name" id="op-author-name">Vande Matrabhoomi™</div>
             <div class="author-date" id="op-author-date">Editorial Desk</div>
           </div>
-          <button class="op-share-btn" id="op-share-btn" style="display:none;" onclick="shareArticle(stories[0] && stories[0].id, this)">
+          <!-- onclick is bound by renderOpinion() to the editorial actually
+               being displayed -- never hardcode stories[0] here: the newest
+               story overall can be a News post or VM short, whose link this
+               button must not hand out. -->
+          <button class="op-share-btn" id="op-share-btn" style="display:none;">
             <span data-hi="🔗 लिंक साझा करें" data-en="🔗 Share link">🔗 Share link</span>
           </button>
         </div>
@@ -2736,7 +2745,10 @@ function renderOpinion() {
   if (initEl)  initEl.textContent = 'व';
   if (nameEl)  nameEl.textContent = lang==='hi' ? 'वंदे मातृभूमि™' : 'Vande Matrabhoomi™';
   if (dateEl)  dateEl.textContent = (lang==='hi' ? s.dateHi : s.dateEn) + ' • ' + (CAT_DESK[lang][s.cat] || s.cat);
-  if (shareBtn) shareBtn.style.display = 'inline-block';
+  if (shareBtn) {
+    shareBtn.style.display = 'inline-block';
+    shareBtn.onclick = function(){ shareArticle(s.id, shareBtn); };
+  }
 
   if (contentEl) {
     var html = '';
@@ -2759,9 +2771,11 @@ function renderOpinion() {
     listEl.innerHTML = eds.length > 1
       ? eds.slice(1).map(function(st){
           return '<li class="sidebar-op-item">'
+            + '<a class="soi-link" href="/a/' + esc(String(st.id)) + '.html" target="_blank" rel="noopener">'
             + '<div class="soi-title">' + esc(st.hl) + '</div>'
             + '<div class="soi-author">' + esc(CAT_DESK[lang][st.cat] || st.cat)
             + ' • ' + esc(lang==='hi' ? st.dateHi : st.dateEn) + '</div>'
+            + '</a>'
             + '<span class="soi-share" onclick="shareArticle(\''+st.id+'\', this)">'
             + (lang==='hi' ? '🔗 साझा करें' : '🔗 Share') + '</span>'
             + '</li>';
@@ -3195,11 +3209,13 @@ function renderFeed() {
               + (lang==='hi' ? 'हटाएं' : 'Delete')+'</button>'
             : '')
       + '</div>'
-      + '<div class="story-hl">'+esc(s.hl)+'</div>'
+      + '<a class="story-hl" href="/a/'+esc(String(s.id))+'.html" target="_blank" rel="noopener">'+esc(s.hl)+'</a>'
       + (s.sum ? '<div class="story-sum">'+esc(s.sum)+'</div>' : '')
       + ((s.ptype === 'short' || s.ptype === 'news') && s.mediaUrl
           ? '<img class="story-thumb" src="'+esc(s.mediaUrl)+'" alt="" onerror="this.remove();">'
           : '')
+      + '<span class="soi-share" onclick="shareArticle(\''+s.id+'\', this)">'
+      + (lang==='hi' ? '🔗 साझा करें' : '🔗 Share') + '</span>'
     + '</div>';
   }).join('');
 }
