@@ -3107,15 +3107,49 @@ function loadStories() {
           dateEn: d.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
         };
       });
-      renderFeed();
-      renderOpinion();
-      renderEditorialTeaser();
-      renderVmBanner();
-      if (currentFeed === 'vmdesk') renderVmDesk();
-      else loadFeed(currentFeed); // pick up any manually-published "News" posts into the visible category tab
-      alignAdRail();
+      renderStoryViews();
+      hydratePendingPhotos();
     })
     .catch(function(){ renderFeed(); renderOpinion(); renderEditorialTeaser(); renderVmBanner(); alignAdRail(); });
+}
+
+function renderStoryViews() {
+  renderFeed();
+  renderOpinion();
+  renderEditorialTeaser();
+  renderVmBanner();
+  if (currentFeed === 'vmdesk') renderVmDesk();
+  else loadFeed(currentFeed); // pick up any manually-published "News" posts into the visible category tab
+  alignAdRail();
+}
+
+/* ── Pending-photo hydration ──────────────────────────
+   A freshly published story's photo exists only as base64 chunks in
+   the sheet until the GitHub Actions job bakes the real .jpg under
+   assets/livedesk/ -- and that job can lag well behind the cron when
+   GitHub load-sheds schedules. Rather than showing those stories
+   without images until then, fetch the pending chunks and display
+   the photo as a data: URI immediately; the next loadStories() after
+   the job runs swaps in the real hosted file transparently. */
+function hydratePendingPhotos() {
+  var waiting = stories.some(function(s){ return !s.mediaUrl; });
+  if (!waiting || !VM_LIVEDESK_URL) return;
+  fetch(VM_LIVEDESK_URL + '?type=media')
+    .then(function(r){ return r.json(); })
+    .then(function(list){
+      var byId = {};
+      (list || []).forEach(function(m){
+        if (m && m.id && m.chunks && m.chunks.length) {
+          byId[String(m.id)] = 'data:image/jpeg;base64,' + m.chunks.join('');
+        }
+      });
+      var changed = false;
+      stories.forEach(function(s){
+        if (!s.mediaUrl && byId[String(s.id)]) { s.mediaUrl = byId[String(s.id)]; changed = true; }
+      });
+      if (changed) renderStoryViews();
+    })
+    .catch(function(){}); // photos just arrive with the next workflow run instead
 }
 
 function renderEditorialTeaser() {
