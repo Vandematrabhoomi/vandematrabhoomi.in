@@ -225,10 +225,12 @@ function listStories_() {
     if (!r[0]) continue;
     var ts = r[1] instanceof Date ? r[1] : new Date(r[1]);
     // Rows published before the PostType column existed come back with an
-    // empty r[8] -- default those to 'short' (old VMShort sentinel) or
-    // 'editorial', same as the frontend's own fallback, so nothing already
-    // published gets miscategorised.
-    var ptype = r[8] || (r[3] === 'VMShort' ? 'short' : 'editorial');
+    // empty r[8] -- infer their type the same way the frontend does: VMShort
+    // sentinel means 'short', a lowercase news category key means the row was
+    // published via the News post type, everything else (capitalised
+    // editorial categories like Latest/Nation) is 'editorial'.
+    var newsCats = ['national', 'politics', 'world', 'sports', 'business', 'entertainment', 'lifestyle'];
+    var ptype = r[8] || (r[3] === 'VMShort' ? 'short' : (newsCats.indexOf(r[3]) !== -1 ? 'news' : 'editorial'));
     out.push({
       id: r[0], hl: r[2], cat: r[3], sum: r[4], body: r[5], mediaUrl: r[6], lang: r[7], ptype: ptype,
       pubDate: ts.toISOString(),
