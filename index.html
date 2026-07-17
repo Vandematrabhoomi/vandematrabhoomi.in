@@ -1148,13 +1148,13 @@
     }
 
     /* ── Participate CTA box ──────────────────────────
-       Anchored at fixed page coordinates (position: absolute) at the top
-       of the side gutter -- the same spot on every tab, and it never
-       moves: it scrolls away with the page like normal content instead
-       of following the reader down. z-index one above the rail so the
-       rail slides under it cleanly. ── */
+       Anchored at fixed page coordinates (position: absolute) in the
+       very top-right corner where the page starts -- the same spot on
+       every tab, and it never moves: it scrolls away with the page like
+       normal content instead of following the reader down. z-index one
+       above the rail so the rail slides under it cleanly. ── */
     .cta-box {
-      position: absolute; top: 120px; right: 18px; width: 160px; z-index: 51;
+      position: absolute; top: 10px; right: 18px; width: 160px; z-index: 51;
       background: linear-gradient(155deg, var(--red) 0%, var(--red-dark) 100%);
       border-radius: 6px;
       padding: 14px 12px 12px;
