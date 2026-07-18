@@ -2281,8 +2281,11 @@ function getCatItems(key) {
   }
   // 'top' (the homepage's default tab) shows every manually-published News
   // post regardless of its category, same as Prasar Bharati's top feed did;
-  // the category tabs each show just their own.
-  var manual = newsStories().filter(function(s){ return s.lang === lang && (key === 'top' || s.cat === key); });
+  // the category tabs each show just their own. Deliberately NOT filtered
+  // by the site's viewing language: a published News post must always be
+  // on the front page -- hiding Hindi posts from the English view (or vice
+  // versa) made news look like it never arrived.
+  var manual = newsStories().filter(function(s){ return key === 'top' || s.cat === key; });
   if (manual.length) {
     manual.forEach(function(s){
       raw.push({
@@ -3105,8 +3108,14 @@ function loadStories() {
     .then(function(list){
       stories = (list || []).map(function(s){
         var d = new Date(s.pubDate);
+        // Normalise what the sheet hands back: a stray space or case change
+        // in Category/PostType (e.g. a hand-edited cell) must never be able
+        // to reroute a story into the wrong section.
+        var cat = String(s.cat || '').trim();
+        var ptype = String(s.ptype || '').trim().toLowerCase();
+        if (ptype !== 'news' && ptype !== 'editorial' && ptype !== 'short') ptype = '';
         return {
-          id: s.id, hl: s.hl, cat: s.cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
+          id: s.id, hl: s.hl, cat: cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
           lang: s.lang || 'hi', articleUrl: s.articleUrl || '',
           // Backend may omit ptype (rows published before the PostType column,
           // or an older deployment that drops the field). Infer it from the
@@ -3114,8 +3123,10 @@ function loadStories() {
           // politics, ...) which editorials never do -- editorial categories
           // are capitalized (Latest, Nation, ...). This is what keeps News
           // posts out of the Opinion section even without backend support.
-          ptype: s.ptype || (s.cat === 'VMShort' ? 'short'
-                 : (NEWS_CATS.indexOf(s.cat) !== -1 ? 'news' : 'editorial')),
+          // NOTE: the category match must stay case-exact -- lowercase keys
+          // (politics) mean News, capitalised ones (Politics) mean editorial.
+          ptype: ptype || (cat === 'VMShort' ? 'short'
+                 : (NEWS_CATS.indexOf(cat) !== -1 ? 'news' : 'editorial')),
           pub: s.pubDate,
           dateHi: d.toLocaleDateString('hi-IN', { day:'numeric', month:'long', year:'numeric' }),
           dateEn: d.toLocaleDateString('en-IN', { day:'numeric', month:'long', year:'numeric' })
