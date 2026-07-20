@@ -1,9 +1,35 @@
 name: Update News
 
+# Live Desk photo + article-page processing.
+#
+# WHY THIS IS A LONG-LIVED LOOP, NOT A PLAIN CRON:
+# GitHub heavily throttles `schedule:` triggers on low-traffic repos --
+# in practice this job's old "7,27,47 * * * *" schedule was only being
+# delivered once every 2-4 hours, so a photo uploaded at 4pm could sit
+# unprocessed until 8-9pm. Instead of relying on the scheduler firing
+# often, ONE run now stays alive for ~5h50m and processes every 2
+# minutes. Combined with `concurrency.cancel-in-progress` below, the
+# schedule only has to fire ONCE every ~6 hours to keep exactly one
+# fresh loop alive -- comfortably within even the throttled cadence --
+# so processing is effectively continuous. A freshly uploaded photo
+# bakes into assets/livedesk/ and its share page is generated within a
+# couple of minutes, around the clock.
+#
+# The optional hand-off step at the end also re-dispatches a fresh run
+# immediately if the ACTIONS_DISPATCH_PAT secret is present; without
+# that secret it simply no-ops and the schedule + long run carry it.
+
 on:
   schedule:
-    - cron: '7,27,47 * * * *'
+    - cron: '*/30 * * * *'   # only needs to land once per ~6h to keep the loop alive
   workflow_dispatch: {}
+
+# Exactly one loop alive at a time. A new run (scheduled, manual, or the
+# optional hand-off) cleanly takes over from the previous one, so runs
+# never pile up even though each one is long-lived.
+concurrency:
+  group: news-processing-loop
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -11,6 +37,7 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 350   # ~5h50m, safely under the 6h job ceiling
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -20,28 +47,42 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Process Live Desk photos
-        run: python process_livedesk_media.py
-
-      - name: Generate shareable article pages
-        run: python generate_article_pages.py
-
-      - name: Commit and push if changed
+      - name: Process Live Desk photos + pages on a 2-minute loop
         run: |
           git config user.name "vm-news-bot"
           git config user.email "actions@github.com"
-          mkdir -p a assets/livedesk
-          git add news-data.js a/ assets/livedesk/
-          if git diff --cached --quiet; then
-            echo "No changes."
-          else
-            git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC')"
-            # A concurrent run may have pushed the same content already.
-            # Losing that race is fine - the site is fresh either way.
-            git pull --rebase origin main || {
-              git rebase --abort
-              echo "Remote already updated by a concurrent run - nothing to do."
-              exit 0
-            }
-            git push || echo "Push race lost - remote already updated."
+          # Loop for ~5h40m; the 350-minute job timeout leaves headroom for
+          # the hand-off step below.
+          end=$(( $(date +%s) + 20400 ))
+          while [ "$(date +%s)" -lt "$end" ]; do
+            python process_livedesk_media.py || echo "media step failed this cycle; continuing"
+            python generate_article_pages.py || echo "pages step failed this cycle; continuing"
+            mkdir -p a assets/livedesk
+            git add news-data.js a/ assets/livedesk/
+            if git diff --cached --quiet; then
+              :
+            else
+              git commit -m "news update $(date -u '+%Y-%m-%d %H:%M UTC')"
+              # Another run may have pushed already during a hand-off overlap;
+              # losing that race is fine -- the site is fresh either way.
+              git pull --rebase origin main || git rebase --abort
+              git push || echo "push race lost - remote already updated"
+            fi
+            sleep 120
+          done
+
+      - name: Optional hand-off to a fresh run
+        if: always()
+        env:
+          GH_PAT: ${{ secrets.ACTIONS_DISPATCH_PAT }}
+        run: |
+          if [ -z "$GH_PAT" ]; then
+            echo "No ACTIONS_DISPATCH_PAT secret -- the schedule + long run keep the loop alive."
+            exit 0
           fi
+          curl -s -o /dev/null -w "hand-off dispatch -> HTTP %{http_code}\n" \
+            -X POST \
+            -H "Authorization: token $GH_PAT" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/update-news.yml/dispatches" \
+            -d '{"ref":"main"}'
