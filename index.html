@@ -2392,7 +2392,13 @@ function setUpdatedBar(ts, sources) {
   el.style.color = '';
 }
 
-/* ── Auto-reload news-data.js every 15 min ──────────── */
+/* ── Auto-reload news + Live Desk stories every 2 min ─────
+   Kept short so an already-open page (e.g. the editor's or a reader's
+   tab left open) picks up a freshly-published story and its photo
+   within ~2 minutes, instead of sitting stale for a quarter hour.
+   loadStories() also re-runs the pending-photo hydration, so a photo
+   still waiting on the GitHub Actions bake shows up straight from the
+   sheet on the next tick. */
 var _lastGenerated = window.VM_NEWS ? window.VM_NEWS.generated : null;
 function checkForUpdates() {
   var s = document.createElement('script');
@@ -2407,9 +2413,9 @@ function checkForUpdates() {
   };
   s.onerror = function() { try { document.head.removeChild(s); } catch(e) {} };
   document.head.appendChild(s);
-  loadStories();   // also refresh Live Desk stories + VM Desk banner
+  loadStories();   // also refresh Live Desk stories + VM Desk banner (+ hydrate pending photos)
 }
-setInterval(checkForUpdates, 15 * 60 * 1000);
+setInterval(checkForUpdates, 2 * 60 * 1000);
 
 
 
