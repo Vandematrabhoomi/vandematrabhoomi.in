@@ -165,11 +165,23 @@ CAT_LABELS = {
 }
 
 
+CDN_BASE = "https://cdn.jsdelivr.net/gh/Vandematrabhoomi/vandematrabhoomi.in@main"
+
+
+def cdn_media(url):
+    """Serve Live Desk photos from the jsDelivr CDN instead of the site's own
+    domain. GitHub Pages can take hours to redeploy a freshly committed image,
+    so a share link opened right after publishing would otherwise show a broken
+    hero / social preview; jsDelivr mirrors the repo within minutes."""
+    m = re.search(r"/assets/livedesk/([^/?#]+)$", url or "")
+    return f"{CDN_BASE}/assets/livedesk/{m.group(1)}" if m else url
+
+
 def build_html(story):
     lang = "en" if story.get("lang") == "en" else "hi"
     story_id = story["id"]
     url = f"{SITE_URL}/a/{story_id}.html"
-    image = story.get("mediaUrl") or f"{SITE_URL}/assets/vande-logo.png"
+    image = cdn_media(story.get("mediaUrl")) or f"{SITE_URL}/assets/vande-logo.png"
     desc = re.sub(r"\s+", " ", (story.get("sum") or story.get("body") or "")).strip()[:200]
     body_paragraphs = [p.strip() for p in re.split(r"\n\n+", story.get("body") or "") if p.strip()]
     body_html = "\n".join(f"<p>{esc(p)}</p>" for p in body_paragraphs)
@@ -236,8 +248,11 @@ def run():
             media = story.get("mediaUrl") or ""
             if not media:
                 continue
+            # The page embeds the CDN-rewritten URL, so compare against that
+            # (comparing the raw own-domain URL would never match and would
+            # regenerate every single page on every run).
             with open(path, encoding="utf-8") as f:
-                if media in f.read():
+                if cdn_media(media) in f.read():
                     continue
             print(f"  photo arrived for {story['id']} — regenerating its page")
         if not story.get("mediaUrl"):

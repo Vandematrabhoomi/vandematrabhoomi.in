@@ -2153,6 +2153,48 @@ var lang         = 'hi';
 var VM_SUBSCRIBE_URL = 'https://script.google.com/macros/s/AKfycbw_UDz41q9C-qnNwkZ5YUnmliSr08i1daJSvvaPi7aXnaH6TQMK-iTwwfQAfAtEZt52/exec';
 var VM_LIVEDESK_URL  = VM_SUBSCRIBE_URL; // same Apps Script deployment, routed by "type"
 
+/* ── Live Desk photo delivery via CDN ────────────────────────────────
+   Live Desk photos are committed to the repo within ~2 min of upload, but
+   GitHub Pages only rebuilds the *served* site every so often (it soft-caps
+   Pages builds to a handful per hour), so on busy days a freshly committed
+   /assets/livedesk/<id>.jpg can sit undeployed -- and therefore 404 on the
+   live domain -- for hours even though the file already exists in the repo.
+   jsDelivr mirrors the repo's main branch on a global CDN within a couple of
+   minutes of each commit, so we serve those photos from there and stop
+   depending on the Pages deploy queue. `ldSrc` only reroutes our own Live
+   Desk files; data: URIs (pending base64) and external images pass through
+   untouched, and it is idempotent (a CDN URL maps back to itself). If the CDN
+   copy ever lags, `ldFallback` drops the <img> back to the site's own hosted
+   file. */
+var LD_CDN = 'https://cdn.jsdelivr.net/gh/Vandematrabhoomi/vandematrabhoomi.in@main';
+var LD_OWN = 'https://vandematrabhoomi.in';
+function ldFile(url) {
+  var m = String(url || '').match(/\/assets\/livedesk\/([^\/?#]+)$/);
+  return m ? m[1] : '';
+}
+function ldSrc(url) {
+  var f = ldFile(url);
+  return f ? LD_CDN + '/assets/livedesk/' + f : String(url || '');
+}
+function ldGiveUp(img) {
+  // Graceful final state: turn an Opinion hero box into its placeholder,
+  // otherwise just drop the broken <img>.
+  var p = img.parentNode;
+  if (p && /op-img-box/.test(p.className || '')) { p.className = 'op-img-box ph'; }
+  img.remove();
+}
+function ldFallback(img) {
+  var f = ldFile(img.src);
+  // Only fall back for a CDN-served Live Desk photo; try the site's own copy
+  // once, then give up quietly so we never loop.
+  if (f && img.src.indexOf('jsdelivr') !== -1) {
+    img.onerror = function(){ ldGiveUp(img); };
+    img.src = LD_OWN + '/assets/livedesk/' + f;
+  } else {
+    ldGiveUp(img);
+  }
+}
+
 /* ── Category labels ─────────────────────────────── */
 var CAT_HI = { top:'प्रमुख समाचार', national:'राष्ट्रीय', politics:'राजनीति', world:'अंतरराष्ट्रीय', sports:'खेल', business:'व्यापार', entertainment:'मनोरंजन', lifestyle:'जीवनशैली', vmdesk:'VM डेस्क' };
 var CAT_EN = { top:'Top News', national:'National', politics:'Politics', world:'World', sports:'Sports', business:'Business', entertainment:'Entertainment', lifestyle:'Lifestyle', vmdesk:'VM Desk' };
@@ -2763,7 +2805,7 @@ function renderOpinion() {
     if (s.mediaUrl) {
       html += '<figure><div class="op-img-box"><img src="' + esc(s.mediaUrl) + '" alt="" '
         + 'style="width:100%;height:100%;object-fit:cover;" '
-        + 'onerror="this.parentNode.className=\'op-img-box ph\';this.remove();"></div></figure>';
+        + 'onerror="ldFallback(this)"></div></figure>';
     }
     if (s.body) {
       var paras = s.body.split(/\n\n+/).map(function(p){ return p.trim(); }).filter(Boolean);
@@ -3123,7 +3165,7 @@ function loadStories() {
         var ptype = String(s.ptype || '').trim().toLowerCase();
         if (ptype !== 'news' && ptype !== 'editorial' && ptype !== 'short') ptype = '';
         return {
-          id: s.id, hl: s.hl, cat: cat, sum: s.sum, body: s.body, mediaUrl: s.mediaUrl || '',
+          id: s.id, hl: s.hl, cat: cat, sum: s.sum, body: s.body, mediaUrl: ldSrc(s.mediaUrl),
           lang: s.lang || 'hi', articleUrl: s.articleUrl || '',
           // Backend may omit ptype (rows published before the PostType column,
           // or an older deployment that drops the field). Infer it from the
@@ -3195,6 +3237,7 @@ function renderEditorialTeaser() {
   var excSrc = (s.sum || s.body || '').replace(/\s+/g, ' ').trim();
   document.getElementById('et-exc').textContent = excSrc.length > 140 ? excSrc.slice(0, 140) + '…' : excSrc;
   var thumb = document.getElementById('et-thumb');
+  thumb.onerror = function(){ ldFallback(thumb); };
   if (s.mediaUrl) { thumb.src = s.mediaUrl; thumb.style.display = 'block'; }
   else { thumb.style.display = 'none'; }
   box.style.display = 'flex';
@@ -3231,7 +3274,7 @@ function renderFeed() {
       + '<a class="story-hl" href="/a/'+esc(String(s.id))+'.html" target="_blank" rel="noopener">'+esc(s.hl)+'</a>'
       + (s.sum ? '<div class="story-sum">'+esc(s.sum)+'</div>' : '')
       + ((s.ptype === 'short' || s.ptype === 'news') && s.mediaUrl
-          ? '<img class="story-thumb" src="'+esc(s.mediaUrl)+'" alt="" onerror="this.remove();">'
+          ? '<img class="story-thumb" src="'+esc(s.mediaUrl)+'" alt="" onerror="ldFallback(this)">'
           : '')
       + '<span class="soi-share" onclick="shareArticle(\''+s.id+'\', this)">'
       + (lang==='hi' ? '🔗 साझा करें' : '🔗 Share') + '</span>'
@@ -3288,7 +3331,7 @@ function openVmShort() {
   document.getElementById('vms-date').textContent = lang==='hi' ? s.dateHi : s.dateEn;
   document.getElementById('vms-hl').textContent = s.hl;
   var img = document.getElementById('vms-img');
-  img.onerror = function(){ img.style.display = 'none'; };
+  img.onerror = function(){ ldFallback(img); };
   if (s.mediaUrl) { img.src = s.mediaUrl; img.style.display = 'block'; }
   else { img.style.display = 'none'; }
   document.getElementById('vms-body').textContent = s.body || s.sum || '';
